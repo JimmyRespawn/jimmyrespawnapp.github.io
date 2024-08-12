@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>JimmyRespawn – Guide</title>
-    <link>https://test.linjimi.com/docs/guide/</link>
+    <link>https://app.linjimi.com/docs/guide/</link>
     <description>Recent content in Guide on JimmyRespawn</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-	  <atom:link href="https://test.linjimi.com/docs/guide/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://app.linjimi.com/docs/guide/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -16,10 +16,10 @@
     
     <item>
       <title>Organize Files</title>
-      <link>https://test.linjimi.com/docs/guide/organize-files/</link>
+      <link>https://app.linjimi.com/docs/guide/organize-files/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://test.linjimi.com/docs/guide/organize-files/</guid>
+      <guid>https://app.linjimi.com/docs/guide/organize-files/</guid>
       <description>
         
         
@@ -525,10 +525,10 @@ For example, add an image file &lt;code&gt;image.png&lt;/code&gt; alongside the 
     
     <item>
       <title>سازماندهی پرونده‌ها</title>
-      <link>https://test.linjimi.com/docs/guide/organize-files.fa/</link>
+      <link>https://app.linjimi.com/docs/guide/organize-files.fa/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://test.linjimi.com/docs/guide/organize-files.fa/</guid>
+      <guid>https://app.linjimi.com/docs/guide/organize-files.fa/</guid>
       <description>
         
         
@@ -958,10 +958,10 @@ For example, add an image file &lt;code&gt;image.png&lt;/code&gt; alongside the 
     
     <item>
       <title>Configuration</title>
-      <link>https://test.linjimi.com/docs/guide/configuration/</link>
+      <link>https://app.linjimi.com/docs/guide/configuration/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://test.linjimi.com/docs/guide/configuration/</guid>
+      <guid>https://app.linjimi.com/docs/guide/configuration/</guid>
       <description>
         
         
@@ -1113,7 +1113,7 @@ Optionally, you can change the link that users are redirected to when clicking o
 &lt;h2&gt;Sidebar&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;sidebar&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#sidebar&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Main Sidebar&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;main-sidebar&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#main-sidebar&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;For the main sidebar, it is automatically generated from the structure of the content directory.
-See the &lt;a href=&#34;https://test.linjimi.com/docs/guide/organize-files&#34; &gt;Organize Files&lt;/a&gt; page for more details.&lt;/p&gt;
+See the &lt;a href=&#34;https://app.linjimi.com/docs/guide/organize-files&#34; &gt;Organize Files&lt;/a&gt; page for more details.&lt;/p&gt;
 &lt;p&gt;To exclude a single page from the left sidebar, set the &lt;code&gt;sidebar.exclude&lt;/code&gt; parameter in the front matter of the page:&lt;/p&gt;
 &lt;div class=&#34;hextra-code-block hx-relative hx-mt-6 first:hx-mt-0 hx-group/code&#34;&gt;
   
@@ -1465,10 +1465,10 @@ To customize the search index, set the &lt;code&gt;params.search.flexsearch.inde
     
     <item>
       <title>Markdown</title>
-      <link>https://test.linjimi.com/docs/guide/markdown/</link>
+      <link>https://app.linjimi.com/docs/guide/markdown/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://test.linjimi.com/docs/guide/markdown/</guid>
+      <guid>https://app.linjimi.com/docs/guide/markdown/</guid>
       <description>
         
         
@@ -1648,10 +1648,10 @@ Below is the default configuration for Hextra:&lt;/p&gt;
     
     <item>
       <title>پیکربندی</title>
-      <link>https://test.linjimi.com/docs/guide/configuration.fa/</link>
+      <link>https://app.linjimi.com/docs/guide/configuration.fa/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://test.linjimi.com/docs/guide/configuration.fa/</guid>
+      <guid>https://app.linjimi.com/docs/guide/configuration.fa/</guid>
       <description>
         
         
@@ -1803,7 +1803,7 @@ Below is the default configuration for Hextra:&lt;/p&gt;
 &lt;h2&gt;نوار کناری&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;نوار-کناری&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#%d9%86%d9%88%d8%a7%d8%b1-%da%a9%d9%86%d8%a7%d8%b1%db%8c&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;نوار کناری اصلی&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;نوار-کناری-اصلی&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#%d9%86%d9%88%d8%a7%d8%b1-%da%a9%d9%86%d8%a7%d8%b1%db%8c-%d8%a7%d8%b5%d9%84%db%8c&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;برای نوار کناری اصلی، به طور خودکار از ساختار دایرکتوری محتوا تولید می‌شود.
-برای جزئیات بیشتر به صفحه &lt;a href=&#34;https://test.linjimi.com/fa/docs/guide/organize-files&#34; &gt;سازماندهی پرونده‌ها&lt;/a&gt; مراجعه کنید.&lt;/p&gt;
+برای جزئیات بیشتر به صفحه &lt;a href=&#34;https://app.linjimi.com/fa/docs/guide/organize-files&#34; &gt;سازماندهی پرونده‌ها&lt;/a&gt; مراجعه کنید.&lt;/p&gt;
 &lt;p&gt;برای حذف یک صفحه از نوار کناری سمت راست، پارامتر&lt;code&gt;sidebar.exclude&lt;/code&gt; را در قسمت بالایی صفحه تنظیم کنید:&lt;/p&gt;
 &lt;div class=&#34;hextra-code-block hx-relative hx-mt-6 first:hx-mt-0 hx-group/code&#34;&gt;
   
@@ -2128,10 +2128,10 @@ Below is the default configuration for Hextra:&lt;/p&gt;
     
     <item>
       <title>راهنما</title>
-      <link>https://test.linjimi.com/docs/guide/_index.fa/</link>
+      <link>https://app.linjimi.com/docs/guide/_index.fa/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://test.linjimi.com/docs/guide/_index.fa/</guid>
+      <guid>https://app.linjimi.com/docs/guide/_index.fa/</guid>
       <description>
         
         
@@ -2167,10 +2167,10 @@ Below is the default configuration for Hextra:&lt;/p&gt;
     
     <item>
       <title>مارک‌داون</title>
-      <link>https://test.linjimi.com/docs/guide/markdown.fa/</link>
+      <link>https://app.linjimi.com/docs/guide/markdown.fa/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://test.linjimi.com/docs/guide/markdown.fa/</guid>
+      <guid>https://app.linjimi.com/docs/guide/markdown.fa/</guid>
       <description>
         
         
@@ -2350,10 +2350,10 @@ Below is the default configuration for Hextra:&lt;/p&gt;
     
     <item>
       <title>Syntax Highlighting</title>
-      <link>https://test.linjimi.com/docs/guide/syntax-highlighting/</link>
+      <link>https://app.linjimi.com/docs/guide/syntax-highlighting/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://test.linjimi.com/docs/guide/syntax-highlighting/</guid>
+      <guid>https://app.linjimi.com/docs/guide/syntax-highlighting/</guid>
       <description>
         
         
@@ -2569,10 +2569,10 @@ It is recommended to use backticks for code blocks in Markdown content. For exam
     
     <item>
       <title>برجسته‌کردن سینتکس</title>
-      <link>https://test.linjimi.com/docs/guide/syntax-highlighting.fa/</link>
+      <link>https://app.linjimi.com/docs/guide/syntax-highlighting.fa/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://test.linjimi.com/docs/guide/syntax-highlighting.fa/</guid>
+      <guid>https://app.linjimi.com/docs/guide/syntax-highlighting.fa/</guid>
       <description>
         
         
@@ -2756,10 +2756,10 @@ It is recommended to use backticks for code blocks in Markdown content. For exam
     
     <item>
       <title>LaTeX</title>
-      <link>https://test.linjimi.com/docs/guide/latex.fa/</link>
+      <link>https://app.linjimi.com/docs/guide/latex.fa/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://test.linjimi.com/docs/guide/latex.fa/</guid>
+      <guid>https://app.linjimi.com/docs/guide/latex.fa/</guid>
       <description>
         
         
@@ -2847,10 +2847,10 @@ It is recommended to use backticks for code blocks in Markdown content. For exam
     
     <item>
       <title>LaTeX</title>
-      <link>https://test.linjimi.com/docs/guide/latex/</link>
+      <link>https://app.linjimi.com/docs/guide/latex/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://test.linjimi.com/docs/guide/latex/</guid>
+      <guid>https://app.linjimi.com/docs/guide/latex/</guid>
       <description>
         
         
@@ -2938,10 +2938,10 @@ It is recommended to use backticks for code blocks in Markdown content. For exam
     
     <item>
       <title>Diagrams</title>
-      <link>https://test.linjimi.com/docs/guide/diagrams/</link>
+      <link>https://app.linjimi.com/docs/guide/diagrams/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://test.linjimi.com/docs/guide/diagrams/</guid>
+      <guid>https://app.linjimi.com/docs/guide/diagrams/</guid>
       <description>
         
         
@@ -2992,10 +2992,10 @@ It is recommended to use backticks for code blocks in Markdown content. For exam
     
     <item>
       <title>نمودارها</title>
-      <link>https://test.linjimi.com/docs/guide/diagrams.fa/</link>
+      <link>https://app.linjimi.com/docs/guide/diagrams.fa/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://test.linjimi.com/docs/guide/diagrams.fa/</guid>
+      <guid>https://app.linjimi.com/docs/guide/diagrams.fa/</guid>
       <description>
         
         
@@ -3046,10 +3046,10 @@ It is recommended to use backticks for code blocks in Markdown content. For exam
     
     <item>
       <title>Shortcodes</title>
-      <link>https://test.linjimi.com/docs/guide/shortcodes/</link>
+      <link>https://app.linjimi.com/docs/guide/shortcodes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://test.linjimi.com/docs/guide/shortcodes/</guid>
+      <guid>https://app.linjimi.com/docs/guide/shortcodes/</guid>
       <description>
         
         
@@ -3085,10 +3085,10 @@ It is recommended to use backticks for code blocks in Markdown content. For exam
     
     <item>
       <title>Deploy Site</title>
-      <link>https://test.linjimi.com/docs/guide/deploy-site/</link>
+      <link>https://app.linjimi.com/docs/guide/deploy-site/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://test.linjimi.com/docs/guide/deploy-site/</guid>
+      <guid>https://app.linjimi.com/docs/guide/deploy-site/</guid>
       <description>
         
         
@@ -3315,10 +3315,10 @@ This page provides guides for deploying your Hextra site on various platforms.&l
     
     <item>
       <title>به‌کاراندازی سایت</title>
-      <link>https://test.linjimi.com/docs/guide/deploy-site.fa/</link>
+      <link>https://app.linjimi.com/docs/guide/deploy-site.fa/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://test.linjimi.com/docs/guide/deploy-site.fa/</guid>
+      <guid>https://app.linjimi.com/docs/guide/deploy-site.fa/</guid>
       <description>
         
         

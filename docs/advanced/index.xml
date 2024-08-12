@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>JimmyRespawn – Advanced Topics</title>
-    <link>https://test.linjimi.com/docs/advanced/</link>
+    <link>https://app.linjimi.com/docs/advanced/</link>
     <description>Recent content in Advanced Topics on JimmyRespawn</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-	  <atom:link href="https://test.linjimi.com/docs/advanced/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://app.linjimi.com/docs/advanced/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -16,10 +16,10 @@
     
     <item>
       <title>Multi-language</title>
-      <link>https://test.linjimi.com/docs/advanced/multi-language/</link>
+      <link>https://app.linjimi.com/docs/advanced/multi-language/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://test.linjimi.com/docs/advanced/multi-language/</guid>
+      <guid>https://app.linjimi.com/docs/advanced/multi-language/</guid>
       <description>
         
         
@@ -170,10 +170,10 @@
     
     <item>
       <title>چند زبانه</title>
-      <link>https://test.linjimi.com/docs/advanced/multi-language.fa/</link>
+      <link>https://app.linjimi.com/docs/advanced/multi-language.fa/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://test.linjimi.com/docs/advanced/multi-language.fa/</guid>
+      <guid>https://app.linjimi.com/docs/advanced/multi-language.fa/</guid>
       <description>
         
         
@@ -324,10 +324,10 @@
     
     <item>
       <title>Comments System</title>
-      <link>https://test.linjimi.com/docs/advanced/comments/</link>
+      <link>https://app.linjimi.com/docs/advanced/comments/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://test.linjimi.com/docs/advanced/comments/</guid>
+      <guid>https://app.linjimi.com/docs/advanced/comments/</guid>
       <description>
         
         
@@ -385,10 +385,10 @@ Currently &lt;a href=&#34;https://giscus.app/&#34; target=&#34;_blank&#34; rel=&
     
     <item>
       <title>Customizing Hextra</title>
-      <link>https://test.linjimi.com/docs/advanced/customization/</link>
+      <link>https://app.linjimi.com/docs/advanced/customization/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://test.linjimi.com/docs/advanced/customization/</guid>
+      <guid>https://app.linjimi.com/docs/advanced/customization/</guid>
       <description>
         
         
@@ -500,10 +500,10 @@ For example, to override the &lt;code&gt;single.html&lt;/code&gt; layout for doc
     
     <item>
       <title>موضوعات پیشرفته</title>
-      <link>https://test.linjimi.com/docs/advanced/_index.fa/</link>
+      <link>https://app.linjimi.com/docs/advanced/_index.fa/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://test.linjimi.com/docs/advanced/_index.fa/</guid>
+      <guid>https://app.linjimi.com/docs/advanced/_index.fa/</guid>
       <description>
         
         
@@ -524,10 +524,10 @@ For example, to override the &lt;code&gt;single.html&lt;/code&gt; layout for doc
     
     <item>
       <title>سفارشی‌سازی هگزترا</title>
-      <link>https://test.linjimi.com/docs/advanced/customization.fa/</link>
+      <link>https://app.linjimi.com/docs/advanced/customization.fa/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://test.linjimi.com/docs/advanced/customization.fa/</guid>
+      <guid>https://app.linjimi.com/docs/advanced/customization.fa/</guid>
       <description>
         
         
@@ -639,10 +639,10 @@ For example, to override the &lt;code&gt;single.html&lt;/code&gt; layout for doc
     
     <item>
       <title>سیستم نظردهی</title>
-      <link>https://test.linjimi.com/docs/advanced/comments.fa/</link>
+      <link>https://app.linjimi.com/docs/advanced/comments.fa/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://test.linjimi.com/docs/advanced/comments.fa/</guid>
+      <guid>https://app.linjimi.com/docs/advanced/comments.fa/</guid>
       <description>
         
         
