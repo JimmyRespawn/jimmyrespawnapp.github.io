@@ -41,15 +41,6 @@
                 href="https://app.linjimi.com/docs/guide/organize-files/"
                 />
   </url><url>
-    <loc>https://app.linjimi.com/docs/advanced/multi-language.fa/</loc>
-    <lastmod>2024-08-12T01:29:27+08:00</lastmod>
-  </url><url>
-    <loc>https://app.linjimi.com/docs/guide/organize-files.fa/</loc>
-    <lastmod>2024-08-12T01:29:27+08:00</lastmod>
-  </url><url>
-    <loc>https://app.linjimi.com/docs/getting-started.fa/</loc>
-    <lastmod>2024-08-12T01:29:27+08:00</lastmod>
-  </url><url>
     <loc>https://app.linjimi.com/docs/guide/configuration/</loc>
     <lastmod>2024-08-12T01:29:27+08:00</lastmod>
     <xhtml:link
@@ -89,15 +80,6 @@
                 href="https://app.linjimi.com/docs/guide/markdown/"
                 />
   </url><url>
-    <loc>https://app.linjimi.com/docs/guide/configuration.fa/</loc>
-    <lastmod>2024-08-12T01:29:27+08:00</lastmod>
-  </url><url>
-    <loc>https://app.linjimi.com/docs/guide/_index.fa/</loc>
-    <lastmod>2024-08-12T01:29:27+08:00</lastmod>
-  </url><url>
-    <loc>https://app.linjimi.com/docs/guide/markdown.fa/</loc>
-    <lastmod>2024-08-12T01:29:27+08:00</lastmod>
-  </url><url>
     <loc>https://app.linjimi.com/docs/guide/syntax-highlighting/</loc>
     <lastmod>2024-08-12T01:29:27+08:00</lastmod>
     <xhtml:link
@@ -110,12 +92,6 @@
                 hreflang="en"
                 href="https://app.linjimi.com/docs/guide/syntax-highlighting/"
                 />
-  </url><url>
-    <loc>https://app.linjimi.com/docs/guide/syntax-highlighting.fa/</loc>
-    <lastmod>2024-08-12T01:29:27+08:00</lastmod>
-  </url><url>
-    <loc>https://app.linjimi.com/docs/guide/latex.fa/</loc>
-    <lastmod>2024-08-12T01:29:27+08:00</lastmod>
   </url><url>
     <loc>https://app.linjimi.com/docs/guide/latex/</loc>
     <lastmod>2024-08-12T01:29:27+08:00</lastmod>
@@ -143,9 +119,6 @@
                 href="https://app.linjimi.com/docs/guide/diagrams/"
                 />
   </url><url>
-    <loc>https://app.linjimi.com/docs/guide/diagrams.fa/</loc>
-    <lastmod>2024-08-12T01:29:27+08:00</lastmod>
-  </url><url>
     <loc>https://app.linjimi.com/docs/guide/shortcodes/</loc>
     <lastmod>2024-08-12T01:29:27+08:00</lastmod>
     <xhtml:link
@@ -159,9 +132,6 @@
                 href="https://app.linjimi.com/docs/guide/shortcodes/"
                 />
   </url><url>
-    <loc>https://app.linjimi.com/docs/guide/shortcodes/_index.fa/</loc>
-    <lastmod>2024-08-12T01:29:27+08:00</lastmod>
-  </url><url>
     <loc>https://app.linjimi.com/tags/blog/</loc>
     <lastmod>2024-08-12T01:29:27+08:00</lastmod>
   </url><url>
@@ -170,16 +140,6 @@
   </url><url>
     <loc>https://app.linjimi.com/blog/markdown/</loc>
     <lastmod>2024-08-12T01:29:27+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-CN"
-                href="https://app.linjimi.com/zh-cn/blog/markdown/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://app.linjimi.com/blog/markdown/"
-                />
   </url><url>
     <loc>https://app.linjimi.com/tags/news/</loc>
     <lastmod>2024-08-12T01:29:27+08:00</lastmod>
@@ -401,9 +361,6 @@
                 href="https://app.linjimi.com/docs/"
                 />
   </url><url>
-    <loc>https://app.linjimi.com/docs/guide/shortcodes/filetree.fa/</loc>
-    <lastmod>2024-08-12T01:29:27+08:00</lastmod>
-  </url><url>
     <loc>https://app.linjimi.com/docs/guide/shortcodes/filetree/</loc>
     <lastmod>2024-08-12T01:29:27+08:00</lastmod>
     <xhtml:link
@@ -481,38 +438,5 @@
                 hreflang="en"
                 href="https://app.linjimi.com/docs/guide/shortcodes/tabs/"
                 />
-  </url><url>
-    <loc>https://app.linjimi.com/docs/guide/shortcodes/icon.fa/</loc>
-    <lastmod>2024-08-12T01:29:27+08:00</lastmod>
-  </url><url>
-    <loc>https://app.linjimi.com/docs/guide/deploy-site.fa/</loc>
-    <lastmod>2024-08-12T01:29:27+08:00</lastmod>
-  </url><url>
-    <loc>https://app.linjimi.com/docs/advanced/_index.fa/</loc>
-    <lastmod>2024-08-12T01:29:27+08:00</lastmod>
-  </url><url>
-    <loc>https://app.linjimi.com/docs/guide/shortcodes/details.fa/</loc>
-    <lastmod>2024-08-12T01:29:27+08:00</lastmod>
-  </url><url>
-    <loc>https://app.linjimi.com/docs/guide/shortcodes/tabs.fa/</loc>
-    <lastmod>2024-08-12T01:29:27+08:00</lastmod>
-  </url><url>
-    <loc>https://app.linjimi.com/docs/advanced/customization.fa/</loc>
-    <lastmod>2024-08-12T01:29:27+08:00</lastmod>
-  </url><url>
-    <loc>https://app.linjimi.com/docs/guide/shortcodes/callout.fa/</loc>
-    <lastmod>2024-08-12T01:29:27+08:00</lastmod>
-  </url><url>
-    <loc>https://app.linjimi.com/docs/guide/shortcodes/cards.fa/</loc>
-    <lastmod>2024-08-12T01:29:27+08:00</lastmod>
-  </url><url>
-    <loc>https://app.linjimi.com/docs/guide/shortcodes/steps.fa/</loc>
-    <lastmod>2024-08-12T01:29:27+08:00</lastmod>
-  </url><url>
-    <loc>https://app.linjimi.com/docs/_index.fa/</loc>
-    <lastmod>2024-08-12T01:29:27+08:00</lastmod>
-  </url><url>
-    <loc>https://app.linjimi.com/docs/advanced/comments.fa/</loc>
-    <lastmod>2024-08-12T01:29:27+08:00</lastmod>
   </url>
 </urlset>
