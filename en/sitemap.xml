@@ -2,135 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://app.linjimi.com/docs/getting-started/</loc>
-    <lastmod>2024-08-12T01:29:27+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-CN"
-                href="https://app.linjimi.com/zh-cn/docs/getting-started/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://app.linjimi.com/docs/getting-started/"
-                />
+    <loc>https://app.linjimi.com/docs/iptv/get-started/</loc>
   </url><url>
-    <loc>https://app.linjimi.com/docs/advanced/multi-language/</loc>
-    <lastmod>2024-08-12T01:29:27+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-CN"
-                href="https://app.linjimi.com/zh-cn/docs/advanced/multi-language/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://app.linjimi.com/docs/advanced/multi-language/"
-                />
+    <loc>https://app.linjimi.com/docs/iptv/configurations/</loc>
   </url><url>
-    <loc>https://app.linjimi.com/docs/guide/organize-files/</loc>
-    <lastmod>2024-08-12T01:29:27+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-CN"
-                href="https://app.linjimi.com/zh-cn/docs/guide/organize-files/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://app.linjimi.com/docs/guide/organize-files/"
-                />
+    <loc>https://app.linjimi.com/docs/iptv/iptvplus/</loc>
   </url><url>
-    <loc>https://app.linjimi.com/docs/guide/configuration/</loc>
-    <lastmod>2024-08-12T01:29:27+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-CN"
-                href="https://app.linjimi.com/zh-cn/docs/guide/configuration/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://app.linjimi.com/docs/guide/configuration/"
-                />
-  </url><url>
-    <loc>https://app.linjimi.com/docs/guide/</loc>
-    <lastmod>2024-08-12T01:29:27+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-CN"
-                href="https://app.linjimi.com/zh-cn/docs/guide/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://app.linjimi.com/docs/guide/"
-                />
-  </url><url>
-    <loc>https://app.linjimi.com/docs/guide/markdown/</loc>
-    <lastmod>2024-08-12T01:29:27+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-CN"
-                href="https://app.linjimi.com/zh-cn/docs/guide/markdown/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://app.linjimi.com/docs/guide/markdown/"
-                />
-  </url><url>
-    <loc>https://app.linjimi.com/docs/guide/syntax-highlighting/</loc>
-    <lastmod>2024-08-12T01:29:27+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-CN"
-                href="https://app.linjimi.com/zh-cn/docs/guide/syntax-highlighting/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://app.linjimi.com/docs/guide/syntax-highlighting/"
-                />
-  </url><url>
-    <loc>https://app.linjimi.com/docs/guide/latex/</loc>
-    <lastmod>2024-08-12T01:29:27+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-CN"
-                href="https://app.linjimi.com/zh-cn/docs/guide/latex/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://app.linjimi.com/docs/guide/latex/"
-                />
-  </url><url>
-    <loc>https://app.linjimi.com/docs/guide/diagrams/</loc>
-    <lastmod>2024-08-12T01:29:27+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-CN"
-                href="https://app.linjimi.com/zh-cn/docs/guide/diagrams/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://app.linjimi.com/docs/guide/diagrams/"
-                />
-  </url><url>
-    <loc>https://app.linjimi.com/docs/guide/shortcodes/</loc>
-    <lastmod>2024-08-12T01:29:27+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-CN"
-                href="https://app.linjimi.com/zh-cn/docs/guide/shortcodes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://app.linjimi.com/docs/guide/shortcodes/"
-                />
+    <loc>https://app.linjimi.com/docs/iptv/updatelog/</loc>
   </url><url>
     <loc>https://app.linjimi.com/tags/blog/</loc>
     <lastmod>2024-08-12T01:29:27+08:00</lastmod>
@@ -232,19 +110,6 @@
                 href="https://app.linjimi.com/about/"
                 />
   </url><url>
-    <loc>https://app.linjimi.com/docs/advanced/</loc>
-    <lastmod>2024-08-12T01:29:27+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-CN"
-                href="https://app.linjimi.com/zh-cn/docs/advanced/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://app.linjimi.com/docs/advanced/"
-                />
-  </url><url>
     <loc>https://app.linjimi.com/blog/</loc>
     <lastmod>2024-08-12T01:29:27+08:00</lastmod>
     <xhtml:link
@@ -258,32 +123,6 @@
                 href="https://app.linjimi.com/blog/"
                 />
   </url><url>
-    <loc>https://app.linjimi.com/docs/guide/shortcodes/callout/</loc>
-    <lastmod>2024-08-12T01:29:27+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-CN"
-                href="https://app.linjimi.com/zh-cn/docs/guide/shortcodes/callout/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://app.linjimi.com/docs/guide/shortcodes/callout/"
-                />
-  </url><url>
-    <loc>https://app.linjimi.com/docs/guide/shortcodes/cards/</loc>
-    <lastmod>2024-08-12T01:29:27+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-CN"
-                href="https://app.linjimi.com/zh-cn/docs/guide/shortcodes/cards/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://app.linjimi.com/docs/guide/shortcodes/cards/"
-                />
-  </url><url>
     <loc>https://app.linjimi.com/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -294,58 +133,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://app.linjimi.com/categories/"
-                />
-  </url><url>
-    <loc>https://app.linjimi.com/docs/advanced/comments/</loc>
-    <lastmod>2024-08-12T01:29:27+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-CN"
-                href="https://app.linjimi.com/zh-cn/docs/advanced/comments/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://app.linjimi.com/docs/advanced/comments/"
-                />
-  </url><url>
-    <loc>https://app.linjimi.com/docs/advanced/customization/</loc>
-    <lastmod>2024-08-12T01:29:27+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-CN"
-                href="https://app.linjimi.com/zh-cn/docs/advanced/customization/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://app.linjimi.com/docs/advanced/customization/"
-                />
-  </url><url>
-    <loc>https://app.linjimi.com/docs/guide/deploy-site/</loc>
-    <lastmod>2024-08-12T01:29:27+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-CN"
-                href="https://app.linjimi.com/zh-cn/docs/guide/deploy-site/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://app.linjimi.com/docs/guide/deploy-site/"
-                />
-  </url><url>
-    <loc>https://app.linjimi.com/docs/guide/shortcodes/details/</loc>
-    <lastmod>2024-08-12T01:29:27+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-CN"
-                href="https://app.linjimi.com/zh-cn/docs/guide/shortcodes/details/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://app.linjimi.com/docs/guide/shortcodes/details/"
                 />
   </url><url>
     <loc>https://app.linjimi.com/docs/</loc>
@@ -361,19 +148,6 @@
                 href="https://app.linjimi.com/docs/"
                 />
   </url><url>
-    <loc>https://app.linjimi.com/docs/guide/shortcodes/filetree/</loc>
-    <lastmod>2024-08-12T01:29:27+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-CN"
-                href="https://app.linjimi.com/zh-cn/docs/guide/shortcodes/filetree/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://app.linjimi.com/docs/guide/shortcodes/filetree/"
-                />
-  </url><url>
     <loc>https://app.linjimi.com/</loc>
     <lastmod>2024-08-12T13:49:52+08:00</lastmod>
     <xhtml:link
@@ -387,18 +161,7 @@
                 href="https://app.linjimi.com/"
                 />
   </url><url>
-    <loc>https://app.linjimi.com/docs/guide/shortcodes/icon/</loc>
-    <lastmod>2024-08-12T01:29:27+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-CN"
-                href="https://app.linjimi.com/zh-cn/docs/guide/shortcodes/icon/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://app.linjimi.com/docs/guide/shortcodes/icon/"
-                />
+    <loc>https://app.linjimi.com/docs/iptv/</loc>
   </url><url>
     <loc>https://app.linjimi.com/showcase/</loc>
     <lastmod>2024-08-12T13:49:52+08:00</lastmod>
@@ -411,32 +174,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://app.linjimi.com/showcase/"
-                />
-  </url><url>
-    <loc>https://app.linjimi.com/docs/guide/shortcodes/steps/</loc>
-    <lastmod>2024-08-12T01:29:27+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-CN"
-                href="https://app.linjimi.com/zh-cn/docs/guide/shortcodes/steps/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://app.linjimi.com/docs/guide/shortcodes/steps/"
-                />
-  </url><url>
-    <loc>https://app.linjimi.com/docs/guide/shortcodes/tabs/</loc>
-    <lastmod>2024-08-12T01:29:27+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-CN"
-                href="https://app.linjimi.com/zh-cn/docs/guide/shortcodes/tabs/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://app.linjimi.com/docs/guide/shortcodes/tabs/"
                 />
   </url>
 </urlset>
