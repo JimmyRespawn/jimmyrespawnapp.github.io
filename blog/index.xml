@@ -354,8 +354,9 @@ the new terms, please stop using the Service.&lt;/p&gt;
         
         &lt;p&gt;IPTV Fluent uses your internet connection to download and update the content. &lt;small&gt;It &lt;/small&gt;does not collect, use any personal information, store any personal data &amp;amp; share it to third party.&lt;/p&gt;
 &lt;h2&gt;Usage Telemetry&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;usage-telemetry&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#usage-telemetry&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;We use Visual Studio Application Insights to keep track of app usage, find
-bugs, and fix crashes. All information sent to server is anonymous and free of any user or contextual data.&lt;/p&gt;
+    &lt;a href=&#34;#usage-telemetry&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;We use Visual Studio Application Insights to keep track of app usage, find bugs, and fix crashes. All information sent to server is anonymous and free of any user or contextual data.&lt;/p&gt;
+&lt;h2&gt;User Guide&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;user-guide&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#user-guide&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;We offer a complete usage guidance . &lt;a href=&#34;https://app.linjimi.com/docs/iptv/&#34; &gt;Click here to check it out.&lt;/a&gt;&lt;/p&gt;
 
       </description>
     </item>
