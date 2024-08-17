@@ -19,7 +19,7 @@
     <lastmod>2024-08-14T18:50:05+08:00</lastmod>
   </url><url>
     <loc>https://app.linjimi.com/zh-cn/docs/iptv/configurations/</loc>
-    <lastmod>2024-08-16T19:40:07+08:00</lastmod>
+    <lastmod>2024-08-17T21:13:21+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -66,6 +66,51 @@
                 href="https://app.linjimi.com/zh-cn/docs/iptv/updatelog/"
                 />
   </url><url>
+    <loc>https://app.linjimi.com/zh-cn/tags/hugo/</loc>
+    <lastmod>2024-08-17T21:37:10+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://app.linjimi.com/tags/hugo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-CN"
+                href="https://app.linjimi.com/zh-cn/tags/hugo/"
+                />
+  </url><url>
+    <loc>https://app.linjimi.com/zh-cn/tags/</loc>
+    <lastmod>2024-08-17T21:37:10+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://app.linjimi.com/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-CN"
+                href="https://app.linjimi.com/zh-cn/tags/"
+                />
+  </url><url>
+    <loc>https://app.linjimi.com/zh-cn/tags/%E5%8D%9A%E5%AE%A2/</loc>
+    <lastmod>2024-08-17T21:37:10+08:00</lastmod>
+  </url><url>
+    <loc>https://app.linjimi.com/zh-cn/blog/markdown/</loc>
+    <lastmod>2024-08-17T21:37:10+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://app.linjimi.com/blog/markdown/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-CN"
+                href="https://app.linjimi.com/zh-cn/blog/markdown/"
+                />
+  </url><url>
+    <loc>https://app.linjimi.com/zh-cn/tags/%E6%96%B0%E9%97%BB/</loc>
+    <lastmod>2024-08-17T21:37:10+08:00</lastmod>
+  </url><url>
     <loc>https://app.linjimi.com/private/169329891432/tumblr_p22bjwTap01unlq99/</loc>
     <lastmod>2024-08-12T13:49:52+08:00</lastmod>
   </url><url>
@@ -80,19 +125,6 @@
                 rel="alternate"
                 hreflang="zh-CN"
                 href="https://app.linjimi.com/zh-cn/tags/private/"
-                />
-  </url><url>
-    <loc>https://app.linjimi.com/zh-cn/tags/</loc>
-    <lastmod>2024-08-12T13:49:52+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://app.linjimi.com/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-CN"
-                href="https://app.linjimi.com/zh-cn/tags/"
                 />
   </url><url>
     <loc>https://app.linjimi.com/zh-cn/tags/tos/</loc>
@@ -176,7 +208,7 @@
                 />
   </url><url>
     <loc>https://app.linjimi.com/zh-cn/docs/</loc>
-    <lastmod>2024-08-16T16:10:15+08:00</lastmod>
+    <lastmod>2024-08-17T21:13:21+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
