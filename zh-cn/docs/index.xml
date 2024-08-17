@@ -190,8 +190,27 @@
         
         
         &lt;p&gt;下载管理器中&lt;code&gt;设置&lt;/code&gt;下功能的使用介绍。&lt;/p&gt;
-&lt;h2&gt;通用设置&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;通用设置&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#%e9%80%9a%e7%94%a8%e8%ae%be%e7%bd%ae&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;文档待完善。&lt;/p&gt;
+&lt;h2&gt;通用&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;通用&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e9%80%9a%e7%94%a8&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;主题&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;主题&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e4%b8%bb%e9%a2%98&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;应用支持浅色、暗色与自动主题。&lt;/p&gt;
+&lt;h3&gt;允许通知&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;允许通知&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e5%85%81%e8%ae%b8%e9%80%9a%e7%9f%a5&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;应用在完成下载后会发送系统 Toast 通知。&lt;/p&gt;
+&lt;h3&gt;更改语言&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;更改语言&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e6%9b%b4%e6%94%b9%e8%af%ad%e8%a8%80&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;支持约 20 种内置语言，修改后不生效说明系统没有安装对应语言包。&lt;/p&gt;
+&lt;h2&gt;下载&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;下载&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e4%b8%8b%e8%bd%bd&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;下载UA&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;下载ua&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e4%b8%8b%e8%bd%bdua&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;针对个别平台对 User-agent 有限制的情况下，可以进行修改。&lt;/p&gt;
+&lt;h3&gt;更改下载目录&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;更改下载目录&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e6%9b%b4%e6%94%b9%e4%b8%8b%e8%bd%bd%e7%9b%ae%e5%bd%95&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;可以修改默认下载文件的地址，已下载的文件不会受到影响。&lt;/p&gt;
+&lt;h3&gt;多线程&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;多线程&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e5%a4%9a%e7%ba%bf%e7%a8%8b&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;提供单个文件最多 5 个线程同时下载的功能，加速下载。&lt;/p&gt;
+&lt;h3&gt;批量下载&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;批量下载&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e6%89%b9%e9%87%8f%e4%b8%8b%e8%bd%bd&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;当多个在线文件需要被批量下载，并且下载后缀符合一定规律时，则可以通过批量通配符的功能进行一次性批量下载。&lt;/p&gt;
+&lt;h2&gt;浏览器&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;浏览器&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e6%b5%8f%e8%a7%88%e5%99%a8&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;嗅探文件类型&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;嗅探文件类型&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e5%97%85%e6%8e%a2%e6%96%87%e4%bb%b6%e7%b1%bb%e5%9e%8b&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;内置浏览器支持嗅探多种类型的文件，但如果有更特殊的文件类型可以手动添加，通常以空格作为分界，如 &lt;code&gt;mp2 m4a&lt;/code&gt;。&lt;/p&gt;
+&lt;h3&gt;浏览器引擎&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;浏览器引擎&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e6%b5%8f%e8%a7%88%e5%99%a8%e5%bc%95%e6%93%8e&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;应用提供 &lt;code&gt;Webview1&lt;/code&gt; 与 &lt;code&gt;Webview2&lt;/code&gt; 作为内置嗅探下载链接的引擎，通常这个设置无需修改。&lt;/p&gt;
       </description>
     </item>
     
@@ -227,14 +246,16 @@
         
         
         &lt;h2&gt;包含哪些功能?&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;包含哪些功能&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#%e5%8c%85%e5%90%ab%e5%93%aa%e4%ba%9b%e5%8a%9f%e8%83%bd&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;✰ 永久删除广告&lt;/p&gt;
-&lt;p&gt;✰ 启用多线程下载&lt;/p&gt;
-&lt;p&gt;✰ 云同步浏览器收藏夹&lt;/p&gt;
-&lt;p&gt;✰ 允许主题跟随系统&lt;/p&gt;
-&lt;p&gt;✰ 通配符批量下载&lt;/p&gt;
-&lt;p&gt;✰ 嗅探更多文件类型&lt;/p&gt;
-&lt;p&gt;✰ 自定义搜索引擎&lt;/p&gt;
-&lt;p&gt;✰ 更多未来独占功能&lt;/p&gt;
+    &lt;a href=&#34;#%e5%8c%85%e5%90%ab%e5%93%aa%e4%ba%9b%e5%8a%9f%e8%83%bd&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;永久删除广告&lt;/li&gt;
+&lt;li&gt;启用多线程下载&lt;/li&gt;
+&lt;li&gt;云同步浏览器收藏夹&lt;/li&gt;
+&lt;li&gt;允许主题跟随系统&lt;/li&gt;
+&lt;li&gt;通配符批量下载&lt;/li&gt;
+&lt;li&gt;嗅探更多文件类型&lt;/li&gt;
+&lt;li&gt;自定义搜索引擎&lt;/li&gt;
+&lt;li&gt;更多未来独占功能&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h2&gt;价格&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;价格&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#%e4%bb%b7%e6%a0%bc&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;4美元或28元人民币，具体基于 Store 地区&lt;/li&gt;
