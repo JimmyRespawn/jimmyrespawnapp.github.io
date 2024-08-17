@@ -155,16 +155,22 @@ App supports auto shut down after certain amount time.&lt;/p&gt;
       <description>
         
         
-        &lt;h2&gt;What&amp;rsquo;s so special?&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;whats-so-special&#34;&gt;&lt;/span&gt;
+        &lt;p&gt;IPTV Plus has enhanced features built for IPTV Fluent.&lt;/p&gt;
+&lt;h2&gt;What&amp;rsquo;s so special?&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;whats-so-special&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#whats-so-special&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;So what&amp;rsquo;s the diffrence IPTV Plus from other IPTV apps on Windows you may ask.&lt;/p&gt;
 &lt;p&gt;IPTV Fluent and Plus are constantly receiving new features and bug fixes during the development.&lt;/p&gt;
 &lt;h2&gt;What does Plus offer?&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;what-does-plus-offer&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#what-does-plus-offer&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://od.lk/s/200613598_ianvS/plus.png&#34; alt=&#34;Plus feature&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;h2&gt;Pricing&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;pricing&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#pricing&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;IPTV Plus offer 2 options. &lt;code&gt;Lifetime&lt;/code&gt; and &lt;code&gt;Subscription&lt;/code&gt;.&lt;/p&gt;
-&lt;p&gt;For subscription it will cost $0.99(VAT excluded) for 10 devices license. Plus feature will be locked after subscription expired.&lt;/p&gt;
-&lt;p&gt;For lifetime it will cost $12(VAT excluded) for 10 devices license.&lt;/p&gt;
-&lt;p&gt;The plus function offered is identical.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;For subscription it will cost $0.99(VAT excluded) for 10 devices license. Plus feature will be locked after subscription expired.&lt;/li&gt;
+&lt;li&gt;For lifetime it will cost $12(VAT excluded) for 10 devices license.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The plus function offered in two versions is identical.&lt;/p&gt;
+&lt;h2&gt;Subscription cancellation&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;subscription-cancellation&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#subscription-cancellation&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Sign into account via official msft page to cancel the IPTV plus.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://account.microsoft.com/services&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Microsoft Subscription&lt;/a&gt;&lt;/p&gt;
       </description>
     </item>
     
@@ -181,6 +187,7 @@ App supports auto shut down after certain amount time.&lt;/p&gt;
     &lt;a href=&#34;#v1021&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Release date: TBD&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Feature: Remote support(Kiosk mode)&lt;/li&gt;
+&lt;li&gt;Feature: Add custom auto sleep time in settings&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;v1.0.20&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1020&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#v1020&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Release date: 2024/8/9&lt;/p&gt;
@@ -217,7 +224,7 @@ App supports auto shut down after certain amount time.&lt;/p&gt;
 &lt;li&gt;Bug fixes: Fix some circumstances which unable to enter compact mode under some channels&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;v1.0.15&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1015&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#v1015&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Release date: 7/22&lt;/p&gt;
+    &lt;a href=&#34;#v1015&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Release date: 2024/7/22&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Feature: Stand alone EPG page&lt;/li&gt;
 &lt;li&gt;Feature: New video info in blade bar&lt;/li&gt;
@@ -229,7 +236,7 @@ App supports auto shut down after certain amount time.&lt;/p&gt;
 &lt;li&gt;Bug fixes: Video restart after pausing and replaying the VOD&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;v1.0.14&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1014&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#v1014&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Release date: 7/17&lt;/p&gt;
+    &lt;a href=&#34;#v1014&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Release date: 2024/7/17&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Feature: New &amp;lsquo;LIVE&amp;rsquo; icon in video page&lt;/li&gt;
 &lt;li&gt;Feature: New blade right bar in video page&lt;/li&gt;
