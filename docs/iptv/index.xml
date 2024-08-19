@@ -184,18 +184,20 @@ App supports auto shut down after certain amount time.&lt;/p&gt;
         
         
         &lt;p&gt;IPTV Fluent is constantly receiving updates and in active development right now.&lt;/p&gt;
-&lt;h2&gt;v1.0.22&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1022&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#v1022&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Release date: TBD&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Feature: Remote support(Kiosk mode)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;v1.0.21&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1021&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#v1021&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Release date: TBD Expected on 2024/8/19&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Feature: Add stalker portal (beta) online list support&lt;/li&gt;
-&lt;li&gt;Feature: Add custom auto sleep time in settings&lt;/li&gt;
-&lt;li&gt;Feature: Add reorder channel in favorite and local list&lt;/li&gt;
-&lt;/ul&gt;
+&lt;!-- ## v1.0.22
+
+Release date: TBD
+
+- Feature: Remote support(Kiosk mode)
+
+## v1.0.21
+
+Release date: 2024/8/19
+
+- Feature: Add `Stalker Portal` (beta) online list support
+- Feature: Add custom auto sleep time in settings
+- Feature: Add reorder channel in favorite and local list
+- Bug fixes: Fix some navigation loop --&gt;
 &lt;h2&gt;v1.0.20&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1020&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#v1020&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Release date: 2024/8/9&lt;/p&gt;
 &lt;ul&gt;
