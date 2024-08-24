@@ -18,6 +18,9 @@
     <loc>https://app.linjimi.com/zh-cn/docs/download-manager/get-started/</loc>
     <lastmod>2024-08-14T18:50:05+08:00</lastmod>
   </url><url>
+    <loc>https://app.linjimi.com/zh-cn/docs/podcasted/get-started/</loc>
+    <lastmod>2024-08-24T22:05:25+08:00</lastmod>
+  </url><url>
     <loc>https://app.linjimi.com/zh-cn/docs/iptv/configurations/</loc>
     <lastmod>2024-08-17T21:13:21+08:00</lastmod>
     <xhtml:link
@@ -33,6 +36,9 @@
   </url><url>
     <loc>https://app.linjimi.com/zh-cn/docs/download-manager/configurations/</loc>
     <lastmod>2024-08-17T17:51:18+08:00</lastmod>
+  </url><url>
+    <loc>https://app.linjimi.com/zh-cn/docs/podcasted/configurations/</loc>
+    <lastmod>2024-08-24T22:05:25+08:00</lastmod>
   </url><url>
     <loc>https://app.linjimi.com/zh-cn/docs/iptv/iptvplus/</loc>
     <lastmod>2024-08-16T16:10:15+08:00</lastmod>
@@ -50,6 +56,9 @@
     <loc>https://app.linjimi.com/zh-cn/docs/download-manager/dmkpro/</loc>
     <lastmod>2024-08-17T17:51:18+08:00</lastmod>
   </url><url>
+    <loc>https://app.linjimi.com/zh-cn/docs/podcasted/podcastedpro/</loc>
+    <lastmod>2024-08-24T22:05:25+08:00</lastmod>
+  </url><url>
     <loc>https://app.linjimi.com/zh-cn/docs/download-manager/updatelog/</loc>
     <lastmod>2024-08-19T22:00:59+08:00</lastmod>
   </url><url>
@@ -65,6 +74,9 @@
                 hreflang="zh-CN"
                 href="https://app.linjimi.com/zh-cn/docs/iptv/updatelog/"
                 />
+  </url><url>
+    <loc>https://app.linjimi.com/zh-cn/docs/podcasted/updatelog/</loc>
+    <lastmod>2024-08-24T22:05:25+08:00</lastmod>
   </url><url>
     <loc>https://app.linjimi.com/zh-cn/tags/hugo/</loc>
     <lastmod>2024-08-17T21:37:10+08:00</lastmod>
@@ -169,7 +181,7 @@
                 />
   </url><url>
     <loc>https://app.linjimi.com/zh-cn/</loc>
-    <lastmod>2024-08-23T16:07:36+08:00</lastmod>
+    <lastmod>2024-08-23T19:09:32+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -180,6 +192,9 @@
                 hreflang="zh-CN"
                 href="https://app.linjimi.com/zh-cn/"
                 />
+  </url><url>
+    <loc>https://app.linjimi.com/zh-cn/docs/podcasted/</loc>
+    <lastmod>2024-08-24T22:05:25+08:00</lastmod>
   </url><url>
     <loc>https://app.linjimi.com/zh-cn/blog/</loc>
     <lastmod>2024-08-12T01:29:27+08:00</lastmod>
