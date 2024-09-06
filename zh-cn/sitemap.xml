@@ -17,6 +17,16 @@
   </url><url>
     <loc>https://app.linjimi.com/zh-cn/docs/download-manager/get-started/</loc>
     <lastmod>2024-08-14T18:50:05+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://app.linjimi.com/docs/download-manager/get-started/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-CN"
+                href="https://app.linjimi.com/zh-cn/docs/download-manager/get-started/"
+                />
   </url><url>
     <loc>https://app.linjimi.com/zh-cn/docs/podcasted/get-started/</loc>
     <lastmod>2024-08-24T22:05:25+08:00</lastmod>
@@ -36,6 +46,16 @@
   </url><url>
     <loc>https://app.linjimi.com/zh-cn/docs/download-manager/configurations/</loc>
     <lastmod>2024-08-17T17:51:18+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://app.linjimi.com/docs/download-manager/configurations/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-CN"
+                href="https://app.linjimi.com/zh-cn/docs/download-manager/configurations/"
+                />
   </url><url>
     <loc>https://app.linjimi.com/zh-cn/docs/podcasted/configurations/</loc>
     <lastmod>2024-08-24T22:05:25+08:00</lastmod>
@@ -55,12 +75,32 @@
   </url><url>
     <loc>https://app.linjimi.com/zh-cn/docs/download-manager/dmkpro/</loc>
     <lastmod>2024-08-17T17:51:18+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://app.linjimi.com/docs/download-manager/dmkpro/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-CN"
+                href="https://app.linjimi.com/zh-cn/docs/download-manager/dmkpro/"
+                />
   </url><url>
     <loc>https://app.linjimi.com/zh-cn/docs/podcasted/podcastedpro/</loc>
     <lastmod>2024-08-24T22:05:25+08:00</lastmod>
   </url><url>
     <loc>https://app.linjimi.com/zh-cn/docs/download-manager/updatelog/</loc>
-    <lastmod>2024-08-19T22:00:59+08:00</lastmod>
+    <lastmod>2024-09-05T21:12:13+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://app.linjimi.com/docs/download-manager/updatelog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-CN"
+                href="https://app.linjimi.com/zh-cn/docs/download-manager/updatelog/"
+                />
   </url><url>
     <loc>https://app.linjimi.com/zh-cn/docs/iptv/updatelog/</loc>
     <lastmod>2024-08-19T21:10:02+08:00</lastmod>
@@ -237,6 +277,16 @@
   </url><url>
     <loc>https://app.linjimi.com/zh-cn/docs/download-manager/</loc>
     <lastmod>2024-08-14T18:50:05+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://app.linjimi.com/docs/download-manager/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-CN"
+                href="https://app.linjimi.com/zh-cn/docs/download-manager/"
+                />
   </url><url>
     <loc>https://app.linjimi.com/zh-cn/showcase/</loc>
     <lastmod>2024-08-12T13:49:52+08:00</lastmod>

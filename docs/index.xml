@@ -15,6 +15,39 @@
     
     
     <item>
+      <title>Get started</title>
+      <link>https://app.linjimi.com/docs/download-manager/get-started/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://app.linjimi.com/docs/download-manager/get-started/</guid>
+      <description>
+        
+        
+        &lt;p&gt;If you want to learn more about the Download Manager, please take your time to go through the following documentation.&lt;/p&gt;
+&lt;h2&gt;1. How to start downloading&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;1-how-to-start-downloading&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#1-how-to-start-downloading&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Method 1: In the &amp;ldquo;Downloads&amp;rdquo; tab, click the &lt;code&gt;+&lt;/code&gt; button at the bottom right or top right corner to directly open a popup where you can input the download link. Simply enter the hyperlink you want to download.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Method 2: If you prefer to have a popup appear when clicking on downloadable files while browsing, it is recommended to use the in-app browser.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Method 3: Extensions, currently under development.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;2. In-app Browser&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;2-in-app-browser&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#2-in-app-browser&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;The Download Manager includes a built-in browser designed for sniffing out downloadable files from complex pages. This prevents scenarios where the default download link might lead to misleading executable files. For detailed usage instructions, see the &amp;ldquo;In-app Browser&amp;rdquo; section.&lt;/p&gt;
+&lt;p&gt;P.S. Don’t worry, this is not a Chromium wrapper; it uses Windows&amp;rsquo; built-in Edge WebView 2, so it won’t take up additional app space.&lt;/p&gt;
+&lt;p&gt;P.S.2 Please be aware of the safety of the download platform. DMK itself does not check whether the downloaded file contains threats. Although the system&amp;rsquo;s default antivirus software will scan the file after the download is complete, it may mistakenly associate the downloader with the file.&lt;/p&gt;
+&lt;h2&gt;3. File Manager&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;3-file-manager&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#3-file-manager&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;The app includes a built-in file manager for managing downloaded files, supporting common file management functions such as opening, copying, moving, and renaming. However, it can only manage files within the download folder. Due to UWP sandboxing, files outside the download folder cannot be accessed or managed by the app.&lt;/p&gt;
+&lt;h2&gt;4. Application Principle&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;4-application-principle&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#4-application-principle&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Advantages: The app uses the .Net Native Download Operation, which means the Download Manager uses truly native download threads, resulting in an extremely lightweight and fast experience.&lt;/p&gt;
+      </description>
+    </item>
+    
+    <item>
       <title>Get Started</title>
       <link>https://app.linjimi.com/docs/iptv/get-started/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -48,6 +81,41 @@
 &lt;li&gt;&lt;a href=&#34;https://github.com/search?q=iptv&amp;#43;list&amp;amp;type=repositories&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IPTV m3u list example in Github&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Internet_Protocol_television&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IPTV history by Wikipedia&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+      </description>
+    </item>
+    
+    <item>
+      <title>Configurations</title>
+      <link>https://app.linjimi.com/docs/download-manager/configurations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://app.linjimi.com/docs/download-manager/configurations/</guid>
+      <description>
+        
+        
+        &lt;p&gt;&lt;code&gt;Settings&lt;/code&gt; Overview in Download Manager&lt;/p&gt;
+&lt;h2&gt;General&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;general&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#general&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Theme&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;theme&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#theme&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;The app supports Light, Dark, and Auto themes.&lt;/p&gt;
+&lt;h3&gt;Enable Notifications&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;enable-notifications&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#enable-notifications&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;The app will send system &lt;code&gt;Toast&lt;/code&gt; notifications when a download is completed.&lt;/p&gt;
+&lt;h3&gt;Change Language&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;change-language&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#change-language&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;The app supports around 20 built-in languages. If the change does not take effect, it may indicate that the corresponding language pack is not installed on your system.&lt;/p&gt;
+&lt;h2&gt;Downloads&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;downloads&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#downloads&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Download UA (User-Agent)&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;download-ua-user-agent&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#download-ua-user-agent&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;You can modify the User-Agent in cases where certain platforms impose restrictions.&lt;/p&gt;
+&lt;h3&gt;Change Download Directory&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;change-download-directory&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#change-download-directory&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;You can change the default download location; previously downloaded files will not be affected.&lt;/p&gt;
+&lt;h3&gt;Multi-threading&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;multi-threading&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#multi-threading&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Supports up to 5 simultaneous threads per file, accelerating download speeds.&lt;/p&gt;
+&lt;h3&gt;Batch Download&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;batch-download&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#batch-download&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;If multiple online files need to be downloaded in bulk and their file extensions follow a certain pattern, you can use the batch wildcard feature to download them all at once.&lt;/p&gt;
+&lt;h2&gt;Browser&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;browser&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#browser&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;File Type Detection&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;file-type-detection&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#file-type-detection&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;The built-in browser supports detecting various file types. If there are more specific file types, you can manually add them, typically separated by a space, such as &lt;code&gt;mp2 m4a&lt;/code&gt;.&lt;/p&gt;
+&lt;h3&gt;Browser Engine&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;browser-engine&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#browser-engine&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;The app offers &lt;code&gt;Webview1&lt;/code&gt; and &lt;code&gt;Webview2&lt;/code&gt; as engines for detecting download links within the built-in browser. Typically, this setting does not require modification.&lt;/p&gt;
+
       </description>
     </item>
     
@@ -171,6 +239,54 @@ App supports auto shut down after certain amount time.&lt;/p&gt;
 &lt;h2&gt;Subscription cancellation&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;subscription-cancellation&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#subscription-cancellation&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Sign into account via official msft page to cancel the IPTV plus.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://account.microsoft.com/services&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Microsoft Subscription&lt;/a&gt;&lt;/p&gt;
+      </description>
+    </item>
+    
+    <item>
+      <title>Pro feature</title>
+      <link>https://app.linjimi.com/docs/download-manager/dmkpro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://app.linjimi.com/docs/download-manager/dmkpro/</guid>
+      <description>
+        
+        
+        &lt;h2&gt;What Features Are Included?&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;what-features-are-included&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#what-features-are-included&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Permanently remove ads&lt;/li&gt;
+&lt;li&gt;Enable multi-threaded downloading&lt;/li&gt;
+&lt;li&gt;Cloud sync browser bookmarks&lt;/li&gt;
+&lt;li&gt;Allow theme to follow system settings&lt;/li&gt;
+&lt;li&gt;Batch download with wildcards&lt;/li&gt;
+&lt;li&gt;Detect more file types&lt;/li&gt;
+&lt;li&gt;Customize search engines&lt;/li&gt;
+&lt;li&gt;More exclusive features in future updates&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Pricing&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;pricing&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#pricing&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;$4 USD or ¥28 RMB, depending on your Store region&lt;/li&gt;
+&lt;li&gt;License for 10 devices (can transfer licenses via Microsoft account)&lt;/li&gt;
+&lt;/ul&gt;
+      </description>
+    </item>
+    
+    <item>
+      <title>Update log</title>
+      <link>https://app.linjimi.com/docs/download-manager/updatelog/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://app.linjimi.com/docs/download-manager/updatelog/</guid>
+      <description>
+        
+        
+        &lt;h2&gt;v1.5.46&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1546&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#v1546&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Date：2024/09/06&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Feature: Add menu option&lt;/li&gt;
+&lt;li&gt;Feature: Add more info documentation&lt;/li&gt;
+&lt;li&gt;Bug fixes: fix some circumstances while timer not take effect&lt;/li&gt;
+&lt;/ul&gt;
+
       </description>
     </item>
     

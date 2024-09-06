@@ -119,10 +119,17 @@
       <description>
         
         
-        &lt;h2&gt;v1.5.45&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1545&#34;&gt;&lt;/span&gt;
+        &lt;h2&gt;v1.5.46&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1546&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#v1546&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;更新日期：2024/09/06&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;新增菜单自定义&lt;/li&gt;
+&lt;li&gt;新增文档入口&lt;/li&gt;
+&lt;li&gt;修复个别场景定时器失效&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;v1.5.45&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1545&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#v1545&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;更新日期：2024/08/05&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;提供更多语言。&lt;/li&gt;
+&lt;li&gt;提供更多语言&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;v1.5.44&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1544&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#v1544&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;

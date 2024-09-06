@@ -2,6 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://app.linjimi.com/docs/download-manager/get-started/</loc>
+    <lastmod>2024-09-05T21:12:13+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-CN"
+                href="https://app.linjimi.com/zh-cn/docs/download-manager/get-started/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://app.linjimi.com/docs/download-manager/get-started/"
+                />
+  </url><url>
     <loc>https://app.linjimi.com/docs/iptv/get-started/</loc>
     <lastmod>2024-08-14T11:31:30+08:00</lastmod>
     <xhtml:link
@@ -13,6 +26,19 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://app.linjimi.com/docs/iptv/get-started/"
+                />
+  </url><url>
+    <loc>https://app.linjimi.com/docs/download-manager/configurations/</loc>
+    <lastmod>2024-09-05T21:12:13+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-CN"
+                href="https://app.linjimi.com/zh-cn/docs/download-manager/configurations/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://app.linjimi.com/docs/download-manager/configurations/"
                 />
   </url><url>
     <loc>https://app.linjimi.com/docs/iptv/configurations/</loc>
@@ -39,6 +65,32 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://app.linjimi.com/docs/iptv/iptvplus/"
+                />
+  </url><url>
+    <loc>https://app.linjimi.com/docs/download-manager/dmkpro/</loc>
+    <lastmod>2024-09-05T21:12:13+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-CN"
+                href="https://app.linjimi.com/zh-cn/docs/download-manager/dmkpro/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://app.linjimi.com/docs/download-manager/dmkpro/"
+                />
+  </url><url>
+    <loc>https://app.linjimi.com/docs/download-manager/updatelog/</loc>
+    <lastmod>2024-09-05T21:12:13+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-CN"
+                href="https://app.linjimi.com/zh-cn/docs/download-manager/updatelog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://app.linjimi.com/docs/download-manager/updatelog/"
                 />
   </url><url>
     <loc>https://app.linjimi.com/docs/iptv/updatelog/</loc>
@@ -210,6 +262,19 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://app.linjimi.com/docs/"
+                />
+  </url><url>
+    <loc>https://app.linjimi.com/docs/download-manager/</loc>
+    <lastmod>2024-09-05T21:12:13+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-CN"
+                href="https://app.linjimi.com/zh-cn/docs/download-manager/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://app.linjimi.com/docs/download-manager/"
                 />
   </url><url>
     <loc>https://app.linjimi.com/docs/iptv/</loc>
