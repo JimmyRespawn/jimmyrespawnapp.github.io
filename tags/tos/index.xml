@@ -5,7 +5,7 @@
     <description>Recent content in TOS on JimmyRespawn</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 21 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Sep 2024 00:00:00 +0000</lastBuildDate>
     
 	  <atom:link href="https://app.linjimi.com/tags/tos/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,6 +14,24 @@
         
       
     
+    
+    <item>
+      <title>Link for Tesla’s Privacy Policy</title>
+      <link>https://app.linjimi.com/blog/teslawinprivacypolity/</link>
+      <pubDate>Mon, 16 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://app.linjimi.com/blog/teslawinprivacypolity/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Link for Tesla uses your internet connection to download and update the content. It does not collect, use any personal information &amp;amp; share it to third party.&lt;/p&gt;
+&lt;h2&gt;Usage Telemetry&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;usage-telemetry&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#usage-telemetry&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;We use Visual Studio Application Insights to keep track of app usage, find bugs, and fix crashes. All information sent to server is anonymous and free of any user or contextual data.&lt;/p&gt;
+&lt;h2&gt;API&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;api&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#api&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;We respect your privacy. This app uses 3rd party api provided by the official Tesla fleet API.  All information of the account and car is stored locally including login token. If you think the token is compromised, please change the password immediately.&lt;/p&gt;
+
+      </description>
+    </item>
     
     <item>
       <title>IPTV Fluent’s Privacy Policy</title>
