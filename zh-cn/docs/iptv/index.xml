@@ -187,7 +187,12 @@
       <description>
         
         
-        &lt;h2&gt;v1.0.23&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1023&#34;&gt;&lt;/span&gt;
+        &lt;h2&gt;v1.0.24&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1024&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#v1024&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;发布日期: TBD&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;修复: 升级 VLC 引擎，减少崩溃&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;v1.0.23&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1023&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#v1023&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;发布日期: 2024/9/10&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;功能：新增 &lt;code&gt;User Agent&lt;/code&gt; 在线频道支持&lt;/li&gt;
