@@ -48,6 +48,29 @@
     </item>
     
     <item>
+      <title>Get started</title>
+      <link>https://app.linjimi.com/docs/tesla/get-started/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://app.linjimi.com/docs/tesla/get-started/</guid>
+      <description>
+        
+        
+        &lt;p&gt;If you want to learn more about the Link for Tesla (aka Tesla for Windows), please take your time to go through the following documentation.&lt;/p&gt;
+&lt;h2&gt;1. How to access to my Tesla cars information&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;1-how-to-access-to-my-tesla-cars-information&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#1-how-to-access-to-my-tesla-cars-information&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;You should to login to the Tesla account which you created previously. And ensure there is at least one valid vehicle linked to the account.&lt;/p&gt;
+&lt;p&gt;The fleet API is provided by the official Tesla API. The app is under the offcial TOS (Terms of Services).&lt;/p&gt;
+&lt;h2&gt;2. Account&amp;rsquo;s safty&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;2-accounts-safty&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#2-accounts-safty&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;If you concerns about your account&amp;rsquo;s safty and privacy policy. Please see our privacy policy page for Link 4 Tesla.&lt;/p&gt;
+&lt;h2&gt;3. Availablility&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;3-availablility&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#3-availablility&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Link for Tesla is available on Windows 10 and 11. Designed for mouse and touch experience.&lt;/p&gt;
+&lt;h2&gt;4. Current app status&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;4-current-app-status&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#4-current-app-status&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;The app has finished the basic info function of the app. Now it is improving the stability and safty.&lt;/p&gt;
+&lt;p&gt;In future we might add control functions for the app. It depends the feedback of the users.&lt;/p&gt;
+      </description>
+    </item>
+    
+    <item>
       <title>Get Started</title>
       <link>https://app.linjimi.com/docs/iptv/get-started/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -215,6 +238,39 @@ App supports auto shut down after certain amount time.&lt;/p&gt;
     </item>
     
     <item>
+      <title>Configurations</title>
+      <link>https://app.linjimi.com/docs/tesla/configurations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://app.linjimi.com/docs/tesla/configurations/</guid>
+      <description>
+        
+        
+        &lt;p&gt;&lt;code&gt;Settings&lt;/code&gt; Overview in Link for Tesla&lt;/p&gt;
+&lt;h2&gt;General&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;general&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#general&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Theme&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;theme&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#theme&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;The app supports Light, Dark, and Auto themes.&lt;/p&gt;
+&lt;h3&gt;Length unit&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;length-unit&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#length-unit&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Display the unit of remaining distance for your cars.&lt;/p&gt;
+&lt;h2&gt;Account&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;account&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#account&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Login&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;login&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#login&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;If you decide to enter experience mode, you will be able to login to account during the experience mode.&lt;/p&gt;
+&lt;p&gt;Please choose the right account&amp;rsquo;s region.&lt;/p&gt;
+&lt;p&gt;The app will redirect you to the official Tesla authentication websites. All the info is secured by the official.
+Link for Tesla won&amp;rsquo;t access to your account&amp;rsquo;s password.&lt;/p&gt;
+&lt;h3&gt;Logout and Revoke the token&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;logout-and-revoke-the-token&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#logout-and-revoke-the-token&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;The token means the only keys for the app on your Windows device to access to the Tesla car&amp;rsquo;s info.
+If you decide no longer use the Link for Tesla, it&amp;rsquo;s recommended for you to revoke the token and logout.
+To ensure the token won&amp;rsquo;t be compromised to the unverified sources.&lt;/p&gt;
+&lt;h3&gt;Region&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;region&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#region&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;There 3 different regions based on your tesla cars location. Which targets &amp;lsquo;North America and Asia&amp;rsquo;,
+&amp;lsquo;Europe and South Africa&amp;rsquo; and Mainland China.&lt;/p&gt;
+&lt;p&gt;Choosing wrongly will end up the failure of login.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
       <title>What is in IPTV Plus</title>
       <link>https://app.linjimi.com/docs/iptv/iptvplus/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -271,6 +327,27 @@ App supports auto shut down after certain amount time.&lt;/p&gt;
     </item>
     
     <item>
+      <title>Pro feature</title>
+      <link>https://app.linjimi.com/docs/tesla/teslapro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://app.linjimi.com/docs/tesla/teslapro/</guid>
+      <description>
+        
+        
+        &lt;h2&gt;What Features Are Included?&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;what-features-are-included&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#what-features-are-included&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;To be fufilled&amp;hellip;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Pricing&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;pricing&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#pricing&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;$3.99 USD/month&lt;/li&gt;
+&lt;li&gt;License for 10 devices (valid until subscription expired)&lt;/li&gt;
+&lt;/ul&gt;
+      </description>
+    </item>
+    
+    <item>
       <title>Update log</title>
       <link>https://app.linjimi.com/docs/download-manager/updatelog/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -297,6 +374,30 @@ App supports auto shut down after certain amount time.&lt;/p&gt;
     
     <item>
       <title>Update log</title>
+      <link>https://app.linjimi.com/docs/tesla/updatelog/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://app.linjimi.com/docs/tesla/updatelog/</guid>
+      <description>
+        
+        
+        &lt;h2&gt;v0.9.2&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v092&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#v092&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Date: TBD&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Feature: add charging indicator&lt;/li&gt;
+&lt;li&gt;Feature: add get started documentation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;v0.9.1&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v091&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#v091&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Date：2024/09/27&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Initial release&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Update log</title>
       <link>https://app.linjimi.com/docs/iptv/updatelog/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -306,8 +407,10 @@ App supports auto shut down after certain amount time.&lt;/p&gt;
         
         &lt;p&gt;IPTV Fluent is constantly receiving updates and in active development right now.&lt;/p&gt;
 &lt;h2&gt;v1.0.24&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1024&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#v1024&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Release date: TBD&lt;/p&gt;
+    &lt;a href=&#34;#v1024&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Release date: 2024/10/28&lt;/p&gt;
 &lt;ul&gt;
+&lt;li&gt;Feature: Pro user can play local videos&lt;/li&gt;
+&lt;li&gt;Feature: Pro user can play media servers videos&lt;/li&gt;
 &lt;li&gt;Bug fixes: Update VLC playback engine core to lower the crash&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;v1.0.23&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1023&#34;&gt;&lt;/span&gt;

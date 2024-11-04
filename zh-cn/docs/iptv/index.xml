@@ -188,9 +188,11 @@
         
         
         &lt;h2&gt;v1.0.24&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1024&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#v1024&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;发布日期: TBD&lt;/p&gt;
+    &lt;a href=&#34;#v1024&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;发布日期: 2024/10/28&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;修复: 升级 VLC 引擎，减少崩溃&lt;/li&gt;
+&lt;li&gt;功能: Pro用户可以播放本地视频&lt;/li&gt;
+&lt;li&gt;功能: Pro用户可以播放媒体服务器&lt;/li&gt;
+&lt;li&gt;修复: 编辑频道失败的情况&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;v1.0.23&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1023&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#v1023&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;发布日期: 2024/9/10&lt;/p&gt;
