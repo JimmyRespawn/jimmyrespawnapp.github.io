@@ -184,10 +184,15 @@ App supports auto shut down after certain amount time.&lt;/p&gt;
         
         
         &lt;p&gt;IPTV Fluent is constantly receiving updates and in active development right now.&lt;/p&gt;
+&lt;h2&gt;v1.0.26&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1026&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#v1026&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Release date: TBD&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Feature: Advanced m3u parser&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h2&gt;v1.0.25&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1025&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#v1025&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Release date: 2024/11/8&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Feature: Change default online list in &amp;lsquo;Settings&amp;rsquo;&lt;/li&gt;
+&lt;li&gt;Feature: Change default online list in &lt;code&gt;Settings&lt;/code&gt;&lt;/li&gt;
 &lt;li&gt;Bug fixes: Show title on Live Tile under Win10&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;v1.0.24&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1024&#34;&gt;&lt;/span&gt;
