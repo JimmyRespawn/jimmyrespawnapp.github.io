@@ -440,7 +440,22 @@
       <description>
         
         
-        &lt;h2&gt;v1.5.34&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1534&#34;&gt;&lt;/span&gt;
+        &lt;h2&gt;v1.7.35&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1735&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#v1735&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;发布日期：2024/12/24&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;功能：增加应用内语言修改&lt;/li&gt;
+&lt;li&gt;功能：新增 Xbox 沉浸模式&lt;/li&gt;
+&lt;li&gt;功能：新增 Xbox 全屏播放器界面&lt;/li&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;li&gt;优化：右键允许取消已听单集&lt;/li&gt;
+&lt;li&gt;优化：部分页面手柄导航的便捷度&lt;/li&gt;
+&lt;li&gt;优化：类型列表、迷你播放器、播客、设置界面优化&lt;/li&gt;
+&lt;li&gt;优化：新增快捷键教程&lt;/li&gt;
+&lt;li&gt;优化：部分图标优化&lt;/li&gt;
+&lt;li&gt;修复：侧边栏高亮错误的问题&lt;/li&gt;
+&lt;li&gt;修复：部分分辨率下单集结束崩溃的问题&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;v1.5.34&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1534&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#v1534&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;功能：支持以播客名存储下载文件夹&lt;/li&gt;
 &lt;li&gt;优化：界面展示&lt;/li&gt;
