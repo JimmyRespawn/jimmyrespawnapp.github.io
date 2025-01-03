@@ -5,7 +5,7 @@
     <description>Recent content in Private on JimmyRespawn</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 26 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jan 2025 00:00:00 +0000</lastBuildDate>
     
 	  <atom:link href="https://app.linjimi.com/tags/private/index.xml" rel="self" type="application/rss+xml" />
     
@@ -16,6 +16,22 @@
     
     
     <item>
+      <title>Jimmy Toolbox&#39;s Privacy Policy</title>
+      <link>https://app.linjimi.com/private/jimmytoolbox/</link>
+      <pubDate>Thu, 02 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://app.linjimi.com/private/jimmytoolbox/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Jimmy Toolbox uses your internet connection to download and update the content. &lt;small&gt;It &lt;/small&gt;does not collect, use any personal information, store any personal data &amp;amp; share it to third party.&lt;/p&gt;
+&lt;h2&gt;Usage Telemetry&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;usage-telemetry&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#usage-telemetry&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;We use Visual Studio Application Insights to keep track of app usage, find bugs, and fix crashes. All information sent to server is anonymous and free of any user or contextual data.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
       <title>Link for Tesla’s Privacy Policy</title>
       <link>https://app.linjimi.com/blog/teslawinprivacypolity/</link>
       <pubDate>Thu, 26 Sep 2024 00:00:00 +0000</pubDate>
@@ -24,7 +40,11 @@
       <description>
         
         
-        &lt;p&gt;Link for Tesla uses your internet connection to download and update the content. It does not collect, use any personal information &amp;amp; share it to third party.&lt;/p&gt;
+        &lt;h2&gt;Announcement&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;announcement&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#announcement&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Link for Tesla will be on hold since the charge of the API calling. You&amp;rsquo;ll still be able to use basic version of Link for Tesla for free. The app will not be discoverable or updated until the charge has been lifted.&lt;/p&gt;
+&lt;p&gt;Best regards.&lt;/p&gt;
+&lt;h2&gt;Policy&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;policy&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#policy&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Link for Tesla uses your internet connection to download and update the content. It does not collect, use any personal information &amp;amp; share it to third party.&lt;/p&gt;
 &lt;h2&gt;Usage Telemetry&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;usage-telemetry&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#usage-telemetry&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;We use Visual Studio Application Insights to keep track of app usage, find bugs, and fix crashes. All information sent to server is anonymous and free of any user or contextual data.&lt;/p&gt;
 &lt;h2&gt;API&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;api&#34;&gt;&lt;/span&gt;
