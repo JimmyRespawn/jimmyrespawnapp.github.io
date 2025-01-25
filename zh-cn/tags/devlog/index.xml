@@ -1,12 +1,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>墨菲纳米 – 博客</title>
-    <link>https://app.linjimi.com/zh-cn/blog/</link>
-    <description>Recent content in 博客 on 墨菲纳米</description>
+    <title>墨菲纳米 – Devlog</title>
+    <link>https://app.linjimi.com/zh-cn/tags/devlog/</link>
+    <description>Recent content in Devlog on 墨菲纳米</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
+    <lastBuildDate>Sat, 25 Jan 2025 00:00:00 +0000</lastBuildDate>
     
-	  <atom:link href="https://app.linjimi.com/zh-cn/blog/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://app.linjimi.com/zh-cn/tags/devlog/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -59,56 +60,6 @@
 &lt;/ol&gt;
 &lt;h2&gt;后记&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;后记&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#%e5%90%8e%e8%ae%b0&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;能憋着看到现在一定是微软old ass，现在有些人上来就说我觉得ms这套框架就是不行，就是DOA。那我还是要说，你先看看自己能做到什么，你要是敲了两行hello world，或者做了两个功能就开始骂街，那我只能说强者不会抱怨环境。你去 iOS、安卓或者linux开发，照样也是没几个人用你的软件服务，下载量能到几十W甚至几W么，用户日活多少，或者你说你是技术爱好者，不是产品专家。那没问题，你在 Github 的开源库有几个 star，在哪个平台社区贡献几何。难如汇编，大佬都给你搞出一个过山车大亨。&lt;/p&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>从 Tumblr 迁移至 Hugo</title>
-      <link>https://app.linjimi.com/zh-cn/blog/markdown/</link>
-      <pubDate>Mon, 12 Aug 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://app.linjimi.com/zh-cn/blog/markdown/</guid>
-      <description>
-        
-        
-        &lt;p&gt;本网站现已使用 Hugo 作为引擎.&lt;/p&gt;
-&lt;p&gt;主题为 Hextra 并且进行了点点魔改。&lt;/p&gt;
-&lt;p&gt;现在为新用户提供更详尽的产品信息和文档。另外，还会持续提供更多功能与修复。&lt;/p&gt;
-&lt;p&gt;祝健康安好。&lt;/p&gt;
-      </description>
-    </item>
-    
-    <item>
-      <title>Echo for Stage1st 最终用户许可协议</title>
-      <link>https://app.linjimi.com/private/169329891432/tumblr_p22bjwTap01unlq99/</link>
-      <pubDate>Fri, 05 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://app.linjimi.com/private/169329891432/tumblr_p22bjwTap01unlq99/</guid>
-      <description>
-        
-        
-        &lt;ol&gt;
-&lt;li&gt;请遵守 &lt;a href=&#34;https://bbs.saraba1st.com/2b/forum.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;bbs.saraba1st.com&lt;/a&gt; 论坛的服务条款。&lt;/li&gt;
-&lt;li&gt;用户在使用本应用的过程中应文明发言，并依法尊重其它用户的人格权与身份权等人身权利，共同建立和谐、文明、礼貌的网络社交环境。&lt;/li&gt;
-&lt;li&gt;用户获得了使用该软件的权利，并且可以将该软件推荐给其他人，但是不允许再收费分发该软件。&lt;/li&gt;
-&lt;/ol&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Echo for Stage1st隐私策略</title>
-      <link>https://app.linjimi.com/private/168073230752/tumblr_p09xgjg9jK1unlq99/</link>
-      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://app.linjimi.com/private/168073230752/tumblr_p09xgjg9jK1unlq99/</guid>
-      <description>
-        
-        
-        &lt;p&gt;Echo for Stage1st（之后简称该应用）使用你的网络下载和上传内容。该应用不收集、使用任何个人信息，不存储个人资料或者将个人资料分享给第三方。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;使用数据&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;我们使用 Visual Studio Application Insights 来跟踪应用的使用情况，定位 Bug ，和修复崩溃。所有信息向服务器以匿名方式发送，并且不包括任何用户的个人资料&lt;/p&gt;
 
       </description>
     </item>

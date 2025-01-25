@@ -118,6 +118,28 @@
     <loc>https://app.linjimi.com/zh-cn/docs/podcasted/updatelog/</loc>
     <lastmod>2025-01-19T22:58:03+08:00</lastmod>
   </url><url>
+    <loc>https://app.linjimi.com/zh-cn/tags/devlog/</loc>
+    <lastmod>2025-01-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://app.linjimi.com/zh-cn/tags/</loc>
+    <lastmod>2025-01-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://app.linjimi.com/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-CN"
+                href="https://app.linjimi.com/zh-cn/tags/"
+                />
+  </url><url>
+    <loc>https://app.linjimi.com/zh-cn/tags/winui3/</loc>
+    <lastmod>2025-01-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://app.linjimi.com/zh-cn/blog/uwptowinui3devlog1/</loc>
+    <lastmod>2025-01-25T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://app.linjimi.com/zh-cn/tags/hugo/</loc>
     <lastmod>2024-08-17T21:37:10+08:00</lastmod>
     <xhtml:link
@@ -129,19 +151,6 @@
                 rel="alternate"
                 hreflang="zh-CN"
                 href="https://app.linjimi.com/zh-cn/tags/hugo/"
-                />
-  </url><url>
-    <loc>https://app.linjimi.com/zh-cn/tags/</loc>
-    <lastmod>2024-08-17T21:37:10+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://app.linjimi.com/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-CN"
-                href="https://app.linjimi.com/zh-cn/tags/"
                 />
   </url><url>
     <loc>https://app.linjimi.com/zh-cn/tags/%E5%8D%9A%E5%AE%A2/</loc>
