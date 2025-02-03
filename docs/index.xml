@@ -367,7 +367,12 @@ are excited to have you along with the journey in our development cycle, and exp
       <description>
         
         
-        &lt;h2&gt;v1.5.48&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1548&#34;&gt;&lt;/span&gt;
+        &lt;h2&gt;v1.5.49&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1549&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#v1549&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Date：2025/2/3&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Bug fixes: Fix videos download&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;v1.5.48&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1548&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#v1548&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Date：2024/01/03&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Improvement: UI adjustment in settings&lt;/li&gt;
@@ -421,6 +426,13 @@ are excited to have you along with the journey in our development cycle, and exp
         
         
         &lt;p&gt;IPTV Fluent is constantly receiving updates and in active development right now.&lt;/p&gt;
+&lt;h2&gt;v1.0.27&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1027&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#v1027&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Release date: TBD&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Feature: VLC add custom video ratio option&lt;/li&gt;
+&lt;li&gt;Feature: VLC add subtitle delay option&lt;/li&gt;
+&lt;li&gt;Bug fixes: Certain EPG url unable to switch between pages&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h2&gt;v1.0.26&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1026&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#v1026&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Release date: 2025/1/20&lt;/p&gt;
 &lt;ul&gt;
