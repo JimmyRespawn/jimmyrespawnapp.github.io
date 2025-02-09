@@ -23,7 +23,7 @@
   <meta itemprop="name" content="新手入门">
   <meta itemprop="description" content="如果希望更深入的了解下载管理器，可以耐心查看以下文档内容，今后可能会推出视频介绍等。">
   <meta itemprop="dateModified" content="2024-11-04T16:33:56+08:00">
-  <meta itemprop="wordCount" content="667">
+  <meta itemprop="wordCount" content="636">
   <meta name="twitter:card" content="summary">
   <meta name="twitter:title" content="新手入门">
   <meta name="twitter:description" content="如果希望更深入的了解下载管理器，可以耐心查看以下文档内容，今后可能会推出视频介绍等。">
@@ -619,12 +619,12 @@
 </ul>
 <h2>2. 应用内浏览器<span class="hx-absolute -hx-mt-20" id="2-应用内浏览器"></span>
     <a href="#2-%e5%ba%94%e7%94%a8%e5%86%85%e6%b5%8f%e8%a7%88%e5%99%a8" class="subheading-anchor" aria-label="Permalink for this section"></a></h2><p>下载管理器中直接内置了一个用于嗅探下载的浏览器，可以在非常复杂的页面中直接嗅探出可下载的文件，从而防止默认的下载链接是其他诱导安装的可执行程序，具体使用逻辑见应用浏览器篇</p>
-<p>p.s. 不用担心，这不是任何Chromium套壳，而是直接使用了Windows内置的Edge Webview 2，不会占用更多应用空间。</p>
-<p>p.s.2 请注意下载平台的安全性，dmk自身不会检测下载的文件是否存在具有威胁的内容与否，尽管在下载完成后，会调用系统默认的防控软对文件进行扫描，但除了文件本身外，防控软件可能会误认为下载器本身与文件有直接关联。</p>
+<p>p.s. 不用担心，这不是任何 Chromium 套壳，而是直接使用了 Windows 内置的 Edge Webview 2，不会占用更多应用空间。</p>
+<p>p.s.2 请注意下载平台的安全性，dmk 自身不会检测下载的文件是否存在具有威胁的内容与否，尽管在下载完成后，会调用系统默认的防控软对文件进行扫描，但除了文件本身外，防控软件可能会误认为下载器本身与文件有直接关联。</p>
 <h2>3. 文件管理器<span class="hx-absolute -hx-mt-20" id="3-文件管理器"></span>
     <a href="#3-%e6%96%87%e4%bb%b6%e7%ae%a1%e7%90%86%e5%99%a8" class="subheading-anchor" aria-label="Permalink for this section"></a></h2><p>应用内置下载完成文件的管理器，支持一些通用的文件管理能力，包括但不限于打开、复制、移动、重命名等，但只可管理下载文件夹的文件内容，由于UWP应用的沙箱逻辑，除下载文件夹外的文件，都无法通过应用进行访问管理。</p>
 <h2>4. 应用原理<span class="hx-absolute -hx-mt-20" id="4-应用原理"></span>
-    <a href="#4-%e5%ba%94%e7%94%a8%e5%8e%9f%e7%90%86" class="subheading-anchor" aria-label="Permalink for this section"></a></h2><p>优点: 采用.Net Native原生的Download Operation，表示下载管理器使用真正原生的下载线程，优点是极度轻量与快捷。</p>
+    <a href="#4-%e5%ba%94%e7%94%a8%e5%8e%9f%e7%90%86" class="subheading-anchor" aria-label="Permalink for this section"></a></h2><p>优点: 采用 .Net Native 原生的 Download Operation，表示下载管理器使用真正原生的下载线程，优点是极度轻量与快捷。</p>
 <p>缺点: 对大文件和慢文件的稳定性不如传统 Http Client， 但如果下载管理器使用和其他应用一样的内核，那么这款轻量下载器又有什么存在的意义？</p>
         </div>
         <div class="hx-mt-16"></div>

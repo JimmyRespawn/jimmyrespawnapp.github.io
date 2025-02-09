@@ -23,19 +23,6 @@
       <description>
         
         
-        &lt;p&gt;If you want to learn more about the Podcasted, please take your time to go through the following documentation.&lt;/p&gt;
-      </description>
-    </item>
-    
-    <item>
-      <title>Configurations</title>
-      <link>https://app.linjimi.com/docs/podcasted/configurations/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://app.linjimi.com/docs/podcasted/configurations/</guid>
-      <description>
-        
-        
         &lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;**Add a podcast:**There are four ways you can add your podcast. The first is simply search and
@@ -77,6 +64,71 @@ account logged in, it’ll continue playing from the recorded time. You may turn
     </item>
     
     <item>
+      <title>Configurations</title>
+      <link>https://app.linjimi.com/docs/podcasted/configurations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://app.linjimi.com/docs/podcasted/configurations/</guid>
+      <description>
+        
+        
+        &lt;h2&gt;Introduction to the &amp;ldquo;Settings&amp;rdquo; Features in the Podcasted App&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;introduction-to-the-settings-features-in-the-podcasted-app&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#introduction-to-the-settings-features-in-the-podcasted-app&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h2&gt;General&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;general&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#general&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Theme&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;theme&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#theme&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;The app supports light, dark, and automatic themes.&lt;/p&gt;
+&lt;h3&gt;Change Language&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;change-language&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#change-language&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Supports about 10 built-in languages. If the change does not take effect, it means the corresponding language pack is not installed on the system.&lt;/p&gt;
+&lt;h3&gt;Menu Position&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;menu-position&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#menu-position&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;The default menu position is on the left, but it can be moved to the top based on user preference.&lt;/p&gt;
+&lt;h2&gt;Playback&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;playback&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#playback&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Playback Speed&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;playback-speed&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#playback-speed&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Allows adjusting the audio playback speed within a range of 0.5 to 3.0.&lt;/p&gt;
+&lt;h3&gt;Continue Playback&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;continue-playback&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#continue-playback&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;When the app is opened, it will resume playing the previously playing content. This feature can be disabled.&lt;/p&gt;
+&lt;h3&gt;Audio Output&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;audio-output&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#audio-output&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Supports switching podcast playback to a specific audio device, such as headphones, different amplifiers, or speakers.&lt;/p&gt;
+&lt;h3&gt;Sleep Timer&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;sleep-timer&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#sleep-timer&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Allows podcasts to stop playing after a specified period.&lt;/p&gt;
+&lt;h2&gt;Sync&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;sync&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#sync&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;OneDrive Sync&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;onedrive-sync&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#onedrive-sync&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Supports saving playback history and subscriptions to OneDrive for cloud transfer across different devices.&lt;/p&gt;
+&lt;h3&gt;OPML Sync&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;opml-sync&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#opml-sync&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Allows batch importing or exporting of podcast subscriptions via OPML files.&lt;/p&gt;
+&lt;h2&gt;Download&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;download&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#download&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Change Folder&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;change-folder&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#change-folder&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Supports modifying the preferred location for downloaded podcast episodes.&lt;/p&gt;
+&lt;h3&gt;Auto Download&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;auto-download&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#auto-download&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;When a podcast releases a new episode, it can be automatically downloaded and cached locally.&lt;/p&gt;
+&lt;h3&gt;Delete After Playback&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;delete-after-playback&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#delete-after-playback&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Locally cached podcast episodes can be automatically deleted after playback is complete.&lt;/p&gt;
+&lt;h3&gt;Auto Cleanup&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;auto-cleanup&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#auto-cleanup&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;For subscribed podcasts, when cached episodes exceed a certain number, they can be automatically deleted.&lt;/p&gt;
+&lt;h3&gt;Save Podcast Folder Name&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;save-podcast-folder-name&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#save-podcast-folder-name&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;By default, downloaded files are saved in a folder named after the podcast author. This can be changed to the podcast name.&lt;/p&gt;
+&lt;h2&gt;Inspection&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;inspection&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#inspection&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Unplayed Episodes&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;unplayed-episodes&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#unplayed-episodes&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Supports batch querying of the number of unplayed episodes for subscribed podcasts.&lt;/p&gt;
+&lt;h3&gt;Unplayed Indicator&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;unplayed-indicator&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#unplayed-indicator&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;When enabled, the app will display the number of unplayed episodes for subscribed podcasts upon startup.&lt;/p&gt;
+&lt;h3&gt;Update All Podcast Covers&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;update-all-podcast-covers&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#update-all-podcast-covers&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Subscribed podcasts may update their icons online, but the local cache retains the original cover from the time of subscription. This feature updates to the latest cover.&lt;/p&gt;
+&lt;h2&gt;Network&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;network&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#network&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Offline Mode&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;offline-mode&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#offline-mode&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;When enabled, the app will not consume data upon startup. It will only connect to the internet when manually refreshing or downloading podcasts.&lt;/p&gt;
+&lt;h2&gt;Pin&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;pin&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#pin&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Pin Icon to Star&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;pin-icon-to-star&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#pin-icon-to-star&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Quickly pin the app to the Start menu.&lt;/p&gt;
+&lt;h3&gt;Pin to Taskbar&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;pin-to-taskbar&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#pin-to-taskbar&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Quickly pin the app to the taskbar.&lt;/p&gt;
+&lt;h2&gt;About&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;about&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#about&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Check for Updates&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;check-for-updates&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#check-for-updates&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;As the name suggests, checks if there are updates for the podcast app in the Store.&lt;/p&gt;
+&lt;h3&gt;Hotkeys&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;hotkeys&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#hotkeys&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Displays available keyboard and controller shortcut keys.&lt;/p&gt;
+      </description>
+    </item>
+    
+    <item>
       <title>Pro feature</title>
       <link>https://app.linjimi.com/docs/podcasted/podcastedpro/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -88,7 +140,7 @@ account logged in, it’ll continue playing from the recorded time. You may turn
         &lt;h2&gt;What Features Are Included?&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;what-features-are-included&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#what-features-are-included&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;Subscribe more than 5 podcasts&lt;/li&gt;
-&lt;li&gt;Remvoe advertisment&lt;/li&gt;
+&lt;li&gt;Remove advertisement&lt;/li&gt;
 &lt;li&gt;Support the developer and get more upcoming exclusive features&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;Pricing&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;pricing&#34;&gt;&lt;/span&gt;

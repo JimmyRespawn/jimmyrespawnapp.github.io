@@ -34,15 +34,45 @@
 &lt;h2&gt;3. 如何在 IPTV Fluent 中使用 M3U&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;3-如何在-iptv-fluent-中使用-m3u&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#3-%e5%a6%82%e4%bd%95%e5%9c%a8-iptv-fluent-%e4%b8%ad%e4%bd%bf%e7%94%a8-m3u&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://github.com/JimmyRespawn/IPTV-Fluent/blob/main/SearchSectionIPTVFluent.png?raw=true&#34; alt=&#34;VLC Network Panel&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;要开始使用 IPTV Fluent，只需在搜索栏中输入 M3U URL。&lt;/p&gt;
-&lt;!--
+&lt;p&gt;软件将自动加载与 M3U 文件相关的频道和内容，使您能够轻松浏览和流式传输。&lt;/p&gt;
+&lt;h2&gt;4. 常见问题&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;4-常见问题&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#4-%e5%b8%b8%e8%a7%81%e9%97%ae%e9%a2%98&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;问：为什么直播常常卡顿和停止？&lt;/p&gt;
+&lt;p&gt;答：目前有若干种可能，1. 源不稳定，也是最常见的原因，因为播放源与视频网站类似，越多人使用对服务器的要求越高，播放源不稳定不是本地问题但是也无法解决，往往只能换源；2. 本地与对应源服务器的连接速度慢，直播取决的因素十分复杂，就和你玩网游要选区服一样，不同的运营商，不同的地区往往连接速度不同，导致的结果就是看直播卡，也是无法解决，只能换源；3. 本地设备配置不高，导致解码卡顿，这种情况是源和连接速度都稳定，但是视频传输到设备以后，本地的机器来不及解析，不同的播放器引擎解析视频的效率也不同，目前可以做的就是切换不同的播放引擎，试试不同的引擎能不能解除播放卡顿和停止的问题。&lt;/p&gt;
+&lt;p&gt;问：有些 M3U 的频道列表为什么没有解析出来？&lt;/p&gt;
+&lt;p&gt;答：提供 M3U 文件或者源地址，需要我们对应用进行优化。&lt;/p&gt;
+&lt;p&gt;问：切换频道为什么会偶尔闪退？&lt;/p&gt;
+&lt;p&gt;答：VLC 播放引擎目前对缓冲中的直播流无法中断，导致线程卡顿容易崩溃，虽然 VLC 会在未来版本中会解决，但是目前还没有太好的方法。通常稳定的播放源不会导致闪退问题，但是若源存在大量不稳定的频道，就会闪退。只能切换播放引擎至 FFmpeg 或者原生减少闪退。&lt;/p&gt;
+&lt;p&gt;问：应用未来的更新计划？&lt;/p&gt;
+&lt;p&gt;答：目前有清晰的路线图，但不会承诺任何功能。免费版与收费功能都会持续提供新的内容，通常为月更。&lt;/p&gt;
+&lt;!-- 
+
+
+
+
+
+
+
+
+
+
+
 
     
-    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/w7Ft2ymGmfc?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
-      &gt;&lt;/iframe&gt;
-    &lt;/div&gt;
---&gt;
-&lt;p&gt;软件将自动加载与 M3U 文件相关的频道和内容，使您能够轻松浏览和流式传输。&lt;/p&gt;
+
+
+
+
+&lt;div style=&#34;margin: 10px 0 20px 0;&#34;&gt;
+  &lt;div style=&#34;position:relative; padding-bottom:75%; width:100%; height:0&#34;&gt;
+    &lt;iframe src=&#34;//player.bilibili.com/player.html?bvid=BV1c64y1n77m&amp;page=1&#34;       
+        scrolling=&#34;no&#34; border=&#34;0&#34;
+        frameborder=&#34;no&#34; 
+        framespacing=&#34;0&#34; 
+        allowfullscreen=&#34;true&#34; 
+        style=&#34;position:absolute; height: 100%; width: 100%;&#34;&gt;
+    &lt;/iframe&gt;
+  &lt;/div&gt;
+&lt;/div&gt; --&gt;
 &lt;h2&gt;阅读更多&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;阅读更多&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#%e9%98%85%e8%af%bb%e6%9b%b4%e5%a4%9a&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/search?q=iptv&amp;#43;list&amp;amp;type=repositories&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Github 上的 IPTV m3u 列表示例&lt;/a&gt;&lt;/li&gt;
@@ -101,13 +131,15 @@
 &lt;/div&gt;
 
 &lt;h2&gt;常规设置&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;常规设置&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#%e5%b8%b8%e8%a7%84%e8%ae%be%e7%bd%ae&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;启动菜单&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;启动菜单&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e5%b8%b8%e8%a7%84%e8%ae%be%e7%bd%ae&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;主题&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;主题&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e4%b8%bb%e9%a2%98&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;提供自动、浅色、深色三种主题，自动即与设备的主题保持一致。&lt;/p&gt;
+&lt;h3&gt;启动菜单&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;启动菜单&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#%e5%90%af%e5%8a%a8%e8%8f%9c%e5%8d%95&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://od.lk/s/200607426_u0Sx5/launchmenu.png&#34; alt=&#34;image&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;有&lt;code&gt;直播&lt;/code&gt;、&lt;code&gt;频道&lt;/code&gt; 和 &lt;code&gt;播放单&lt;/code&gt;。启动应用后，它将立即打开您选择的选项。&lt;/p&gt;
 &lt;h3&gt;应用语言&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;应用语言&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#%e5%ba%94%e7%94%a8%e8%af%ad%e8%a8%80&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://od.lk/s/200607851_yegn7/language.png&#34; alt=&#34;image&#34; loading=&#34;lazy&#34; /&gt;
 应用中提供了 20 种语言选项。&lt;/p&gt;
-&lt;p&gt;除了英语、法语、西班牙语和中文外，其他语言均由 AI 和机器翻译。如果希望帮助我们翻译应用，欢迎加入翻译团队。&lt;/p&gt;
+&lt;p&gt;除了英语、法语、西班牙语和中文外，其他语言均由 AI 和机器翻译。如果希望帮助我们翻译应用，欢迎加入在 Crowdin 平台的翻译团队。&lt;/p&gt;
 &lt;p&gt;如果您的操作系统没有相应的语言包，改变后的应用语言将不会生效。&lt;/p&gt;
 &lt;h2&gt;播放列表同步&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;播放列表同步&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#%e6%92%ad%e6%94%be%e5%88%97%e8%a1%a8%e5%90%8c%e6%ad%a5&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://od.lk/s/200608026_n1oNA/sync.png&#34; alt=&#34;image&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
@@ -118,16 +150,16 @@
     &lt;a href=&#34;#%e6%92%ad%e6%94%be%e8%ae%be%e7%bd%ae&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;播放引擎&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;播放引擎&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#%e6%92%ad%e6%94%be%e5%bc%95%e6%93%8e&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://od.lk/s/200609031_t4bhu/playbackengine.png&#34; alt=&#34;image&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;播放引擎是流媒体播放的核心播放器。如果在播放某些直播流时遇到问题，您可以尝试更换播放引擎。&lt;/p&gt;
-&lt;p&gt;1: VLC 提供更好的图像质量和源支持。&lt;/p&gt;
-&lt;p&gt;2: 系统原生播放器在 RAM 内存管理和稳定性管理方面表现更佳。&lt;/p&gt;
-&lt;p&gt;3: FFMpeg 对流媒体的支持更好，但会消耗更多的 RAM 内存。&lt;/p&gt;
-&lt;h3&gt;电子节目指南&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;电子节目指南&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#%e7%94%b5%e5%ad%90%e8%8a%82%e7%9b%ae%e6%8c%87%e5%8d%97&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://od.lk/s/200611282_LCp8I/EPG.png&#34; alt=&#34;image&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;1: VLC：提供更好的图像质量和源支持。&lt;/p&gt;
+&lt;p&gt;2: 系统：原生播放器在 RAM 内存管理和稳定性管理方面表现更佳。&lt;/p&gt;
+&lt;p&gt;3: FFMpeg：对流媒体的支持更好，但会消耗更多的 RAM 内存。&lt;/p&gt;
+&lt;h3&gt;EPG 电子节目指南&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;epg-电子节目指南&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#epg-%e7%94%b5%e5%ad%90%e8%8a%82%e7%9b%ae%e6%8c%87%e5%8d%97&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://od.lk/s/200611282_LCp8I/EPG.png&#34; alt=&#34;image&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;自定义 EPG 需要一个外部的 xml 链接，该链接可能由您的 IPTV 提供商提供，或者您可以在网上搜索。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://od.lk/s/200612577_CWt9Q/epg2.png&#34; alt=&#34;image&#34; loading=&#34;lazy&#34; /&gt;
 设置 URL 后，它将显示即将播放的节目。&lt;/p&gt;
-&lt;h3&gt;自动关闭&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;自动关闭&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#%e8%87%aa%e5%8a%a8%e5%85%b3%e9%97%ad&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://od.lk/s/200612991_jD6Gx/autosleep.png&#34; alt=&#34;image&#34; loading=&#34;lazy&#34; /&gt;
+&lt;h3&gt;自动睡眠&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;自动睡眠&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e8%87%aa%e5%8a%a8%e7%9d%a1%e7%9c%a0&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://od.lk/s/200612991_jD6Gx/autosleep.png&#34; alt=&#34;image&#34; loading=&#34;lazy&#34; /&gt;
 应用支持在一定时间后自动关闭。&lt;/p&gt;
 &lt;h2&gt;列表设置&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;列表设置&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#%e5%88%97%e8%a1%a8%e8%ae%be%e7%bd%ae&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;默认列表视图&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;默认列表视图&#34;&gt;&lt;/span&gt;
@@ -139,6 +171,8 @@
 &lt;p&gt;打开此功能后，加载在线列表后将自动隐藏这些频道。&lt;/p&gt;
 &lt;h3&gt;更新频率&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;更新频率&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#%e6%9b%b4%e6%96%b0%e9%a2%91%e7%8e%87&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;选择 &lt;code&gt;每天&lt;/code&gt; 选项可以每日缓存在线列表，而无需每次加载列表。&lt;/p&gt;
+&lt;h3&gt;更换默认在线地址&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;更换默认在线地址&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e6%9b%b4%e6%8d%a2%e9%bb%98%e8%ae%a4%e5%9c%a8%e7%ba%bf%e5%9c%b0%e5%9d%80&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;除了在左边搜索频道处直接替换，也可以在设置中对默认的在线列表进行修改。&lt;/p&gt;
 &lt;h2&gt;阅读更多&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;阅读更多&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#%e9%98%85%e8%af%bb%e6%9b%b4%e5%a4%9a&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://zh.wikipedia.org/wiki/%E7%94%B5%E5%AD%90%E8%8A%82%E7%9B%AE%E6%8C%87%E5%8D%97&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;维基百科：电子节目指南&lt;/a&gt;&lt;/li&gt;
@@ -160,21 +194,28 @@
 &lt;p&gt;IPTV Fluent 和 Plus 在开发过程中不断接收新功能和错误修复。&lt;/p&gt;
 &lt;h2&gt;Plus 提供什么功能？&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;plus-提供什么功能&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#plus-%e6%8f%90%e4%be%9b%e4%bb%80%e4%b9%88%e5%8a%9f%e8%83%bd&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;支持定时关闭&lt;/li&gt;
+&lt;li&gt;支持定时关闭应用&lt;/li&gt;
 &lt;li&gt;自定义 EPG 列表&lt;/li&gt;
-&lt;li&gt;导出频道列表&lt;/li&gt;
+&lt;li&gt;导出频道列表为 M3U 文件&lt;/li&gt;
 &lt;li&gt;去除广告&lt;/li&gt;
-&lt;li&gt;同步本地喜爱与在线列表&lt;/li&gt;
-&lt;li&gt;支持收藏列表&lt;/li&gt;
+&lt;li&gt;通过 OneDrive 同步本地喜爱与在线列表&lt;/li&gt;
+&lt;li&gt;支持频道收藏与添加至本地列表&lt;/li&gt;
 &lt;li&gt;支持多个在线列表&lt;/li&gt;
-&lt;li&gt;保存视频截图&lt;/li&gt;
+&lt;li&gt;缓存当天的在线列表&lt;/li&gt;
+&lt;li&gt;(VLC)保存视频截图&lt;/li&gt;
+&lt;li&gt;(VLC)添加图层防烧 OLED 屏&lt;/li&gt;
+&lt;li&gt;支持播放本地和局域网视频&lt;/li&gt;
+&lt;li&gt;支持 VOD 视频外挂字幕&lt;/li&gt;
 &lt;li&gt;更多独占功能持续更新&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;售价&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;售价&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#%e5%94%ae%e4%bb%b7&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;IPTV Plus 提供两种选项：&lt;code&gt;终身&lt;/code&gt; 和 &lt;code&gt;订阅&lt;/code&gt;。&lt;/p&gt;
-&lt;p&gt;订阅费用为 ￥7，适用于 10 台设备的许可证。订阅到期后 Plus 功能将被锁定。&lt;/p&gt;
-&lt;p&gt;终身费用为 ￥84，适用于 10 台设备的许可证。&lt;/p&gt;
-&lt;p&gt;提供的 Plus 功能是相同的。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;订阅费用为 ￥7 人民币，适用于 10 台设备的许可证。订阅到期后 Plus 功能将被锁定。&lt;/li&gt;
+&lt;li&gt;终身费用为 ￥84 人民币，适用于 10 台设备的许可证。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;订阅版与终身版提供的 Plus 功能是相同的，只要登录账号相同皆可解锁。&lt;/p&gt;
+&lt;p&gt;订阅版管理链接：&lt;a href=&#34;https://account.microsoft.com/services&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Microsoft Subscription&lt;/a&gt;&lt;/p&gt;
       </description>
     </item>
     
