@@ -433,6 +433,7 @@
 &lt;li&gt;永久删除广告&lt;/li&gt;
 &lt;li&gt;支持订阅 5 个节目以上&lt;/li&gt;
 &lt;li&gt;保存播放列表&lt;/li&gt;
+&lt;li&gt;添加播客至播放列表&lt;/li&gt;
 &lt;li&gt;更多未来独占功能&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;价格&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;价格&#34;&gt;&lt;/span&gt;
@@ -622,7 +623,12 @@
       <description>
         
         
-        &lt;h2&gt;v1.7.37&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1737&#34;&gt;&lt;/span&gt;
+        &lt;h2&gt;v1.7.38&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1738&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#v1738&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;发布日期：待定&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;修复：跳转其它页面菜单重新展开的问题&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;v1.7.37&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1737&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#v1737&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;发布日期：2025/2/22&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;优化：新 Logo 图标&lt;/li&gt;
