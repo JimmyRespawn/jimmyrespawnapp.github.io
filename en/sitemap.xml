@@ -158,11 +158,11 @@
                 href="https://app.linjimi.com/docs/iptv/updatelog/"
                 />
   </url><url>
-    <loc>https://app.linjimi.com/private/jimmytoolbox/</loc>
-    <lastmod>2025-01-04T06:10:04+08:00</lastmod>
+    <loc>https://app.linjimi.com/blog/iptvfluenttos/</loc>
+    <lastmod>2025-03-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://app.linjimi.com/tags/private/</loc>
-    <lastmod>2025-01-04T06:10:04+08:00</lastmod>
+    <lastmod>2025-03-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-CN"
@@ -175,7 +175,7 @@
                 />
   </url><url>
     <loc>https://app.linjimi.com/tags/</loc>
-    <lastmod>2025-01-04T06:10:04+08:00</lastmod>
+    <lastmod>2025-03-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-CN"
@@ -188,7 +188,7 @@
                 />
   </url><url>
     <loc>https://app.linjimi.com/tags/tos/</loc>
-    <lastmod>2025-01-04T06:10:04+08:00</lastmod>
+    <lastmod>2025-03-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-CN"
@@ -199,6 +199,9 @@
                 hreflang="en"
                 href="https://app.linjimi.com/tags/tos/"
                 />
+  </url><url>
+    <loc>https://app.linjimi.com/private/jimmytoolbox/</loc>
+    <lastmod>2025-01-04T06:10:04+08:00</lastmod>
   </url><url>
     <loc>https://app.linjimi.com/blog/teslawinprivacypolity/</loc>
     <lastmod>2025-01-03T18:50:06+08:00</lastmod>
