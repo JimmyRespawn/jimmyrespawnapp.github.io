@@ -515,6 +515,7 @@
 &lt;ul&gt;
 &lt;li&gt;重要修复：降低 VLC 在切换无响应源频繁导致应用崩溃的严重问题&lt;/li&gt;
 &lt;li&gt;修复：降低切换无法连接频道导致的界面卡死&lt;/li&gt;
+&lt;li&gt;功能：VLC 增加强制刷新页面功能&lt;/li&gt;
 &lt;li&gt;优化: 节目单不是同一天会标注日期&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;v1.0.27&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1027&#34;&gt;&lt;/span&gt;

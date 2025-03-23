@@ -195,6 +195,7 @@ App supports auto shut down after certain amount time.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Bug fixes(Major fix): Lower the crash posibility in VLC playback engine&lt;/li&gt;
 &lt;li&gt;Bug fixes: Lower the UI freezes after switching to unreponsive channels&lt;/li&gt;
+&lt;li&gt;Experimental feature: VLC add force fresh video option&lt;/li&gt;
 &lt;li&gt;Improvement: Mark EPG&amp;rsquo;s date in the blade guide&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;v1.0.27&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1027&#34;&gt;&lt;/span&gt;
