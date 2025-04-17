@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://app.linjimi.com/zh-cn/docs/iptvios/get-started/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://app.linjimi.com/docs/iptvios/get-started/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-CN"
+                href="https://app.linjimi.com/zh-cn/docs/iptvios/get-started/"
+                />
+  </url><url>
     <loc>https://app.linjimi.com/zh-cn/docs/iptv/get-started/</loc>
     <lastmod>2025-02-20T17:22:03+08:00</lastmod>
     <xhtml:link
@@ -39,6 +51,18 @@
                 rel="alternate"
                 hreflang="zh-CN"
                 href="https://app.linjimi.com/zh-cn/docs/podcasted/get-started/"
+                />
+  </url><url>
+    <loc>https://app.linjimi.com/zh-cn/docs/iptvios/configurations/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://app.linjimi.com/docs/iptvios/configurations/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-CN"
+                href="https://app.linjimi.com/zh-cn/docs/iptvios/configurations/"
                 />
   </url><url>
     <loc>https://app.linjimi.com/zh-cn/docs/iptv/configurations/</loc>
@@ -93,6 +117,18 @@
                 href="https://app.linjimi.com/zh-cn/docs/iptv/iptvplus/"
                 />
   </url><url>
+    <loc>https://app.linjimi.com/zh-cn/docs/iptvios/iptvplus/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://app.linjimi.com/docs/iptvios/iptvplus/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-CN"
+                href="https://app.linjimi.com/zh-cn/docs/iptvios/iptvplus/"
+                />
+  </url><url>
     <loc>https://app.linjimi.com/zh-cn/docs/download-manager/dmkpro/</loc>
     <lastmod>2025-02-09T22:17:30+08:00</lastmod>
     <xhtml:link
@@ -117,6 +153,18 @@
                 rel="alternate"
                 hreflang="zh-CN"
                 href="https://app.linjimi.com/zh-cn/docs/podcasted/podcastedpro/"
+                />
+  </url><url>
+    <loc>https://app.linjimi.com/zh-cn/docs/iptvios/updatelog/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://app.linjimi.com/docs/iptvios/updatelog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-CN"
+                href="https://app.linjimi.com/zh-cn/docs/iptvios/updatelog/"
                 />
   </url><url>
     <loc>https://app.linjimi.com/zh-cn/docs/download-manager/updatelog/</loc>
