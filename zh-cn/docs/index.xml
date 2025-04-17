@@ -15,46 +15,6 @@
     
     
     <item>
-      <title>Get Started</title>
-      <link>https://app.linjimi.com/zh-cn/docs/iptvios/get-started/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://app.linjimi.com/zh-cn/docs/iptvios/get-started/</guid>
-      <description>
-        
-        
-        &lt;p&gt;如果你是 IPTV 新手，请耐心一点。IPTV Fluent 并不提供内置频道。&lt;/p&gt;
-&lt;h2&gt;1. 什么是 IPTV Fluent Player&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;1-什么是-iptv-fluent-player&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#1-%e4%bb%80%e4%b9%88%e6%98%af-iptv-fluent-player&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;IPTV Fluent Player 是一款让用户通过互联网流式播放内容的软件工具。&lt;/p&gt;
-&lt;p&gt;它支持各种格式的直播频道和点播内容，提供一个灵活的界面，帮助你浏览和观看来自世界各地的媒体资源。&lt;/p&gt;
-&lt;h2&gt;2. 什么是 M3U？如何合法获取？&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;2-什么是-m3u如何合法获取&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#2-%e4%bb%80%e4%b9%88%e6%98%af-m3u%e5%a6%82%e4%bd%95%e5%90%88%e6%b3%95%e8%8e%b7%e5%8f%96&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;M3U 是一种常用的播放列表文件格式，常用于存储 IPTV 频道列表。&lt;/p&gt;
-&lt;p&gt;它包含用于流媒体播放的 URL，可以通过合法渠道（如有授权的 IPTV 服务提供商或广播机构）获取。&lt;/p&gt;
-&lt;p&gt;请务必确保你使用的是合法获取的 M3U 文件，以避免侵犯版权。&lt;/p&gt;
-&lt;h2&gt;3. 如何在 IPTV Fluent 中使用 M3U&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;3-如何在-iptv-fluent-中使用-m3u&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#3-%e5%a6%82%e4%bd%95%e5%9c%a8-iptv-fluent-%e4%b8%ad%e4%bd%bf%e7%94%a8-m3u&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;!-- ![31](/images/iptv_ios_getstarted_1.webp) --&gt;
-&lt;p&gt;3.1 要开始使用 IPTV Fluent，只需点击菜单栏中的 &lt;code&gt;播放单&lt;/code&gt;。&lt;/p&gt;
-&lt;!-- ![32](/images/iptv_ios_getstarted_2.webp) --&gt;
-&lt;p&gt;3.2 点击 &lt;code&gt;创建列表&lt;/code&gt; 按钮或顶部的 &lt;code&gt;+&lt;/code&gt;。&lt;/p&gt;
-&lt;p&gt;3.3 然后点击 &lt;code&gt;在线列表&lt;/code&gt;。&lt;/p&gt;
-&lt;!-- ![33](/images/iptv_ios_getstarted_3.webp) --&gt;
-&lt;p&gt;3.4 在 &lt;code&gt;服务器地址&lt;/code&gt; 中输入你的个人 M3U 地址，并点击 &lt;code&gt;创建&lt;/code&gt; 按钮或右上角的按钮。你也可以输入列表名称或 EPG URL（可选项）。&lt;/p&gt;
-&lt;!-- ![34](/images/iptv_ios_getstarted_4.webp) --&gt;
-&lt;p&gt;3.5 点击你刚刚创建的列表，系统会自动返回 &lt;code&gt;频道&lt;/code&gt; 菜单。&lt;/p&gt;
-&lt;!-- ![35](/images/iptv_ios_getstarted_5.webp) --&gt;
-&lt;p&gt;3.6 点击你想观看的任意 &lt;code&gt;视频/频道&lt;/code&gt;，然后——搞定！应用会自动加载与 M3U 文件相关的频道和内容，让你轻松浏览与播放。&lt;/p&gt;
-&lt;!--
-
-    
-    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/JunsrPm743A?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
-      &gt;&lt;/iframe&gt;
-    &lt;/div&gt;
---&gt;
-      </description>
-    </item>
-    
-    <item>
       <title>快速入门</title>
       <link>https://app.linjimi.com/zh-cn/docs/iptv/get-started/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -118,6 +78,46 @@
 &lt;li&gt;&lt;a href=&#34;https://github.com/search?q=iptv&amp;#43;list&amp;amp;type=repositories&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Github 上的 IPTV m3u 列表示例&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://zh.wikipedia.org/wiki/IPTV&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;维基百科上的 IPTV 历史&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+      </description>
+    </item>
+    
+    <item>
+      <title>快速入门</title>
+      <link>https://app.linjimi.com/zh-cn/docs/iptvios/get-started/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://app.linjimi.com/zh-cn/docs/iptvios/get-started/</guid>
+      <description>
+        
+        
+        &lt;p&gt;如果你不了解 IPTV ，请耐心查看文档。IPTV Fluent 并不提供内置频道。&lt;/p&gt;
+&lt;h2&gt;1. 什么是 IPTV Fluent Player&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;1-什么是-iptv-fluent-player&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#1-%e4%bb%80%e4%b9%88%e6%98%af-iptv-fluent-player&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;IPTV Fluent Player 是一款让用户通过互联网播放在线流媒体内容的软件工具。&lt;/p&gt;
+&lt;p&gt;它支持各种格式的直播频道和点播内容，提供原生的界面，帮助你浏览和观看来自世界各地的媒体资源。&lt;/p&gt;
+&lt;h2&gt;2. 什么是 M3U？如何合法获取？&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;2-什么是-m3u如何合法获取&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#2-%e4%bb%80%e4%b9%88%e6%98%af-m3u%e5%a6%82%e4%bd%95%e5%90%88%e6%b3%95%e8%8e%b7%e5%8f%96&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;M3U 是一种常用的播放列表文件格式，常用于存储 IPTV 频道列表。&lt;/p&gt;
+&lt;p&gt;它包含用于流媒体播放的 URL，可以通过合法渠道（如有授权的 IPTV 服务提供商或广播机构）获取。&lt;/p&gt;
+&lt;p&gt;请务必确保你使用的是合法获取的 M3U 文件，以避免侵犯版权。&lt;/p&gt;
+&lt;h2&gt;3. 如何在 IPTV Fluent 中使用 M3U&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;3-如何在-iptv-fluent-中使用-m3u&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#3-%e5%a6%82%e4%bd%95%e5%9c%a8-iptv-fluent-%e4%b8%ad%e4%bd%bf%e7%94%a8-m3u&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;!-- ![31](/images/iptv_ios_getstarted_1.webp) --&gt;
+&lt;p&gt;3.1 要开始使用 IPTV Fluent，只需点击菜单栏中的 &lt;code&gt;播放单&lt;/code&gt;。&lt;/p&gt;
+&lt;!-- ![32](/images/iptv_ios_getstarted_2.webp) --&gt;
+&lt;p&gt;3.2 点击 &lt;code&gt;创建列表&lt;/code&gt; 按钮或顶部的 &lt;code&gt;+&lt;/code&gt;。&lt;/p&gt;
+&lt;p&gt;3.3 然后点击 &lt;code&gt;在线列表&lt;/code&gt;。&lt;/p&gt;
+&lt;!-- ![33](/images/iptv_ios_getstarted_3.webp) --&gt;
+&lt;p&gt;3.4 在 &lt;code&gt;服务器地址&lt;/code&gt; 中输入你的个人 M3U 地址，并点击 &lt;code&gt;创建&lt;/code&gt; 按钮或右上角的按钮。你也可以输入列表名称或 EPG URL（可选项）。&lt;/p&gt;
+&lt;!-- ![34](/images/iptv_ios_getstarted_4.webp) --&gt;
+&lt;p&gt;3.5 点击你刚刚创建的列表，系统会自动返回 &lt;code&gt;频道&lt;/code&gt; 菜单。&lt;/p&gt;
+&lt;!-- ![35](/images/iptv_ios_getstarted_5.webp) --&gt;
+&lt;p&gt;3.6 点击你想观看的任意 &lt;code&gt;视频/频道&lt;/code&gt;，然后——搞定！应用会自动加载与 M3U 文件相关的频道和内容，让你轻松浏览与播放。&lt;/p&gt;
+&lt;!--
+
+    
+    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/JunsrPm743A?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
+      &gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+--&gt;
       </description>
     </item>
     
@@ -190,73 +190,6 @@
     &lt;a href=&#34;#4-%e5%bf%ab%e6%8d%b7%e9%94%ae&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;PC和Xbox版本都支持快捷键。&lt;/p&gt;
 &lt;p&gt;对于PC版本：Ctrl + W 退出应用；Ctrl + T 进入紧凑型覆盖模式；Ctrl + P 播放或暂停当前播放；Ctrl + F 调用搜索；Ctrl + S 进入设置页面；Ctrl + M 静音或取消静音。&lt;/p&gt;
 &lt;p&gt;对于Xbox版本：Y 调用搜索；X 聚焦到播放按钮；查看按钮 打开剧集详情窗口。&lt;/p&gt;
-      </description>
-    </item>
-    
-    <item>
-      <title>Configurations</title>
-      <link>https://app.linjimi.com/zh-cn/docs/iptvios/configurations/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://app.linjimi.com/zh-cn/docs/iptvios/configurations/</guid>
-      <description>
-        
-        
-        &lt;p&gt;虽然只要你有个人的 IPTV 服务提供商，IPTV Fluent 就已准备好播放流媒体内容，但它仍提供了强大的自定义设置选项。&lt;/p&gt;
-&lt;h2&gt;1. 菜单布局&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;1-菜单布局&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#1-%e8%8f%9c%e5%8d%95%e5%b8%83%e5%b1%80&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;要调整 IPTV Fluent 的设置，只需点击标签菜单中的 &lt;code&gt;设置&lt;/code&gt; 按钮。&lt;/p&gt;
-&lt;div class=&#34;hextra-filetree hx-mt-6 hx-select-none hx-text-sm hx-text-gray-800 dark:hx-text-gray-300 not-prose&#34;&gt;
-  &lt;div class=&#34;hx-inline-block hx-rounded-lg hx-border hx-px-4 hx-py-2 dark:hx-border-neutral-800&#34;&gt;
-  
-
-&lt;li class=&#34;hx-group hx-flex hx-list-none hx-flex-col&#34;&gt;
-  &lt;button class=&#34;hextra-filetree-folder hx-inline-flex hx-cursor-pointer hx-items-center hx-py-1 hover:hx-opacity-60&#34;&gt;
-    &lt;span data-state=&#34;open&#34; class=&#34;data-[state=open]:hx-hidden&#34;&gt;&lt;svg width=1em xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M3 7v10a2 2 0 002 2h14a2 2 0 002-2V9a2 2 0 00-2-2h-6l-2-2H5a2 2 0 00-2 2z&#34;/&gt;&lt;/svg&gt;&lt;/span&gt;
-    &lt;span data-state=&#34;open&#34; class=&#34;data-[state=closed]:hx-hidden&#34;&gt;&lt;svg width=1em xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M5 19a2 2 0 01-2-2V7a2 2 0 012-2h4l2 2h4a2 2 0 012 2v1M5 19h14a2 2 0 002-2v-5a2 2 0 00-2-2H9a2 2 0 00-2 2v5a2 2 0 01-2 2z&#34;/&gt;&lt;/svg&gt;&lt;/span&gt;
-    &lt;span class=&#34;ltr:hx-ml-1 rtl:hx-mr-1&#34;&gt;IPTV Fluent&lt;/span&gt;
-  &lt;/button&gt;
-  &lt;ul data-state=&#34;open&#34; class=&#34;ltr:hx-pl-5 rtl:hx-pr-5 data-[state=closed]:hx-hidden&#34;&gt;
-      &lt;li class=&#34;hx-flex hx-list-none&#34;&gt;
-        &lt;span class=&#34;hx-inline-flex hx-cursor-default hx-items-center hx-py-1&#34;&gt;&lt;svg width=1em xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z&#34;/&gt;&lt;/svg&gt;&lt;span class=&#34;ltr:hx-ml-1 rtl:hx-mr-1&#34;&gt;频道&lt;/span&gt;
-        &lt;/span&gt;
-      &lt;/li&gt;
-
-      &lt;li class=&#34;hx-flex hx-list-none&#34;&gt;
-        &lt;span class=&#34;hx-inline-flex hx-cursor-default hx-items-center hx-py-1&#34;&gt;&lt;svg width=1em xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z&#34;/&gt;&lt;/svg&gt;&lt;span class=&#34;ltr:hx-ml-1 rtl:hx-mr-1&#34;&gt;播放单&lt;/span&gt;
-        &lt;/span&gt;
-      &lt;/li&gt;
-
-      &lt;li class=&#34;hx-flex hx-list-none&#34;&gt;
-        &lt;span class=&#34;hx-inline-flex hx-cursor-default hx-items-center hx-py-1&#34;&gt;&lt;svg width=1em xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z&#34;/&gt;&lt;/svg&gt;&lt;span class=&#34;ltr:hx-ml-1 rtl:hx-mr-1&#34;&gt;设置&lt;/span&gt;
-        &lt;/span&gt;
-      &lt;/li&gt;
-
-  &lt;/ul&gt;
-&lt;/li&gt;
-
-&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;h2&gt;2. 列表设置&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;2-列表设置&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#2-%e5%88%97%e8%a1%a8%e8%ae%be%e7%bd%ae&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;2.1 自动检测延迟&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;21-自动检测延迟&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#21-%e8%87%aa%e5%8a%a8%e6%a3%80%e6%b5%8b%e5%bb%b6%e8%bf%9f&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;在某些情况下，服务器上的部分视频可能因网络连接不稳定而无法流畅播放。&lt;/p&gt;
-&lt;p&gt;开启此功能后，在加载在线列表时会自动检测这些频道的延迟情况。&lt;/p&gt;
-&lt;h3&gt;2.2 更新频率&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;22-更新频率&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#22-%e6%9b%b4%e6%96%b0%e9%a2%91%e7%8e%87&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;通过选择 &lt;code&gt;每日&lt;/code&gt; 或 &lt;code&gt;每月&lt;/code&gt;，可以设置在线列表的缓存更新频率，无需每次手动加载。&lt;/p&gt;
-&lt;h2&gt;3. 播放设置&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;3-播放设置&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#3-%e6%92%ad%e6%94%be%e8%ae%be%e7%bd%ae&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;3.1 播放引擎&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;31-播放引擎&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#31-%e6%92%ad%e6%94%be%e5%bc%95%e6%93%8e&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;播放引擎是流媒体背后的核心播放器。如果在播放某些直播流时遇到问题，可以尝试更换播放引擎。&lt;/p&gt;
-&lt;p&gt;1：VLCKit 拥有更好的画面表现和源兼容性支持。&lt;/p&gt;
-&lt;p&gt;2：系统原生播放器拥有更佳的内存管理、稳定性管理以及画中画（PIP）功能。&lt;/p&gt;
-&lt;h3&gt;3.2 蜂窝网络警告&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;32-蜂窝网络警告&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#32-%e8%9c%82%e7%aa%9d%e7%bd%91%e7%bb%9c%e8%ad%a6%e5%91%8a&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;如果设备处于蜂窝移动网络状态，视频播放可能会消耗大量流量。在此情况下打开视频时，应用会发出提醒。&lt;/p&gt;
-&lt;p&gt;注意：播放过程中将不会再次提醒。&lt;/p&gt;
-&lt;h2&gt;4. 通用设置&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;4-通用设置&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#4-%e9%80%9a%e7%94%a8%e8%ae%be%e7%bd%ae&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;4.2 启动菜单&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;42-启动菜单&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#42-%e5%90%af%e5%8a%a8%e8%8f%9c%e5%8d%95&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;可选项为 &lt;code&gt;频道&lt;/code&gt; 和 &lt;code&gt;播放单&lt;/code&gt;。应用启动后将直接打开你所选择的界面。&lt;/p&gt;
-&lt;h3&gt;4.3 语言&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;43-语言&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#43-%e8%af%ad%e8%a8%80&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;应用内提供两种语言选项：英文和繁体中文。&lt;/p&gt;
-&lt;p&gt;欢迎加入 Crowdin 翻译小组，帮助我们翻译此应用。&lt;/p&gt;
       </description>
     </item>
     
@@ -356,6 +289,73 @@
     &lt;a href=&#34;#%e9%98%85%e8%af%bb%e6%9b%b4%e5%a4%9a&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://zh.wikipedia.org/wiki/%E7%94%B5%E5%AD%90%E8%8A%82%E7%9B%AE%E6%8C%87%E5%8D%97&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;维基百科：电子节目指南&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+      </description>
+    </item>
+    
+    <item>
+      <title>配置</title>
+      <link>https://app.linjimi.com/zh-cn/docs/iptvios/configurations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://app.linjimi.com/zh-cn/docs/iptvios/configurations/</guid>
+      <description>
+        
+        
+        &lt;p&gt;只要你有个人的 IPTV 服务提供商，IPTV Fluent 就已准备好播放流媒体内容，并且提供了强大的自定义设置选项。&lt;/p&gt;
+&lt;h2&gt;1. 菜单布局&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;1-菜单布局&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#1-%e8%8f%9c%e5%8d%95%e5%b8%83%e5%b1%80&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;要调整 IPTV Fluent 的设置，只需点击标签菜单中的 &lt;code&gt;设置&lt;/code&gt; 按钮。&lt;/p&gt;
+&lt;div class=&#34;hextra-filetree hx-mt-6 hx-select-none hx-text-sm hx-text-gray-800 dark:hx-text-gray-300 not-prose&#34;&gt;
+  &lt;div class=&#34;hx-inline-block hx-rounded-lg hx-border hx-px-4 hx-py-2 dark:hx-border-neutral-800&#34;&gt;
+  
+
+&lt;li class=&#34;hx-group hx-flex hx-list-none hx-flex-col&#34;&gt;
+  &lt;button class=&#34;hextra-filetree-folder hx-inline-flex hx-cursor-pointer hx-items-center hx-py-1 hover:hx-opacity-60&#34;&gt;
+    &lt;span data-state=&#34;open&#34; class=&#34;data-[state=open]:hx-hidden&#34;&gt;&lt;svg width=1em xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M3 7v10a2 2 0 002 2h14a2 2 0 002-2V9a2 2 0 00-2-2h-6l-2-2H5a2 2 0 00-2 2z&#34;/&gt;&lt;/svg&gt;&lt;/span&gt;
+    &lt;span data-state=&#34;open&#34; class=&#34;data-[state=closed]:hx-hidden&#34;&gt;&lt;svg width=1em xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M5 19a2 2 0 01-2-2V7a2 2 0 012-2h4l2 2h4a2 2 0 012 2v1M5 19h14a2 2 0 002-2v-5a2 2 0 00-2-2H9a2 2 0 00-2 2v5a2 2 0 01-2 2z&#34;/&gt;&lt;/svg&gt;&lt;/span&gt;
+    &lt;span class=&#34;ltr:hx-ml-1 rtl:hx-mr-1&#34;&gt;IPTV Fluent&lt;/span&gt;
+  &lt;/button&gt;
+  &lt;ul data-state=&#34;open&#34; class=&#34;ltr:hx-pl-5 rtl:hx-pr-5 data-[state=closed]:hx-hidden&#34;&gt;
+      &lt;li class=&#34;hx-flex hx-list-none&#34;&gt;
+        &lt;span class=&#34;hx-inline-flex hx-cursor-default hx-items-center hx-py-1&#34;&gt;&lt;svg width=1em xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z&#34;/&gt;&lt;/svg&gt;&lt;span class=&#34;ltr:hx-ml-1 rtl:hx-mr-1&#34;&gt;频道&lt;/span&gt;
+        &lt;/span&gt;
+      &lt;/li&gt;
+
+      &lt;li class=&#34;hx-flex hx-list-none&#34;&gt;
+        &lt;span class=&#34;hx-inline-flex hx-cursor-default hx-items-center hx-py-1&#34;&gt;&lt;svg width=1em xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z&#34;/&gt;&lt;/svg&gt;&lt;span class=&#34;ltr:hx-ml-1 rtl:hx-mr-1&#34;&gt;播放单&lt;/span&gt;
+        &lt;/span&gt;
+      &lt;/li&gt;
+
+      &lt;li class=&#34;hx-flex hx-list-none&#34;&gt;
+        &lt;span class=&#34;hx-inline-flex hx-cursor-default hx-items-center hx-py-1&#34;&gt;&lt;svg width=1em xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z&#34;/&gt;&lt;/svg&gt;&lt;span class=&#34;ltr:hx-ml-1 rtl:hx-mr-1&#34;&gt;设置&lt;/span&gt;
+        &lt;/span&gt;
+      &lt;/li&gt;
+
+  &lt;/ul&gt;
+&lt;/li&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h2&gt;2. 列表设置&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;2-列表设置&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#2-%e5%88%97%e8%a1%a8%e8%ae%be%e7%bd%ae&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;2.1 自动检测延迟&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;21-自动检测延迟&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#21-%e8%87%aa%e5%8a%a8%e6%a3%80%e6%b5%8b%e5%bb%b6%e8%bf%9f&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;在某些情况下，服务器上的部分视频可能因网络连接不稳定而无法流畅播放。&lt;/p&gt;
+&lt;p&gt;开启此功能后，在加载在线列表时会自动检测这些频道的延迟情况。&lt;/p&gt;
+&lt;h3&gt;2.2 更新频率&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;22-更新频率&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#22-%e6%9b%b4%e6%96%b0%e9%a2%91%e7%8e%87&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;通过选择 &lt;code&gt;每日&lt;/code&gt; 或 &lt;code&gt;每月&lt;/code&gt;，可以设置在线列表的缓存更新频率，无需每次手动加载。&lt;/p&gt;
+&lt;h2&gt;3. 播放设置&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;3-播放设置&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#3-%e6%92%ad%e6%94%be%e8%ae%be%e7%bd%ae&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;3.1 播放引擎&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;31-播放引擎&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#31-%e6%92%ad%e6%94%be%e5%bc%95%e6%93%8e&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;如果在播放某些直播流时遇到问题，可以尝试更换播放引擎。&lt;/p&gt;
+&lt;p&gt;1：VLCKit 拥有更好的画面表现和源兼容性支持。&lt;/p&gt;
+&lt;p&gt;2：系统原生播放器拥有更佳的内存管理、稳定性管理以及画中画（PIP）功能。&lt;/p&gt;
+&lt;h3&gt;3.2 蜂窝网络警告&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;32-蜂窝网络警告&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#32-%e8%9c%82%e7%aa%9d%e7%bd%91%e7%bb%9c%e8%ad%a6%e5%91%8a&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;如果设备处于蜂窝移动网络状态，视频播放可能会消耗大量流量。在此情况下打开视频时，应用会发出提醒。&lt;/p&gt;
+&lt;p&gt;注意：播放过程中切换网络环境将不会再次提醒。&lt;/p&gt;
+&lt;h2&gt;4. 通用设置&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;4-通用设置&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#4-%e9%80%9a%e7%94%a8%e8%ae%be%e7%bd%ae&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;4.2 启动菜单&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;42-启动菜单&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#42-%e5%90%af%e5%8a%a8%e8%8f%9c%e5%8d%95&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;可选项为 &lt;code&gt;频道&lt;/code&gt; 和 &lt;code&gt;播放单&lt;/code&gt;。应用启动后将直接打开你所选择的界面。&lt;/p&gt;
+&lt;h3&gt;4.3 语言&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;43-语言&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#43-%e8%af%ad%e8%a8%80&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;应用内提供两种语言选项：英文和繁体中文。&lt;/p&gt;
+&lt;p&gt;欢迎加入 Crowdin 翻译小组，帮助我们翻译此应用。&lt;/p&gt;
       </description>
     </item>
     
@@ -498,7 +498,7 @@
     </item>
     
     <item>
-      <title>What is in IPTV Plus</title>
+      <title>IPTV Plus 的特点</title>
       <link>https://app.linjimi.com/zh-cn/docs/iptvios/iptvplus/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -509,7 +509,7 @@
         &lt;p&gt;IPTV 专业版拥有为 IPTV Fluent 量身打造的增强功能。&lt;/p&gt;
 &lt;h2&gt;1. 有什么特别之处？&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;1-有什么特别之处&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#1-%e6%9c%89%e4%bb%80%e4%b9%88%e7%89%b9%e5%88%ab%e4%b9%8b%e5%a4%84&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;你可能会问，IPTV 专业版 与 iOS 上的其他 IPTV 应用有何不同？&lt;/p&gt;
-&lt;p&gt;IPTV Fluent Player 和 专业版 在开发过程中持续获得新功能和错误修复。&lt;/p&gt;
+&lt;p&gt;IPTV Fluent Player 和 专业版 在开发过程中持续获得新功能和缺陷修复。&lt;/p&gt;
 &lt;h2&gt;2. 专业版提供了哪些功能？&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;2-专业版提供了哪些功能&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#2-%e4%b8%93%e4%b8%9a%e7%89%88%e6%8f%90%e4%be%9b%e4%ba%86%e5%93%aa%e4%ba%9b%e5%8a%9f%e8%83%bd&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;
@@ -529,10 +529,10 @@
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;3. 价格&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;3-价格&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#3-%e4%bb%b7%e6%a0%bc&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;IPTV 专业版 目前仅提供一个选项：&lt;code&gt;终身 专业版&lt;/code&gt;。&lt;/p&gt;
+    &lt;a href=&#34;#3-%e4%bb%b7%e6%a0%bc&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;IPTV 专业版 目前仅提供一个选项：&lt;code&gt;终身专业版&lt;/code&gt;。&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;当前 专业版 版本正在促销中，售价为 $5.99，直到应用获得更多专属功能为止。&lt;/p&gt;
+&lt;p&gt;当前 专业版 版本正在促销中，售价为 $5.99，原价 $11.99，折扣会持续到应用获得更多专属功能为止。&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;终身使用费用为 $5.99（不含增值税），可在 10 台设备上使用。&lt;/p&gt;
@@ -601,7 +601,7 @@
     </item>
     
     <item>
-      <title>Update log</title>
+      <title>更新日志</title>
       <link>https://app.linjimi.com/zh-cn/docs/iptvios/updatelog/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       

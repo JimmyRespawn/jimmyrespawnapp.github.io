@@ -15,7 +15,7 @@
     
     
     <item>
-      <title>Get Started</title>
+      <title>快速入门</title>
       <link>https://app.linjimi.com/zh-cn/docs/iptvios/get-started/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -23,10 +23,10 @@
       <description>
         
         
-        &lt;p&gt;如果你是 IPTV 新手，请耐心一点。IPTV Fluent 并不提供内置频道。&lt;/p&gt;
+        &lt;p&gt;如果你不了解 IPTV ，请耐心查看文档。IPTV Fluent 并不提供内置频道。&lt;/p&gt;
 &lt;h2&gt;1. 什么是 IPTV Fluent Player&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;1-什么是-iptv-fluent-player&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#1-%e4%bb%80%e4%b9%88%e6%98%af-iptv-fluent-player&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;IPTV Fluent Player 是一款让用户通过互联网流式播放内容的软件工具。&lt;/p&gt;
-&lt;p&gt;它支持各种格式的直播频道和点播内容，提供一个灵活的界面，帮助你浏览和观看来自世界各地的媒体资源。&lt;/p&gt;
+    &lt;a href=&#34;#1-%e4%bb%80%e4%b9%88%e6%98%af-iptv-fluent-player&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;IPTV Fluent Player 是一款让用户通过互联网播放在线流媒体内容的软件工具。&lt;/p&gt;
+&lt;p&gt;它支持各种格式的直播频道和点播内容，提供原生的界面，帮助你浏览和观看来自世界各地的媒体资源。&lt;/p&gt;
 &lt;h2&gt;2. 什么是 M3U？如何合法获取？&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;2-什么是-m3u如何合法获取&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#2-%e4%bb%80%e4%b9%88%e6%98%af-m3u%e5%a6%82%e4%bd%95%e5%90%88%e6%b3%95%e8%8e%b7%e5%8f%96&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;M3U 是一种常用的播放列表文件格式，常用于存储 IPTV 频道列表。&lt;/p&gt;
 &lt;p&gt;它包含用于流媒体播放的 URL，可以通过合法渠道（如有授权的 IPTV 服务提供商或广播机构）获取。&lt;/p&gt;
@@ -55,7 +55,7 @@
     </item>
     
     <item>
-      <title>Configurations</title>
+      <title>配置</title>
       <link>https://app.linjimi.com/zh-cn/docs/iptvios/configurations/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -63,7 +63,7 @@
       <description>
         
         
-        &lt;p&gt;虽然只要你有个人的 IPTV 服务提供商，IPTV Fluent 就已准备好播放流媒体内容，但它仍提供了强大的自定义设置选项。&lt;/p&gt;
+        &lt;p&gt;只要你有个人的 IPTV 服务提供商，IPTV Fluent 就已准备好播放流媒体内容，并且提供了强大的自定义设置选项。&lt;/p&gt;
 &lt;h2&gt;1. 菜单布局&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;1-菜单布局&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#1-%e8%8f%9c%e5%8d%95%e5%b8%83%e5%b1%80&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;要调整 IPTV Fluent 的设置，只需点击标签菜单中的 &lt;code&gt;设置&lt;/code&gt; 按钮。&lt;/p&gt;
 &lt;div class=&#34;hextra-filetree hx-mt-6 hx-select-none hx-text-sm hx-text-gray-800 dark:hx-text-gray-300 not-prose&#34;&gt;
@@ -106,12 +106,12 @@
     &lt;a href=&#34;#22-%e6%9b%b4%e6%96%b0%e9%a2%91%e7%8e%87&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;通过选择 &lt;code&gt;每日&lt;/code&gt; 或 &lt;code&gt;每月&lt;/code&gt;，可以设置在线列表的缓存更新频率，无需每次手动加载。&lt;/p&gt;
 &lt;h2&gt;3. 播放设置&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;3-播放设置&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#3-%e6%92%ad%e6%94%be%e8%ae%be%e7%bd%ae&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;3.1 播放引擎&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;31-播放引擎&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#31-%e6%92%ad%e6%94%be%e5%bc%95%e6%93%8e&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;播放引擎是流媒体背后的核心播放器。如果在播放某些直播流时遇到问题，可以尝试更换播放引擎。&lt;/p&gt;
+    &lt;a href=&#34;#31-%e6%92%ad%e6%94%be%e5%bc%95%e6%93%8e&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;如果在播放某些直播流时遇到问题，可以尝试更换播放引擎。&lt;/p&gt;
 &lt;p&gt;1：VLCKit 拥有更好的画面表现和源兼容性支持。&lt;/p&gt;
 &lt;p&gt;2：系统原生播放器拥有更佳的内存管理、稳定性管理以及画中画（PIP）功能。&lt;/p&gt;
 &lt;h3&gt;3.2 蜂窝网络警告&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;32-蜂窝网络警告&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#32-%e8%9c%82%e7%aa%9d%e7%bd%91%e7%bb%9c%e8%ad%a6%e5%91%8a&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;如果设备处于蜂窝移动网络状态，视频播放可能会消耗大量流量。在此情况下打开视频时，应用会发出提醒。&lt;/p&gt;
-&lt;p&gt;注意：播放过程中将不会再次提醒。&lt;/p&gt;
+&lt;p&gt;注意：播放过程中切换网络环境将不会再次提醒。&lt;/p&gt;
 &lt;h2&gt;4. 通用设置&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;4-通用设置&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#4-%e9%80%9a%e7%94%a8%e8%ae%be%e7%bd%ae&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;4.2 启动菜单&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;42-启动菜单&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#42-%e5%90%af%e5%8a%a8%e8%8f%9c%e5%8d%95&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;可选项为 &lt;code&gt;频道&lt;/code&gt; 和 &lt;code&gt;播放单&lt;/code&gt;。应用启动后将直接打开你所选择的界面。&lt;/p&gt;
@@ -122,7 +122,7 @@
     </item>
     
     <item>
-      <title>What is in IPTV Plus</title>
+      <title>IPTV Plus 的特点</title>
       <link>https://app.linjimi.com/zh-cn/docs/iptvios/iptvplus/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -133,7 +133,7 @@
         &lt;p&gt;IPTV 专业版拥有为 IPTV Fluent 量身打造的增强功能。&lt;/p&gt;
 &lt;h2&gt;1. 有什么特别之处？&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;1-有什么特别之处&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#1-%e6%9c%89%e4%bb%80%e4%b9%88%e7%89%b9%e5%88%ab%e4%b9%8b%e5%a4%84&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;你可能会问，IPTV 专业版 与 iOS 上的其他 IPTV 应用有何不同？&lt;/p&gt;
-&lt;p&gt;IPTV Fluent Player 和 专业版 在开发过程中持续获得新功能和错误修复。&lt;/p&gt;
+&lt;p&gt;IPTV Fluent Player 和 专业版 在开发过程中持续获得新功能和缺陷修复。&lt;/p&gt;
 &lt;h2&gt;2. 专业版提供了哪些功能？&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;2-专业版提供了哪些功能&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#2-%e4%b8%93%e4%b8%9a%e7%89%88%e6%8f%90%e4%be%9b%e4%ba%86%e5%93%aa%e4%ba%9b%e5%8a%9f%e8%83%bd&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;
@@ -153,10 +153,10 @@
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;3. 价格&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;3-价格&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#3-%e4%bb%b7%e6%a0%bc&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;IPTV 专业版 目前仅提供一个选项：&lt;code&gt;终身 专业版&lt;/code&gt;。&lt;/p&gt;
+    &lt;a href=&#34;#3-%e4%bb%b7%e6%a0%bc&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;IPTV 专业版 目前仅提供一个选项：&lt;code&gt;终身专业版&lt;/code&gt;。&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;当前 专业版 版本正在促销中，售价为 $5.99，直到应用获得更多专属功能为止。&lt;/p&gt;
+&lt;p&gt;当前 专业版 版本正在促销中，售价为 $5.99，原价 $11.99，折扣会持续到应用获得更多专属功能为止。&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;终身使用费用为 $5.99（不含增值税），可在 10 台设备上使用。&lt;/p&gt;
@@ -171,7 +171,7 @@
     </item>
     
     <item>
-      <title>Update log</title>
+      <title>更新日志</title>
       <link>https://app.linjimi.com/zh-cn/docs/iptvios/updatelog/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
