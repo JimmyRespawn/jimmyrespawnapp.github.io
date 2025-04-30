@@ -139,6 +139,7 @@
         
         
         &lt;p&gt;Please be patient if you are new to IPTV. IPTV Fluent does not provide in-box channels.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Notice: For XC URL, the example link is like &lt;a href=&#34;http://www.example.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.example.com&lt;/a&gt;:port/get.php , especially with &lt;code&gt;/get.php&lt;/code&gt; at the end. In future, we&amp;rsquo;ll optimize the auto link complete in future version&lt;/strong&gt;&lt;/p&gt;
 &lt;h2&gt;1. What is an IPTV Fluent Player&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;1-what-is-an-iptv-fluent-player&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#1-what-is-an-iptv-fluent-player&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;An IPTV Fluent Player is a software tool that allows users to stream content over the internet.&lt;/p&gt;
 &lt;p&gt;It supports various formats for live channels and video-on-demand content, providing a flexible interface to browse and watch media from around the world.&lt;/p&gt;
@@ -153,7 +154,7 @@
 &lt;p&gt;3.2 Click &lt;code&gt;Create List&lt;/code&gt; button or &lt;code&gt;+&lt;/code&gt; at the top.&lt;/p&gt;
 &lt;p&gt;3.3 Then Click &lt;code&gt;Online List&lt;/code&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://app.linjimi.com/images/iptv_ios_getstarted_3.webp&#34; alt=&#34;33&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;3.4 Type your personal M3U URL into &lt;code&gt;Server address&lt;/code&gt; and click &lt;code&gt;Create&lt;/code&gt; button or the top right. Input list name or epg URL if you want. They are optional.&lt;/p&gt;
+&lt;p&gt;3.4 Type your personal M3U URL into &lt;code&gt;Server address&lt;/code&gt; and click &lt;code&gt;Create&lt;/code&gt; button on the top right. Input list name or epg URL if you want. They are optional.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://app.linjimi.com/images/iptv_ios_getstarted_4.webp&#34; alt=&#34;34&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;3.5 Click the list you just created and it&amp;rsquo;ll navigate back to &lt;code&gt;Channels&lt;/code&gt; Menu.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://app.linjimi.com/images/iptv_ios_getstarted_5.webp&#34; alt=&#34;35&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
