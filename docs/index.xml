@@ -363,7 +363,7 @@ App supports auto shut down after certain amount time.&lt;/p&gt;
     &lt;a href=&#34;#42-launch-menu&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;There are &lt;code&gt;Channels&lt;/code&gt; and &lt;code&gt;Library&lt;/code&gt;. After launching the app, it&amp;rsquo;ll immediately open the option you choose.&lt;/p&gt;
 &lt;h3&gt;4.3 Language&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;43-language&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#43-language&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;There are 2 language options in the app. English and Chinese Traditional.&lt;/p&gt;
-&lt;p&gt;Join the Crowdin translation group to help us translating the app.&lt;/p&gt;
+&lt;p&gt;Join the &lt;a href=&#34;https://crowdin.com/project/iptvfluentswift&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Crowdin translation group&lt;/a&gt; to help us translating the app.&lt;/p&gt;
       </description>
     </item>
     
@@ -711,8 +711,8 @@ App supports auto shut down after certain amount time.&lt;/p&gt;
         
         
         &lt;p&gt;IPTV Fluent is constantly receiving updates and in active development right now.&lt;/p&gt;
-&lt;h2&gt;v1.0.30&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1030&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#v1030&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Release date: TBD&lt;/p&gt;
+&lt;h2&gt;v1.0.31&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1031&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#v1031&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Release date: TBD&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Feature: VLC play audio from Bluetooth devices on your PC&lt;/li&gt;
 &lt;/ul&gt;
@@ -869,6 +869,11 @@ App supports auto shut down after certain amount time.&lt;/p&gt;
         
         
         &lt;p&gt;IPTV Fluent Player is constantly receiving updates and in active development right now.&lt;/p&gt;
+&lt;h2&gt;v1.0.1&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v101&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#v101&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Release date: 2025/4/30&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Bug fixes: Store metadata fix&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h2&gt;v1.0&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v10&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#v10&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Release date: 2025/4/29&lt;/p&gt;
 &lt;ul&gt;

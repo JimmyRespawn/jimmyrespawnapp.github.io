@@ -158,19 +158,6 @@
                 href="https://app.linjimi.com/zh-cn/docs/podcasted/podcastedpro/"
                 />
   </url><url>
-    <loc>https://app.linjimi.com/zh-cn/docs/iptvios/updatelog/</loc>
-    <lastmod>2025-04-29T23:52:46+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://app.linjimi.com/docs/iptvios/updatelog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-CN"
-                href="https://app.linjimi.com/zh-cn/docs/iptvios/updatelog/"
-                />
-  </url><url>
     <loc>https://app.linjimi.com/zh-cn/docs/download-manager/updatelog/</loc>
     <lastmod>2025-03-05T00:46:45+08:00</lastmod>
     <xhtml:link
@@ -195,6 +182,19 @@
                 rel="alternate"
                 hreflang="zh-CN"
                 href="https://app.linjimi.com/zh-cn/docs/iptv/updatelog/"
+                />
+  </url><url>
+    <loc>https://app.linjimi.com/zh-cn/docs/iptvios/updatelog/</loc>
+    <lastmod>2025-04-29T23:52:46+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://app.linjimi.com/docs/iptvios/updatelog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-CN"
+                href="https://app.linjimi.com/zh-cn/docs/iptvios/updatelog/"
                 />
   </url><url>
     <loc>https://app.linjimi.com/zh-cn/docs/podcasted/updatelog/</loc>
@@ -335,7 +335,7 @@
                 />
   </url><url>
     <loc>https://app.linjimi.com/zh-cn/docs/iptvios/</loc>
-    <lastmod>2025-04-29T23:52:46+08:00</lastmod>
+    <lastmod>2025-04-30T15:14:27+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
