@@ -184,6 +184,13 @@ App supports auto shut down after certain amount time.&lt;/p&gt;
         
         
         &lt;p&gt;IPTV Fluent is constantly receiving updates and in active development right now.&lt;/p&gt;
+&lt;h2&gt;v1.0.33&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1033&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#v1033&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Release date: 2025/5/29&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Pro Feature: (Beta) New media hub for DLNA, WebDAV and (PC only)local as media servers&lt;/li&gt;
+&lt;li&gt;Pro Improvement: Autofill EPG URL under XC if there is no EPG set before&lt;/li&gt;
+&lt;li&gt;Improvement: Add restore &lt;code&gt;lifetime&lt;/code&gt; purchase button&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h2&gt;v1.0.32&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1032&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#v1032&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Release date: 2025/5/19&lt;/p&gt;
 &lt;ul&gt;
@@ -314,7 +321,7 @@ App supports auto shut down after certain amount time.&lt;/p&gt;
 &lt;h2&gt;v1.0.15&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1015&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#v1015&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Release date: 2024/7/22&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Feature: Stand alone EPG page&lt;/li&gt;
+&lt;li&gt;Pro Feature: Stand alone EPG page&lt;/li&gt;
 &lt;li&gt;Feature: New video info in blade bar&lt;/li&gt;
 &lt;li&gt;Feature: Change stream video track&lt;/li&gt;
 &lt;li&gt;Feature: Change stream audio track&lt;/li&gt;
