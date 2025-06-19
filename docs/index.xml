@@ -719,13 +719,21 @@ App supports auto shut down after certain amount time.&lt;/p&gt;
         
         
         &lt;p&gt;IPTV Fluent is constantly receiving updates and in active development right now.&lt;/p&gt;
-&lt;h2&gt;v1.0.35&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1035&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#v1035&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Release date: TBD&lt;/p&gt;
+&lt;h2&gt;v1.0.36&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1036&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#v1036&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Release date: TBD&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Feature: (Console) Support 4K HEVC Codec video on Emby or Jellyfin server by using server acceleration&lt;/li&gt;
+&lt;li&gt;Pro Feature: Brand new media home for multi-source media library&lt;/li&gt;
 &lt;/ul&gt;
-&lt;!-- - Pro Feature: (Beta) Movie/TV wall view for Jellyfin and Emby media servers --&gt;
-&lt;!-- - Pro Feature: (PC) Pin media server to start menu --&gt;
+&lt;h2&gt;v1.0.35&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1035&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#v1035&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Release date: 2025/6/19&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Feature: (Console) Support 4K HEVC Codec video on Emby or Jellyfin server by using server transcoding&lt;/li&gt;
+&lt;li&gt;Pro Feature: (Beta) Movie/TV wall view for Jellyfin and Emby media servers&lt;/li&gt;
+&lt;li&gt;Pro Feature: (PC) Quick guide for system video codec downloads&lt;/li&gt;
+&lt;li&gt;Pro Feature: (PC) Pin media server to start menu&lt;/li&gt;
+&lt;li&gt;Improvement: More native Turkish translation special thanks to community numbers!&lt;/li&gt;
+&lt;li&gt;Bug fixes: Hide the language in settings which is not supported by the system&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h2&gt;v1.0.34&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1034&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#v1034&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Release date: 2025/6/8&lt;/p&gt;
 &lt;ul&gt;
@@ -916,13 +924,20 @@ App supports auto shut down after certain amount time.&lt;/p&gt;
         
         
         &lt;p&gt;IPTV Fluent Player is constantly receiving updates and in active development right now.&lt;/p&gt;
+&lt;h2&gt;v1.0.4&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v104&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#v104&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Release date: TBD&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Improvement: Performance improvement&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- - Feature: import channels via text
+- Improvement: favorite multiple channels at once --&gt;
 &lt;h2&gt;v1.0.3&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v103&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#v103&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Release date: 2025/6/7&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Improvement: Performance improvement&lt;/li&gt;
-&lt;li&gt;Feature: Grid view for iPhone&lt;/li&gt;
-&lt;li&gt;Improvement: Better export M3U file capabilities&lt;/li&gt;
 &lt;/ul&gt;
+&lt;!-- - Feature: Grid view for iPhone
+- Improvement: Better export M3U file capabilities --&gt;
 &lt;h2&gt;v1.0.2&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v102&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#v102&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Release date: 2025/5/13&lt;/p&gt;
 &lt;ul&gt;
