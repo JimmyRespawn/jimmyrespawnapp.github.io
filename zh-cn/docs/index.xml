@@ -679,6 +679,16 @@
         
         
         &lt;p&gt;IPTV 播放器目前正在积极开发中。&lt;/p&gt;
+&lt;h2&gt;v1.0.38&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1038&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#v1038&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;发布日期: 待定&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;功能: 支持通过系统媒体播放器和 VLC UWP 打开频道&lt;/li&gt;
+&lt;li&gt;优化: VOD 设置首选字幕&lt;/li&gt;
+&lt;li&gt;修复: EPG 页面频道位置调整&lt;/li&gt;
+&lt;li&gt;功能: Emby 和 Jellyfin 允许强制服务器解码&lt;/li&gt;
+&lt;li&gt;修复: Emby 和 Jellyfin 海报墙内容多时图片黑色的问题&lt;/li&gt;
+&lt;li&gt;修复: Emby 和 Jellyfin 多季时剧集顺序展示错误的问题&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h2&gt;v1.0.37&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1037&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#v1037&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;发布日期: 2025/7/1&lt;/p&gt;
 &lt;ul&gt;
