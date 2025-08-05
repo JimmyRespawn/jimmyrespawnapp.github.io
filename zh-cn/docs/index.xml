@@ -247,12 +247,12 @@
     &lt;a href=&#34;#%e4%b8%bb%e9%a2%98&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;提供自动、浅色、深色三种主题，自动即与设备的主题保持一致。&lt;/p&gt;
 &lt;h3&gt;启动菜单&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;启动菜单&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#%e5%90%af%e5%8a%a8%e8%8f%9c%e5%8d%95&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://od.lk/s/200607426_u0Sx5/launchmenu.png&#34; alt=&#34;image&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;有&lt;code&gt;直播&lt;/code&gt;、&lt;code&gt;频道&lt;/code&gt; 和 &lt;code&gt;播放单&lt;/code&gt;。启动应用后，它将立即打开您选择的选项。&lt;/p&gt;
+&lt;p&gt;有&lt;code&gt;直播&lt;/code&gt;、&lt;code&gt;频道&lt;/code&gt;、&lt;code&gt;播放单&lt;/code&gt;、&lt;code&gt;媒体中心&lt;/code&gt;和&lt;code&gt;大屏幕&lt;/code&gt;。启动应用后，它将立即打开您选择的选项。&lt;/p&gt;
 &lt;h3&gt;应用语言&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;应用语言&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#%e5%ba%94%e7%94%a8%e8%af%ad%e8%a8%80&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://od.lk/s/200607851_yegn7/language.png&#34; alt=&#34;image&#34; loading=&#34;lazy&#34; /&gt;
-应用中提供了 20 种语言选项。&lt;/p&gt;
+应用中提供了 21 种语言选项。&lt;/p&gt;
 &lt;p&gt;除了英语、法语、西班牙语和中文外，其他语言均由 AI 和机器翻译。如果希望帮助我们翻译应用，欢迎加入在 Crowdin 平台的翻译团队。&lt;/p&gt;
-&lt;p&gt;如果您的操作系统没有相应的语言包，改变后的应用语言将不会生效。&lt;/p&gt;
+&lt;p&gt;如果您的操作系统没有相应的语言包，对应的语言则不会显示崽设置中。&lt;/p&gt;
 &lt;h2&gt;播放列表同步&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;播放列表同步&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#%e6%92%ad%e6%94%be%e5%88%97%e8%a1%a8%e5%90%8c%e6%ad%a5&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://od.lk/s/200608026_n1oNA/sync.png&#34; alt=&#34;image&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;用户添加的在线播放列表和收藏列表可以通过 OneDrive 在桌面和平板电脑等设备之间同步。&lt;/p&gt;
@@ -278,11 +278,11 @@
     &lt;a href=&#34;#%e9%bb%98%e8%ae%a4%e5%88%97%e8%a1%a8%e8%a7%86%e5%9b%be&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;在频道列表中，默认显示为单行列表。&lt;/p&gt;
 &lt;p&gt;您可以选择 Grid 选项以带节目徽标的方式显示。&lt;/p&gt;
 &lt;h3&gt;自动检测延迟&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;自动检测延迟&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#%e8%87%aa%e5%8a%a8%e6%a3%80%e6%b5%8b%e5%bb%b6%e8%bf%9f&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;在某些情况下，您可能会从网上获取不可靠的 m3u 列表。&lt;/p&gt;
+    &lt;a href=&#34;#%e8%87%aa%e5%8a%a8%e6%a3%80%e6%b5%8b%e5%bb%b6%e8%bf%9f&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;在某些情况下，您可能会从网上获取不可靠的 M3U 列表。&lt;/p&gt;
 &lt;p&gt;其中的许多频道可能在您的地区不可用。&lt;/p&gt;
 &lt;p&gt;打开此功能后，加载在线列表后将自动隐藏这些频道。&lt;/p&gt;
 &lt;h3&gt;更新频率&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;更新频率&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#%e6%9b%b4%e6%96%b0%e9%a2%91%e7%8e%87&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;选择 &lt;code&gt;每天&lt;/code&gt; 选项可以每日缓存在线列表，而无需每次加载列表。&lt;/p&gt;
+    &lt;a href=&#34;#%e6%9b%b4%e6%96%b0%e9%a2%91%e7%8e%87&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;选择 &lt;code&gt;每天&lt;/code&gt; 或 &lt;code&gt;每月&lt;/code&gt; 选项可以每日或每月缓存在线列表，而无需每次加载列表。&lt;/p&gt;
 &lt;h3&gt;更换默认在线地址&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;更换默认在线地址&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#%e6%9b%b4%e6%8d%a2%e9%bb%98%e8%ae%a4%e5%9c%a8%e7%ba%bf%e5%9c%b0%e5%9d%80&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;除了在左边搜索频道处直接替换，也可以在设置中对默认的在线列表进行修改。&lt;/p&gt;
 &lt;h2&gt;阅读更多&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;阅读更多&#34;&gt;&lt;/span&gt;
@@ -477,6 +477,7 @@
 &lt;li&gt;支持定时关闭应用&lt;/li&gt;
 &lt;li&gt;支持 VOD 视频外挂本地与在线字幕&lt;/li&gt;
 &lt;li&gt;(VLC)保存视频截图&lt;/li&gt;
+&lt;li&gt;多频道同时播放&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;EPG 电子节目单&lt;/p&gt;
 &lt;ul&gt;
@@ -679,6 +680,12 @@
         
         
         &lt;p&gt;IPTV 播放器目前正在积极开发中。&lt;/p&gt;
+&lt;h2&gt;v1.0.39&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1039&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#v1039&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;发布日期: 2025/8/4&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;功能: (PC|Beta) 多窗口频道支持&lt;/li&gt;
+&lt;li&gt;修复: 遥控器切换频道展示正确的名称&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h2&gt;v1.0.38&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1038&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#v1038&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;发布日期: 2025/7/14&lt;/p&gt;
 &lt;ul&gt;

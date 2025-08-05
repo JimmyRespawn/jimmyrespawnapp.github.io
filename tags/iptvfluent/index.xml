@@ -1,0 +1,43 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>JimmyRespawn – Iptvfluent</title>
+    <link>https://app.linjimi.com/tags/iptvfluent/</link>
+    <description>Recent content in Iptvfluent on JimmyRespawn</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 29 Jul 2025 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="https://app.linjimi.com/tags/iptvfluent/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>IPTV Fluent How to launch on startup or pin it to desktop</title>
+      <link>https://app.linjimi.com/blog/iptvfluentlaunchonstartup/</link>
+      <pubDate>Tue, 29 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://app.linjimi.com/blog/iptvfluentlaunchonstartup/</guid>
+      <description>
+        
+        
+        &lt;h2&gt;Pin to the desktop&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;pin-to-the-desktop&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#pin-to-the-desktop&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Step 1&lt;/strong&gt;: Right click anywhere at the desktop and hover &lt;code&gt;+ New&lt;/code&gt; button.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Step 2&lt;/strong&gt;: Click &lt;code&gt;Shortcut&lt;/code&gt; button to create a new shortcut.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Step 3&lt;/strong&gt;: Copy and Paste &lt;code&gt;iptvfluent:\\&lt;/code&gt; into &lt;code&gt;Type the location of the item:&lt;/code&gt; section.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Step 4&lt;/strong&gt;: Click &lt;code&gt;Next&lt;/code&gt; button, and name it whatever you want, then click &lt;code&gt;Finish&lt;/code&gt; button.&lt;/p&gt;
+&lt;p&gt;And you are good to go. IPTV Fluent is successfully pin to the desktop now.&lt;/p&gt;
+&lt;h2&gt;Launch on startup&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;launch-on-startup&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#launch-on-startup&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Step 1&lt;/strong&gt;: Finish everything in the &lt;code&gt;pin to the desktop&lt;/code&gt; section and make sure you have the shortcut now.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Step 2&lt;/strong&gt;: Open Windows Explorer and go to &lt;code&gt;C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Step 3&lt;/strong&gt;: Dicrectly copy or drag the shortcut you created before to the folder.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;How to disable it&lt;/strong&gt;: Directly delete the &lt;strong&gt;shortcut&lt;/strong&gt; in the folder &lt;code&gt;C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp&lt;/code&gt;.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

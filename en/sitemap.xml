@@ -185,7 +185,7 @@
                 />
   </url><url>
     <loc>https://app.linjimi.com/docs/iptv/updatelog/</loc>
-    <lastmod>2025-07-11T11:59:44+08:00</lastmod>
+    <lastmod>2025-07-14T18:29:58+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-CN"
@@ -210,6 +210,28 @@
                 href="https://app.linjimi.com/docs/iptvios/updatelog/"
                 />
   </url><url>
+    <loc>https://app.linjimi.com/blog/iptvfluentlaunchonstartup/</loc>
+    <lastmod>2025-07-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://app.linjimi.com/tags/iptvfluent/</loc>
+    <lastmod>2025-07-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://app.linjimi.com/tags/</loc>
+    <lastmod>2025-07-29T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-CN"
+                href="https://app.linjimi.com/zh-cn/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://app.linjimi.com/tags/"
+                />
+  </url><url>
+    <loc>https://app.linjimi.com/tags/tutorial/</loc>
+    <lastmod>2025-07-29T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://app.linjimi.com/blog/iptvappprivatepolicy/</loc>
     <lastmod>2025-04-17T14:01:46+08:00</lastmod>
   </url><url>
@@ -224,19 +246,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://app.linjimi.com/tags/private/"
-                />
-  </url><url>
-    <loc>https://app.linjimi.com/tags/</loc>
-    <lastmod>2025-04-18T08:56:37+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-CN"
-                href="https://app.linjimi.com/zh-cn/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://app.linjimi.com/tags/"
                 />
   </url><url>
     <loc>https://app.linjimi.com/tags/tos/</loc>
