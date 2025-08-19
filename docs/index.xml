@@ -456,7 +456,7 @@ App supports auto shut down after certain amount time.&lt;/p&gt;
     &lt;a href=&#34;#subscription-cancellation&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Sign into account via official msft page to cancel the IPTV plus.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://account.microsoft.com/services&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Microsoft Subscription&lt;/a&gt;&lt;/p&gt;
 &lt;h2&gt;Full feature list offered by Plus&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;full-feature-list-offered-by-plus&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#full-feature-list-offered-by-plus&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Offering 16+ exclusive PLUS features:&lt;/p&gt;
+    &lt;a href=&#34;#full-feature-list-offered-by-plus&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Offering 17+ exclusive PLUS features:&lt;/p&gt;
 &lt;p&gt;Playback&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Auto sleep timer&lt;/li&gt;
@@ -487,8 +487,9 @@ App supports auto shut down after certain amount time.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Sync favorite and online lists via OneDrive&lt;/li&gt;
 &lt;li&gt;Remove advertisement&lt;/li&gt;
-&lt;li&gt;Gamepad controls optimization&lt;/li&gt;
+&lt;li&gt;Gamepad controls optimization | Manually enable required&lt;/li&gt;
 &lt;li&gt;OLED burn-in preventor&lt;/li&gt;
+&lt;li&gt;Force refresh for online lists&lt;/li&gt;
 &lt;li&gt;Support the developer&lt;/li&gt;
 &lt;/ul&gt;
       </description>
@@ -651,10 +652,13 @@ App supports auto shut down after certain amount time.&lt;/p&gt;
         
         
         &lt;h2&gt;v1.7.44&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1744&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#v1744&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Release Date:&lt;/strong&gt; TBD&lt;/p&gt;
+    &lt;a href=&#34;#v1744&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Release Date:&lt;/strong&gt; 2025/8/15&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Fix:&lt;/strong&gt; Typo fix&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Fix:&lt;/strong&gt; Hide the language which not available in the settings&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Feature:&lt;/strong&gt; Brand new discover section with better UI/UX and more frequent podcasts for better discoverbility&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Improvement:&lt;/strong&gt; Better in-app notification tip&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Improvement:&lt;/strong&gt; New sponsor programme which allows sponsorship podcasts&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Fix:&lt;/strong&gt; Hide the language which is not available in the settings&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Fix:&lt;/strong&gt; Typo fix and shownotes timeline navigation fix&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;v1.7.43&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1743&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#v1743&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Release Date:&lt;/strong&gt; 2025/5/9&lt;/p&gt;
@@ -756,11 +760,19 @@ App supports auto shut down after certain amount time.&lt;/p&gt;
         
         
         &lt;p&gt;IPTV Fluent is constantly receiving updates and in active development right now.&lt;/p&gt;
+&lt;h2&gt;v1.0.41&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1041&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#v1041&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Release date: TBD&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Feature: (PC) Support GameBar widget&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h2&gt;v1.0.40&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1040&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#v1040&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Release date: TBD&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Feature: (PC) Support GameBar widget&lt;/li&gt;
+&lt;li&gt;Pro Feature: (VLC|Beta) Recording video and save into video file | Free during beta&lt;/li&gt;
 &lt;li&gt;Pro Feature: Force refresh for missing channels in &lt;code&gt;COG&lt;/code&gt; icon&lt;/li&gt;
+&lt;li&gt;Feature: (VLC) Customize VLC options in order to add referrer, user-agent, etc&lt;/li&gt;
+&lt;li&gt;Feature: Play seek support for older programmes (Server is required to support old programmes | Channels have to be added into favorite)&lt;/li&gt;
+&lt;li&gt;Improvement: Testing new Undo button for unlike channel wrongly&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;v1.0.39&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1039&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#v1039&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Release date: 2025/8/4&lt;/p&gt;
