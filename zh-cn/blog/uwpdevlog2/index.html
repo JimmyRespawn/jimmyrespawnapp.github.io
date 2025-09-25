@@ -10,21 +10,25 @@
 <link rel="icon" href="/favicon-32x32.png" type="image/png" sizes="32x32" />
 <link rel="apple-touch-icon" href="/apple-touch-icon.png" sizes="180x180" />
 <link fetchpriority="low" href="/site.webmanifest" rel="manifest" />
-<title>TOS – 墨菲纳米</title>
-  <meta name="description" content="" /><link rel="canonical" href="https://app.linjimi.com/zh-cn/tags/tos/" itemprop="url" />
+<title>记 UWP 应用迁移 .NET 9 踩的坑 – 墨菲纳米</title>
+  <meta name="description" content="又到了久违的 UWP Devlog，最近想把老项目支持 WinUI 2，干脆决定重新创建个新的项目干净的。正好看到去年支持的 UWP .NET 9 在五六月的时候已经正式版，VS2022也内置的模板，那干脆就新建。因为支持 .NET 9 对于 UWP 其实还是挺重要，特别是你比较依赖外部的库做功能的话，无异于可以更好支持自己的项目。至于 AOT 等等，锦上添花。于是创建空项目，率先试了下能不能生成 msixupload 包，毕竟之前遇到过项目总算迁完，结果最后生成包各种傻眼和坑，生产了下成功，信心满满开始编码(拷贝)。其实代码优化本身遇到的问题并不多，99%直接复制过去都可以跑起来。下面是碰到的小坑。" /><link rel="canonical" href="https://app.linjimi.com/zh-cn/blog/uwpdevlog2/" itemprop="url" />
 
-<meta property="og:title" content="TOS" />
-<meta property="og:description" content="Empower the Windows app experience" />
-<meta property="og:type" content="website" />
-<meta property="og:url" content="https://app.linjimi.com/zh-cn/tags/tos/" />
+<meta property="og:title" content="记 UWP 应用迁移 .NET 9 踩的坑" />
+<meta property="og:description" content="又到了久违的 UWP Devlog，最近想把老项目支持 WinUI 2，干脆决定重新创建个新的项目干净的。正好看到去年支持的 UWP .NET 9 在五六月的时候已经正式版，VS2022也内置的模板，那干脆就新建。因为支持 .NET 9 对于 UWP 其实还是挺重要，特别是你比较依赖外部的库做功能的话，无异于可以更好支持自己的项目。至于 AOT 等等，锦上添花。于是创建空项目，率先试了下能不能生成 msixupload 包，毕竟之前遇到过项目总算迁完，结果最后生成包各种傻眼和坑，生产了下成功，信心满满开始编码(拷贝)。其实代码优化本身遇到的问题并不多，99%直接复制过去都可以跑起来。下面是碰到的小坑。" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://app.linjimi.com/zh-cn/blog/uwpdevlog2/" /><meta property="article:section" content="blog" />
+<meta property="article:published_time" content="2025-09-07T00:00:00+00:00" />
+<meta property="article:modified_time" content="2025-09-07T00:00:00+00:00" />
 
-  <meta itemprop="name" content="TOS">
-  <meta itemprop="description" content="Empower the Windows app experience">
-  <meta itemprop="datePublished" content="2025-04-08T00:00:00+00:00">
-  <meta itemprop="dateModified" content="2025-04-18T08:56:37+08:00">
+  <meta itemprop="name" content="记 UWP 应用迁移 .NET 9 踩的坑">
+  <meta itemprop="description" content="又到了久违的 UWP Devlog，最近想把老项目支持 WinUI 2，干脆决定重新创建个新的项目干净的。正好看到去年支持的 UWP .NET 9 在五六月的时候已经正式版，VS2022也内置的模板，那干脆就新建。因为支持 .NET 9 对于 UWP 其实还是挺重要，特别是你比较依赖外部的库做功能的话，无异于可以更好支持自己的项目。至于 AOT 等等，锦上添花。于是创建空项目，率先试了下能不能生成 msixupload 包，毕竟之前遇到过项目总算迁完，结果最后生成包各种傻眼和坑，生产了下成功，信心满满开始编码(拷贝)。其实代码优化本身遇到的问题并不多，99%直接复制过去都可以跑起来。下面是碰到的小坑。">
+  <meta itemprop="datePublished" content="2025-09-07T00:00:00+00:00">
+  <meta itemprop="dateModified" content="2025-09-07T00:00:00+00:00">
+  <meta itemprop="wordCount" content="1491">
+  <meta itemprop="keywords" content=".NET9,UWP,Devlog">
   <meta name="twitter:card" content="summary">
-  <meta name="twitter:title" content="TOS">
-  <meta name="twitter:description" content="Empower the Windows app experience">
+  <meta name="twitter:title" content="记 UWP 应用迁移 .NET 9 踩的坑">
+  <meta name="twitter:description" content="又到了久违的 UWP Devlog，最近想把老项目支持 WinUI 2，干脆决定重新创建个新的项目干净的。正好看到去年支持的 UWP .NET 9 在五六月的时候已经正式版，VS2022也内置的模板，那干脆就新建。因为支持 .NET 9 对于 UWP 其实还是挺重要，特别是你比较依赖外部的库做功能的话，无异于可以更好支持自己的项目。至于 AOT 等等，锦上添花。于是创建空项目，率先试了下能不能生成 msixupload 包，毕竟之前遇到过项目总算迁完，结果最后生成包各种傻眼和坑，生产了下成功，信心满满开始编码(拷贝)。其实代码优化本身遇到的问题并不多，99%直接复制过去都可以跑起来。下面是碰到的小坑。">
 
     <link rel="preload" href="/css/compiled/main.min.0d60cbb74d97ccaea83c3ea6d973c5961d69642b38588069a503bc04e284cbc7.css" as="style" integrity="sha256-DWDLt02XzK6oPD6m2XPFlh1pZCs4WIBppQO8BOKEy8c=" />
     <link href="/css/compiled/main.min.0d60cbb74d97ccaea83c3ea6d973c5961d69642b38588069a503bc04e284cbc7.css" rel="stylesheet" integrity="sha256-DWDLt02XzK6oPD6m2XPFlh1pZCs4WIBppQO8BOKEy8c=" />
@@ -103,7 +107,7 @@
   </nav>
 </div>
 
-  <div class='hx-mx-auto hx-flex hx-max-w-screen-xl'>
+  <div class="hx-mx-auto hx-flex hx-max-w-screen-xl">
     <div class="mobile-menu-overlay [transition:background-color_1.5s_ease] hx-fixed hx-inset-0 hx-z-10 hx-bg-black/80 dark:hx-bg-black/60 hx-hidden"></div>
 <aside class="sidebar-container hx-flex hx-flex-col print:hx-hidden md:hx-top-16 md:hx-shrink-0 md:hx-w-64 md:hx-self-start max-md:[transform:translate3d(0,-100%,0)] md:hx-hidden xl:hx-block">
   
@@ -137,7 +141,7 @@
     <ul class="hx-flex hx-flex-col hx-gap-1 md:hx-hidden">
       
       
-          <li class=""><a
+          <li class="open"><a
     class="hx-flex hx-items-center hx-justify-between hx-gap-2 hx-cursor-pointer hx-rounded hx-px-2 hx-py-1.5 hx-text-sm hx-transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
       hx-text-gray-500 hover:hx-bg-gray-100 hover:hx-text-gray-900 contrast-more:hx-border contrast-more:hx-border-transparent contrast-more:hx-text-gray-900 contrast-more:hover:hx-border-gray-900 dark:hx-text-neutral-400 dark:hover:hx-bg-primary-100/5 dark:hover:hx-text-gray-50 contrast-more:dark:hx-text-gray-50 contrast-more:dark:hover:hx-border-gray-50"
     href="/zh-cn/blog/"
@@ -145,13 +149,34 @@
   >博客
         <span class="hextra-sidebar-collapsible-button"><svg fill="none" viewBox="0 0 24 24" stroke="currentColor" class="hx-h-[18px] hx-min-w-[18px] hx-rounded-sm hx-p-0.5 hover:hx-bg-gray-800/5 dark:hover:hx-bg-gray-100/5"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" class="hx-origin-center hx-transition-transform rtl:-hx-rotate-180"></path></svg></span>
     </a><div class="ltr:hx-pr-0 hx-overflow-hidden">
-        <ul class='hx-relative hx-flex hx-flex-col hx-gap-1 before:hx-absolute before:hx-inset-y-1 before:hx-w-px before:hx-bg-gray-200 before:hx-content-[""] ltr:hx-ml-3 ltr:hx-pl-3 ltr:before:hx-left-0 rtl:hx-mr-3 rtl:hx-pr-3 rtl:before:hx-right-0 dark:before:hx-bg-neutral-800'><li class="hx-flex hx-flex-col "><a
+        <ul class='hx-relative hx-flex hx-flex-col hx-gap-1 before:hx-absolute before:hx-inset-y-1 before:hx-w-px before:hx-bg-gray-200 before:hx-content-[""] ltr:hx-ml-3 ltr:hx-pl-3 ltr:before:hx-left-0 rtl:hx-mr-3 rtl:hx-pr-3 rtl:before:hx-right-0 dark:before:hx-bg-neutral-800'><li class="hx-flex hx-flex-col open"><a
     class="hx-flex hx-items-center hx-justify-between hx-gap-2 hx-cursor-pointer hx-rounded hx-px-2 hx-py-1.5 hx-text-sm hx-transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
-      hx-text-gray-500 hover:hx-bg-gray-100 hover:hx-text-gray-900 contrast-more:hx-border contrast-more:hx-border-transparent contrast-more:hx-text-gray-900 contrast-more:hover:hx-border-gray-900 dark:hx-text-neutral-400 dark:hover:hx-bg-primary-100/5 dark:hover:hx-text-gray-50 contrast-more:dark:hx-text-gray-50 contrast-more:dark:hover:hx-border-gray-50"
+      sidebar-active-item hx-bg-primary-100 hx-font-semibold hx-text-primary-800 contrast-more:hx-border contrast-more:hx-border-primary-500 dark:hx-bg-primary-400/10 dark:hx-text-primary-600 contrast-more:dark:hx-border-primary-500"
     href="/zh-cn/blog/uwpdevlog2/"
     
   >记 UWP 应用迁移 .NET 9 踩的坑
     </a>
+  
+    <ul class='hx-flex hx-flex-col hx-gap-1 hx-relative before:hx-absolute before:hx-inset-y-1 before:hx-w-px before:hx-bg-gray-200 before:hx-content-[""] dark:before:hx-bg-neutral-800 ltr:hx-pl-3 ltr:before:hx-left-0 rtl:hx-pr-3 rtl:before:hx-right-0 ltr:hx-ml-3 rtl:hx-mr-3'><li>
+              <a
+                href="#%e5%bc%80%e5%8f%91%e4%b8%ad%e9%81%87%e5%88%b0%e7%9a%84%e5%9d%91"
+                class="hx-flex hx-rounded hx-px-2 hx-py-1.5 hx-text-sm hx-transition-colors [word-break:break-word] hx-cursor-pointer [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] contrast-more:hx-border hx-gap-2 before:hx-opacity-25 before:hx-content-['#'] hx-text-gray-500 hover:hx-bg-gray-100 hover:hx-text-gray-900 dark:hx-text-neutral-400 dark:hover:hx-bg-primary-100/5 dark:hover:hx-text-gray-50 contrast-more:hx-text-gray-900 contrast-more:dark:hx-text-gray-50 contrast-more:hx-border-transparent contrast-more:hover:hx-border-gray-900 contrast-more:dark:hover:hx-border-gray-50"
+              >开发中遇到的坑</a>
+            </li>
+          <li>
+              <a
+                href="#net9-for-uwp-%e4%bc%98%e7%82%b9"
+                class="hx-flex hx-rounded hx-px-2 hx-py-1.5 hx-text-sm hx-transition-colors [word-break:break-word] hx-cursor-pointer [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] contrast-more:hx-border hx-gap-2 before:hx-opacity-25 before:hx-content-['#'] hx-text-gray-500 hover:hx-bg-gray-100 hover:hx-text-gray-900 dark:hx-text-neutral-400 dark:hover:hx-bg-primary-100/5 dark:hover:hx-text-gray-50 contrast-more:hx-text-gray-900 contrast-more:dark:hx-text-gray-50 contrast-more:hx-border-transparent contrast-more:hover:hx-border-gray-900 contrast-more:dark:hover:hx-border-gray-50"
+              >.NET9 for UWP 优点</a>
+            </li>
+          <li>
+              <a
+                href="#%e7%bb%93%e8%af%ad"
+                class="hx-flex hx-rounded hx-px-2 hx-py-1.5 hx-text-sm hx-transition-colors [word-break:break-word] hx-cursor-pointer [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] contrast-more:hx-border hx-gap-2 before:hx-opacity-25 before:hx-content-['#'] hx-text-gray-500 hover:hx-bg-gray-100 hover:hx-text-gray-900 dark:hx-text-neutral-400 dark:hover:hx-bg-primary-100/5 dark:hover:hx-text-gray-50 contrast-more:hx-text-gray-900 contrast-more:dark:hx-text-gray-50 contrast-more:hx-border-transparent contrast-more:hover:hx-border-gray-900 contrast-more:dark:hover:hx-border-gray-50"
+              >结语</a>
+            </li>
+          </ul>
+  
               
             </li><li class="hx-flex hx-flex-col "><a
     class="hx-flex hx-items-center hx-justify-between hx-gap-2 hx-cursor-pointer hx-rounded hx-px-2 hx-py-1.5 hx-text-sm hx-transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
@@ -425,7 +450,7 @@
         
         <li class="hx-flex hx-flex-col">
           <a
-            href="/tags/tos/"
+            href="/"
             class="hx-text-gray-800 dark:hx-text-gray-100 hover:hx-bg-primary-50 hover:hx-text-primary-600 hover:dark:hx-bg-primary-500/10 hover:dark:hx-text-primary-600 hx-relative hx-cursor-pointer hx-whitespace-nowrap hx-py-1.5 hx-transition-colors ltr:hx-pl-3 ltr:hx-pr-9 rtl:hx-pr-3 rtl:hx-pl-9"
           >English</a>
         </li>
@@ -433,7 +458,7 @@
         
         <li class="hx-flex hx-flex-col">
           <a
-            href="/zh-cn/tags/tos/"
+            href="/zh-cn/blog/uwpdevlog2/"
             class="hx-text-gray-800 dark:hx-text-gray-100 hover:hx-bg-primary-50 hover:hx-text-primary-600 hover:dark:hx-bg-primary-500/10 hover:dark:hx-text-primary-600 hx-relative hx-cursor-pointer hx-whitespace-nowrap hx-py-1.5 hx-transition-colors ltr:hx-pl-3 ltr:hx-pr-9 rtl:hx-pr-3 rtl:hx-pl-9"
           >简体中文<span class="hx-absolute hx-inset-y-0 hx-flex hx-items-center ltr:hx-right-3 rtl:hx-left-3"><svg height=1em width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" d="M5 13l4 4L19 7"/></svg></span></a>
         </li>
@@ -449,54 +474,82 @@
 </button>
 </div></aside>
     
-<nav class="hextra-toc hx-order-last hx-hidden hx-w-64 hx-shrink-0 xl:hx-block print:hx-hidden hx-px-4" aria-label="table of contents"></nav>
+<nav class="hextra-toc hx-order-last hx-hidden hx-w-64 hx-shrink-0 xl:hx-block print:hx-hidden hx-px-4" aria-label="table of contents">
+    <div class="hextra-scrollbar hx-sticky hx-top-16 hx-overflow-y-auto hx-pr-4 hx-pt-6 hx-text-sm [hyphens:auto] hx-max-h-[calc(100vh-var(--navbar-height)-env(safe-area-inset-bottom))] ltr:hx--mr-4 rtl:hx--ml-4"><p class="hx-mb-4 hx-font-semibold hx-tracking-tight">此页上</p><ul>
+      <li class="hx-my-2 hx-scroll-my-6 hx-scroll-py-6">
+        <a class="hx-font-semibold hx-inline-block hx-text-gray-500 hover:hx-text-gray-900 dark:hx-text-gray-400 dark:hover:hx-text-gray-300 contrast-more:hx-text-gray-900 contrast-more:hx-underline contrast-more:dark:hx-text-gray-50 hx-w-full hx-break-words" href="#%e5%bc%80%e5%8f%91%e4%b8%ad%e9%81%87%e5%88%b0%e7%9a%84%e5%9d%91">开发中遇到的坑
+        </a>
+      </li>
+      <li class="hx-my-2 hx-scroll-my-6 hx-scroll-py-6">
+        <a class="hx-font-semibold hx-inline-block hx-text-gray-500 hover:hx-text-gray-900 dark:hx-text-gray-400 dark:hover:hx-text-gray-300 contrast-more:hx-text-gray-900 contrast-more:hx-underline contrast-more:dark:hx-text-gray-50 hx-w-full hx-break-words" href="#net9-for-uwp-%e4%bc%98%e7%82%b9">.NET9 for UWP 优点
+        </a>
+      </li>
+      <li class="hx-my-2 hx-scroll-my-6 hx-scroll-py-6">
+        <a class="hx-font-semibold hx-inline-block hx-text-gray-500 hover:hx-text-gray-900 dark:hx-text-gray-400 dark:hover:hx-text-gray-300 contrast-more:hx-text-gray-900 contrast-more:hx-underline contrast-more:dark:hx-text-gray-50 hx-w-full hx-break-words" href="#%e7%bb%93%e8%af%ad">结语
+        </a>
+      </li></ul>
+      <div class="hx-mt-8 hx-border-t hx-bg-white hx-pt-8 hx-shadow-[0_-12px_16px_white] dark:hx-bg-dark dark:hx-shadow-[0_-12px_16px_#111] hx-sticky hx-bottom-0 hx-flex hx-flex-col hx-items-start hx-gap-2 hx-pb-8 dark:hx-border-neutral-800 contrast-more:hx-border-t contrast-more:hx-border-neutral-400 contrast-more:hx-shadow-none contrast-more:dark:hx-border-neutral-400">
+          <a class="hx-text-xs hx-font-medium hx-text-gray-500 hover:hx-text-gray-900 dark:hx-text-gray-400 dark:hover:hx-text-gray-100 contrast-more:hx-text-gray-800 contrast-more:dark:hx-text-gray-50" href="https://github.com/JimmyRespawn/PassionNano/tree/main/productblog/content/blog/uwpdevlog2.zh-cn.md" target="_blank" rel="noreferrer">在 GitHub 上编辑此页 →</a>
+        <button aria-hidden="true" id="backToTop" onClick="scrollUp();" class="hx-transition-all hx-duration-75 hx-opacity-0 hx-text-xs hx-font-medium hx-text-gray-500 hover:hx-text-gray-900 dark:hx-text-gray-400 dark:hover:hx-text-gray-100 contrast-more:hx-text-gray-800 contrast-more:dark:hx-text-gray-50">
+          <span>返回顶部</span>
+          <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="hx-inline ltr:hx-ml-1 rtl:hx-mr-1 hx-h-3.5 hx-w-3.5 hx-border hx-rounded-full hx-border-gray-500 hover:hx-border-gray-900 dark:hx-border-gray-400 dark:hover:hx-border-gray-100 contrast-more:hx-border-gray-800 contrast-more:dark:hx-border-gray-50">
+            <path stroke-linecap="round" stroke-linejoin="round" d="M4.5 15.75l7.5-7.5 7.5 7.5" />
+          </svg>
+        </button>
+      </div>
+    </div>
+  </nav>
 
 
     <article class="hx-w-full hx-break-words hx-flex hx-min-h-[calc(100vh-var(--navbar-height))] hx-min-w-0 hx-justify-center hx-pb-8 hx-pr-[calc(env(safe-area-inset-right)-1.5rem)]">
       <main class="hx-w-full hx-min-w-0 hx-max-w-6xl hx-px-6 hx-pt-4 md:hx-px-12">
-        <br class="hx-mt-1.5 hx-text-sm" />
-        <h1 class="hx-text-center hx-mt-2 hx-text-4xl hx-font-bold hx-tracking-tight hx-text-slate-900 dark:hx-text-slate-100">TOS</h1>
-        <div class="hx-mb-16"></div>
+        
+  <div class="hx-mt-1.5 hx-flex hx-items-center hx-gap-1 hx-overflow-hidden hx-text-sm hx-text-gray-500 dark:hx-text-gray-400 contrast-more:hx-text-current">
+        <div class="hx-whitespace-nowrap hx-transition-colors hx-min-w-[24px] hx-overflow-hidden hx-text-ellipsis hover:hx-text-gray-900 dark:hover:hx-text-gray-100">
+          <a href="/zh-cn/blog/">博客</a>
+        </div><svg class="hx-w-3.5 hx-shrink-0 rtl:-hx-rotate-180" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" d="M9 5l7 7-7 7"/></svg><div class="hx-whitespace-nowrap hx-transition-colors hx-font-medium hx-text-gray-700 contrast-more:hx-font-bold contrast-more:hx-text-current dark:hx-text-gray-100 contrast-more:dark:hx-text-current">记 UWP 应用迁移 .NET 9 踩的坑</div>
+  </div>
+
+        <h1 class="hx-mt-2 hx-text-4xl hx-font-bold hx-tracking-tight hx-text-slate-900 dark:hx-text-slate-100">记 UWP 应用迁移 .NET 9 踩的坑</h1>
+        <div class="hx-mt-4 hx-mb-16 hx-text-gray-500 hx-text-sm hx-flex hx-items-center hx-flex-wrap hx-gap-y-2"><span class="hx-mr-1">September 7, 2025</span><span class="hx-mx-1">·</span><a
+                  href="https://github.com/JimmyRespawn" target="_blank"
+                  class="hx-group hx-inline-flex hx-items-center hx-text-current hx-gap-x-1.5 hx-mx-1"
+                  title="JimmyRespawn"
+                ><img src="https://github.com/JimmyRespawn.png" alt="JimmyRespawn" class="hx-inline-block hx-h-4 hx-w-4 hx-rounded-full" loading="lazy" />
+                  <div class="group-hover:hx-underline">JimmyRespawn</div>
+                </a></div>
         <div class="content">
-          
+          <p>又到了久违的 UWP Devlog，最近想把老项目支持 WinUI 2，干脆决定重新创建个新的项目干净的。正好看到去年支持的 UWP .NET 9 在五六月的时候已经正式版，VS2022也内置的模板，那干脆就新建。因为支持 .NET 9 对于 UWP 其实还是挺重要，特别是你比较依赖外部的库做功能的话，无异于可以更好支持自己的项目。至于 AOT 等等，锦上添花。于是创建空项目，率先试了下能不能生成 msixupload 包，毕竟之前遇到过项目总算迁完，结果最后生成包各种傻眼和坑，生产了下成功，信心满满开始编码(拷贝)。其实代码优化本身遇到的问题并不多，99%直接复制过去都可以跑起来。下面是碰到的小坑。</p>
+<h2>开发中遇到的坑<span class="hx-absolute -hx-mt-20" id="开发中遇到的坑"></span>
+    <a href="#%e5%bc%80%e5%8f%91%e4%b8%ad%e9%81%87%e5%88%b0%e7%9a%84%e5%9d%91" class="subheading-anchor" aria-label="Permalink for this section"></a></h2><ol>
+<li>发布包部分功能不执行：Debug下跑的好好的，Release包怎么就功能不行了。有了 WinUI 3 的经验，直接在项目文件里加上<AllowUnsafeBlocks>到true，<PublishAOT>到false，<TrimMode>到false，马上让你纸糊代码焕发新生。这次比较诡异的是PublishTrimmed在Debug下打开会有问题，那加个Configuration在Debug时候设置false，在Release时候设置到true，成功解决所有问题</li>
+<li>部分老库不可用：我碰到的是 OneDrive.SDK.Authentication 在 .Net 9 下跑不起来，索性 OneDrive.SDK 还能跑，之前试着迁移到新的 Graph API，因为 UWP 这个历史问题，其实后面创建的包在 Azure 下没有 Id，那么就导致不得不继续用 OneDrive.SDK 了。运气好，凭借强力的 AI，成功实现 Authentication 的授权功能，而且能调起系统弹窗，非常完美的解决。不过每个人可能碰到库不可用的情况不同，所以可能会是给隐形雷。</li>
+<li>最终生成要提交的 Store 包失败：VS创建包的时候疯狂提示 WinAppSdkSignAppxPackageBundle 错误，搜了一圈都有这个问题，最后在某语音软件里有人说是 Visual Assets 导致的，我试了下果然是，任何 -100， -125,-150,-400 的图片会导致生成不同分辨率的包，但是神奇的时候 VS 调用 MakeAppx 不知道哪里抽风，最后合包的时候一顿报错。那么把这些后缀的assets图片删了，就能成功生成最终包</li>
+<li>生成的 Store 包缺乏多语言：最终生成的包竟然不包括任何其他多语言的文件，msix 包里还有，到 msixbundle 下面的时候全部消失，搜了半天也没看到有人遇到。最后发现要去csproj里加上各种语言节点才能生成在最终上传的包里。</li>
+<li>没有 Designer View：最神奇的是，竟然把 Xaml Designer 的视图删了，这玩意儿你说开发多了的人无所谓，但是偶尔要在界面里找到某个节点，Desinger View原来这么成熟，说砍就砍。热加载这玩意儿有时候好用，但还是不如 DV。网上有人调侃 Visual Studio 没有了 Visual。</li>
+</ol>
+<h2>.NET9 for UWP 优点<span class="hx-absolute -hx-mt-20" id="net9-for-uwp-优点"></span>
+    <a href="#net9-for-uwp-%e4%bc%98%e7%82%b9" class="subheading-anchor" aria-label="Permalink for this section"></a></h2><p>其实在做当中还是发现迁移后还是有很多好处</p>
+<ol>
+<li>第三方库支持：不少库要求提的越来越高，不支持老项目。或者有些库能装上，你在用的时候发现有这样那样的Bug，上了 .NET 9 之后神奇的事情发生，有些 bug 自愈了。这无疑是升级的最大好处。</li>
+<li>AOT裁剪：可以把包裁剪到很小。其他启动时间、内存占用我倒是觉得于 UWP 来说优势不大，毕竟 .Net Native 在 Win 下的启动速度和性能已经是无敌的存在。至今还是有人怀念不少exe把uwp砍了，在商店留差评。</li>
+<li>C#9.0 支持：恭喜你，可以使用最新版的最好的语言。</li>
+<li>未来迁移支持：.NET 9 跳到 WinUI 3 无疑比 UWP 直接跳到 WinUI 3 方便，不过这个优点聊胜于无。</li>
+</ol>
+<h2>结语<span class="hx-absolute -hx-mt-20" id="结语"></span>
+    <a href="#%e7%bb%93%e8%af%ad" class="subheading-anchor" aria-label="Permalink for this section"></a></h2><p>在 XAML 部分 .Net9 和 .Native 区别本质不大，毕竟前端就这样了，扒着 WinUI 大腿就完事。但是 UWP 本身开箱开发至今，本身除了打包经常报错外也不像这次版本遇到各种奇怪的坑。虽然 UWP 现在估计拿掉了面向新手的标签。老是要调 csproj 参数属实不是一种新手友好的开箱体验。</p>
+<p>其实现在 WinUI 3 一堆新的 API 都盯着 AI 功能，而不是 AI 特性不是要显卡就是要有 NPU，假如 UWP .NET 9 能解决第三点和第五点问题，普通功能的应用再用过个五六年其实问题也不大。毕竟在这个年代，稳定的确是大于一切。不是什么东西都像技术一样，追求新的框架，最终稿呈现在别人面前的还是产品。</p>
+<p>以上。</p>
+
         </div>
-        <div><div>
-              <h3>
-                <a
-                  style="color: inherit; text-decoration: none;"
-                  class="hx-block hx-font-semibold hx-mt-8 hx-text-2xl"
-                  href="/zh-cn/blog/iptvfluenttos/"
-                  title="IPTV Fluent Player Terms of Service (Terms)"
-                >
-                  IPTV Fluent Player Terms of Service (Terms)
-                </a>
-              </h3>
-              <p class="hx-opacity-50 hx-text-sm hx-leading-7">April 8, 2025</p>
-            </div><div>
-              <h3>
-                <a
-                  style="color: inherit; text-decoration: none;"
-                  class="hx-block hx-font-semibold hx-mt-8 hx-text-2xl"
-                  href="/private/169329891432/tumblr_p22bjwTap01unlq99/"
-                  title="Echo for Stage1st 最终用户许可协议"
-                >
-                  Echo for Stage1st 最终用户许可协议
-                </a>
-              </h3>
-              <p class="hx-opacity-50 hx-text-sm hx-leading-7">January 5, 2018</p>
-            </div><div>
-              <h3>
-                <a
-                  style="color: inherit; text-decoration: none;"
-                  class="hx-block hx-font-semibold hx-mt-8 hx-text-2xl"
-                  href="/private/168073230752/tumblr_p09xgjg9jK1unlq99/"
-                  title="Echo for Stage1st隐私策略"
-                >
-                  Echo for Stage1st隐私策略
-                </a>
-              </h3>
-              <p class="hx-opacity-50 hx-text-sm hx-leading-7">December 1, 2017</p>
-            </div></div>
+        <div class="hx-mt-16"></div>
+        
+        <div class="hx-mb-8 hx-flex hx-items-center hx-border-t hx-pt-8 dark:hx-border-neutral-800 contrast-more:hx-border-neutral-400 dark:contrast-more:hx-border-neutral-400 print:hx-hidden"><a
+        href="/zh-cn/blog/iptvfluenttos/"
+        title="IPTV Fluent Player Terms of Service (Terms)"
+        class="hx-flex hx-max-w-[50%] hx-items-center hx-gap-1 hx-py-4 hx-text-base hx-font-medium hx-text-gray-600 hx-transition-colors [word-break:break-word] hover:hx-text-primary-600 dark:hx-text-gray-300 md:hx-text-lg ltr:hx-pr-4 rtl:hx-pl-4"
+      ><svg class="hx-inline hx-h-5 hx-shrink-0 ltr:hx-rotate-180" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" d="M9 5l7 7-7 7"/></svg>IPTV Fluent Player Terms of Service (Terms)</a></div>
+        
       </main>
     </article>
   </div>
@@ -519,7 +572,7 @@
         
         <li class="hx-flex hx-flex-col">
           <a
-            href="/tags/tos/"
+            href="/"
             class="hx-text-gray-800 dark:hx-text-gray-100 hover:hx-bg-primary-50 hover:hx-text-primary-600 hover:dark:hx-bg-primary-500/10 hover:dark:hx-text-primary-600 hx-relative hx-cursor-pointer hx-whitespace-nowrap hx-py-1.5 hx-transition-colors ltr:hx-pl-3 ltr:hx-pr-9 rtl:hx-pr-3 rtl:hx-pl-9"
           >English</a>
         </li>
@@ -527,7 +580,7 @@
         
         <li class="hx-flex hx-flex-col">
           <a
-            href="/zh-cn/tags/tos/"
+            href="/zh-cn/blog/uwpdevlog2/"
             class="hx-text-gray-800 dark:hx-text-gray-100 hover:hx-bg-primary-50 hover:hx-text-primary-600 hover:dark:hx-bg-primary-500/10 hover:dark:hx-text-primary-600 hx-relative hx-cursor-pointer hx-whitespace-nowrap hx-py-1.5 hx-transition-colors ltr:hx-pl-3 ltr:hx-pr-9 rtl:hx-pr-3 rtl:hx-pl-9"
           >简体中文<span class="hx-absolute hx-inset-y-0 hx-flex hx-items-center ltr:hx-right-3 rtl:hx-left-3"><svg height=1em width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" d="M5 13l4 4L19 7"/></svg></span></a>
         </li>

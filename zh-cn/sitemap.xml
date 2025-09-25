@@ -210,6 +210,31 @@
                 href="https://app.linjimi.com/zh-cn/docs/podcasted/updatelog/"
                 />
   </url><url>
+    <loc>https://app.linjimi.com/zh-cn/tags/.net9/</loc>
+    <lastmod>2025-09-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://app.linjimi.com/zh-cn/tags/devlog/</loc>
+    <lastmod>2025-09-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://app.linjimi.com/zh-cn/tags/</loc>
+    <lastmod>2025-09-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://app.linjimi.com/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-CN"
+                href="https://app.linjimi.com/zh-cn/tags/"
+                />
+  </url><url>
+    <loc>https://app.linjimi.com/zh-cn/tags/uwp/</loc>
+    <lastmod>2025-09-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://app.linjimi.com/zh-cn/blog/uwpdevlog2/</loc>
+    <lastmod>2025-09-07T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://app.linjimi.com/zh-cn/blog/iptvfluenttos/</loc>
     <lastmod>2025-04-18T08:56:37+08:00</lastmod>
     <xhtml:link
@@ -236,19 +261,6 @@
                 href="https://app.linjimi.com/zh-cn/tags/private/"
                 />
   </url><url>
-    <loc>https://app.linjimi.com/zh-cn/tags/</loc>
-    <lastmod>2025-04-18T08:56:37+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://app.linjimi.com/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-CN"
-                href="https://app.linjimi.com/zh-cn/tags/"
-                />
-  </url><url>
     <loc>https://app.linjimi.com/zh-cn/tags/tos/</loc>
     <lastmod>2025-04-18T08:56:37+08:00</lastmod>
     <xhtml:link
@@ -261,9 +273,6 @@
                 hreflang="zh-CN"
                 href="https://app.linjimi.com/zh-cn/tags/tos/"
                 />
-  </url><url>
-    <loc>https://app.linjimi.com/zh-cn/tags/devlog/</loc>
-    <lastmod>2025-02-03T23:24:46+08:00</lastmod>
   </url><url>
     <loc>https://app.linjimi.com/zh-cn/tags/winui3/</loc>
     <lastmod>2025-02-03T23:24:46+08:00</lastmod>

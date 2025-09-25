@@ -680,6 +680,15 @@
         
         
         &lt;p&gt;IPTV 播放器目前正在积极开发中。&lt;/p&gt;
+&lt;h2&gt;v1.0.41&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1041&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#v1041&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;发布日期: 2025/9/25&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;功能: 应用缓存管理&lt;/li&gt;
+&lt;li&gt;优化: 在线列表支持纵向查看&lt;/li&gt;
+&lt;li&gt;优化: 窄窗口时滑动更好的可读性&lt;/li&gt;
+&lt;li&gt;修复: (VLC) 减少拖动视频进度时无法控制进度条的问题&lt;/li&gt;
+&lt;li&gt;修复: (VLC) 修复视频暂停后调整音量不生效的问题&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h2&gt;v1.0.40&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1040&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#v1040&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;发布日期: 2025/8/27&lt;/p&gt;
 &lt;ul&gt;
@@ -895,6 +904,11 @@
         
         
         &lt;p&gt;IPTV Fluent Player 正在持续更新，目前仍处于积极开发中。&lt;/p&gt;
+&lt;h2&gt;v1.0.7&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v107&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#v107&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;发布日期：2025年9月17日&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;优化：支持 iOS 26 液态玻璃风格&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h2&gt;v1.0.6&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v106&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#v106&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;发布日期：2025年8月26日&lt;/p&gt;
 &lt;ul&gt;
