@@ -680,6 +680,16 @@
         
         
         &lt;p&gt;IPTV 播放器目前正在积极开发中。&lt;/p&gt;
+&lt;h2&gt;v1.0.42&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1042&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#v1042&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;发布日期: 待定&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;优化： 提供更高分辨率的图标&lt;/li&gt;
+&lt;li&gt;优化： 在 EPG 页面中，可通过点击页码快速跳转到指定页面&lt;/li&gt;
+&lt;li&gt;优化： （FFmpeg | 系统引擎）支持通过右键点击进行截图&lt;/li&gt;
+&lt;li&gt;修复： （PC）修复了在应用已打开时，点击固定磁贴后无法导航页面或播放频道的问题&lt;/li&gt;
+&lt;li&gt;修复： （PC）修复了某些频道无法固定到开始菜单的问题&lt;/li&gt;
+&lt;li&gt;修复： 隐藏设置中与系统语言不匹配的语言选项&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h2&gt;v1.0.41&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1041&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#v1041&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;发布日期: 2025/9/25&lt;/p&gt;
 &lt;ul&gt;
@@ -966,12 +976,19 @@
         &lt;h2&gt;v1.7.45&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1745&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#v1745&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;发布日期：2025/8/28&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;更新内容待完善&lt;/li&gt;
+&lt;li&gt;优化： 提升了语言翻译效果&lt;/li&gt;
+&lt;li&gt;优化： 改善了游戏栏小部件模式下的导航体验&lt;/li&gt;
+&lt;li&gt;优化： 优化了部分用户体验（UX）&lt;/li&gt;
+&lt;li&gt;修复： 修复了发现页的一些导航异常&lt;/li&gt;
+&lt;li&gt;修复： 修复了从睡眠状态唤醒后应用卡死的问题&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;v1.7.44&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1744&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#v1744&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;发布日期：2025/8/15&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;更新内容待完善&lt;/li&gt;
+&lt;li&gt;功能： 全新的发现板块，拥有更出色的界面与交互体验，并提供更频繁的播客推荐以提升可发现性&lt;/li&gt;
+&lt;li&gt;优化： 改善了应用内的通知提示&lt;/li&gt;
+&lt;li&gt;修复： 隐藏设置中不可用的语言选项&lt;/li&gt;
+&lt;li&gt;修复： 修正了拼写错误并修复了节目备注时间线导航问题&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;v1.7.43&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1743&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#v1743&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;发布日期：2025/5/9&lt;/p&gt;
