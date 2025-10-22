@@ -650,7 +650,13 @@ App supports auto shut down after certain amount time.&lt;/p&gt;
       <description>
         
         
-        &lt;h2&gt;v1.7.45&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1745&#34;&gt;&lt;/span&gt;
+        &lt;h2&gt;v1.7.46&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1746&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#v1746&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Release Date:&lt;/strong&gt; 2025/10/22&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Fix:&lt;/strong&gt; Genre and discover pages return the same podcasts whatsoever&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Fix:&lt;/strong&gt; Reset app will wipe the Pro version state&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;v1.7.45&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1745&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#v1745&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Release Date:&lt;/strong&gt; 2025/8/28&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Improvement:&lt;/strong&gt; Language translation improved&lt;/li&gt;
@@ -771,7 +777,7 @@ App supports auto shut down after certain amount time.&lt;/p&gt;
 &lt;h2&gt;v1.0.43&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1043&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#v1043&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Release date: TBD&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Feature: (PC) Support GameBar widget&lt;/li&gt;
+&lt;li&gt;Feature: Debugger for failing to grab a list or play a channel&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;v1.0.42&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1042&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#v1042&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Release date: October 2025&lt;/p&gt;
