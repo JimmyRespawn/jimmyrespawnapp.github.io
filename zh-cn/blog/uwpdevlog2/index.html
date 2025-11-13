@@ -18,12 +18,12 @@
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://app.linjimi.com/zh-cn/blog/uwpdevlog2/" /><meta property="article:section" content="blog" />
 <meta property="article:published_time" content="2025-09-07T00:00:00+00:00" />
-<meta property="article:modified_time" content="2025-09-07T00:00:00+00:00" />
+<meta property="article:modified_time" content="2025-11-01T22:30:56+08:00" />
 
   <meta itemprop="name" content="记 UWP 应用迁移 .NET 9 踩的坑">
   <meta itemprop="description" content="又到了久违的 UWP Devlog，最近想把老项目支持 WinUI 2，干脆决定重新创建个新的项目干净的。正好看到去年支持的 UWP .NET 9 在五六月的时候已经正式版，VS2022也内置的模板，那干脆就新建。因为支持 .NET 9 对于 UWP 其实还是挺重要，特别是你比较依赖外部的库做功能的话，无异于可以更好支持自己的项目。至于 AOT 等等，锦上添花。于是创建空项目，率先试了下能不能生成 msixupload 包，毕竟之前遇到过项目总算迁完，结果最后生成包各种傻眼和坑，生产了下成功，信心满满开始编码(拷贝)。其实代码优化本身遇到的问题并不多，99%直接复制过去都可以跑起来。下面是碰到的小坑。">
   <meta itemprop="datePublished" content="2025-09-07T00:00:00+00:00">
-  <meta itemprop="dateModified" content="2025-09-07T00:00:00+00:00">
+  <meta itemprop="dateModified" content="2025-11-01T22:30:56+08:00">
   <meta itemprop="wordCount" content="1491">
   <meta itemprop="keywords" content=".NET9,UWP,Devlog">
   <meta name="twitter:card" content="summary">
