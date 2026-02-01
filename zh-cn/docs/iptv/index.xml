@@ -249,10 +249,22 @@
         
         
         &lt;p&gt;IPTV 播放器目前正在积极开发中。&lt;/p&gt;
-&lt;h2&gt;v1.0.45&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1045&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#v1045&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;发布日期: 待定&lt;/p&gt;
+&lt;h2&gt;v1.0.46&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1046&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#v1046&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;发布日期: 待定&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;功能: 用于校验空列表和节目不播放的调试程序&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;v1.0.45&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1045&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#v1045&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;发布日期：2026/1/20&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;功能：支持设置中开启 EPG 常驻左侧菜单&lt;/li&gt;
+&lt;li&gt;功能：(VLC) 将播放面板移至最上方&lt;/li&gt;
+&lt;li&gt;修复：部分用户归档无法使用的问题&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;v1.0.44&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1044&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#v1044&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;发布日期：2025/11/28&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;修复：修复部分情况下 XC 无法下载列表的情况&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;v1.0.43&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1043&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#v1043&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;发布日期: 2025/11/13&lt;/p&gt;

@@ -151,7 +151,10 @@
       <description>
         
         
-        &lt;h2&gt;v1.7.46&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1746&#34;&gt;&lt;/span&gt;
+        &lt;h2&gt;v1.7.48&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1748&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#v1748&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;发布日期：2026/1/19&lt;/p&gt;
+&lt;p&gt;修复：专业用户发现页面仍然显示广告的问题&lt;/p&gt;
+&lt;h2&gt;v1.7.46&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1746&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#v1746&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;发布日期：2025/10/22&lt;/p&gt;
 &lt;p&gt;修复：分类列表展示都是相同播客列表的问题
 修复：重置应用丢失专业版验证的问题&lt;/p&gt;

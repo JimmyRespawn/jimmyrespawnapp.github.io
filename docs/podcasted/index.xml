@@ -155,7 +155,12 @@
       <description>
         
         
-        &lt;h2&gt;v1.7.46&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1746&#34;&gt;&lt;/span&gt;
+        &lt;h2&gt;v1.7.48&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1748&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#v1748&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Release Date:&lt;/strong&gt; 2026/1/19&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Fix:&lt;/strong&gt; Fix the ads still on for pro users in Discover sections&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;v1.7.46&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1746&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#v1746&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Release Date:&lt;/strong&gt; 2025/10/22&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Fix:&lt;/strong&gt; Genre and discover pages return the same podcasts whatsoever&lt;/li&gt;
