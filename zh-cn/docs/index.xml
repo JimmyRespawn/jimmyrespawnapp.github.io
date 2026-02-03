@@ -951,7 +951,7 @@
         
         &lt;p&gt;IPTV Fluent Player 正在持续更新，目前仍处于积极开发中。&lt;/p&gt;
 &lt;h2&gt;v1.0.11&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1011&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#v1011&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;发布日期：即将 2026年2月 发布&lt;/p&gt;
+    &lt;a href=&#34;#v1011&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;发布日期：2026年2月2日&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;功能：增加定时睡眠暂停播放功能&lt;/li&gt;
 &lt;li&gt;功能：键盘快捷键支持，F全屏，空格暂停与播放，R刷新&lt;/li&gt;
@@ -1033,8 +1033,21 @@
         
         
         &lt;h2&gt;v1.7.48&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1748&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#v1748&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;发布日期：2026/1/19&lt;/p&gt;
-&lt;p&gt;修复：专业用户发现页面仍然显示广告的问题&lt;/p&gt;
+    &lt;a href=&#34;#v1748&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;发布日期：待定&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;功能：全新的播放列表板块，允许创建空播放列表&lt;/li&gt;
+&lt;li&gt;优化：播客名标题与创作者文字允许直接选择复制&lt;/li&gt;
+&lt;li&gt;优化：缩短钉至开始菜单的等待时间&lt;/li&gt;
+&lt;li&gt;优化：发现与播客列表页面交互与文字提示的优化&lt;/li&gt;
+&lt;li&gt;修复：未播放数量在首页显示不全的问题&lt;/li&gt;
+&lt;li&gt;修复：有情况无法展示最新单集的入口&lt;/li&gt;
+&lt;li&gt;修复：有情况无法添加播客单集至播放列表的情况&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;v1.7.47&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1747&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#v1747&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;发布日期：2026/1/19&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;修复：专业用户发现页面仍然显示广告的问题&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h2&gt;v1.7.46&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1746&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#v1746&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;发布日期：2025/10/22&lt;/p&gt;
 &lt;p&gt;修复：分类列表展示都是相同播客列表的问题

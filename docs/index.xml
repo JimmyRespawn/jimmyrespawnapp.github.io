@@ -652,7 +652,18 @@ App supports auto shut down after certain amount time.&lt;/p&gt;
         
         
         &lt;h2&gt;v1.7.48&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1748&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#v1748&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Release Date:&lt;/strong&gt; 2026/1/19&lt;/p&gt;
+    &lt;a href=&#34;#v1748&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Release Date:&lt;/strong&gt; TBD&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Feature: Brand-new Playlists section, now allowing the creation of empty playlists.&lt;/li&gt;
+&lt;li&gt;Improvement: Podcast titles and creator names are now selectable and can be copied.&lt;/li&gt;
+&lt;li&gt;Improvement: Reduced the delay when pinning to the Start menu.&lt;/li&gt;
+&lt;li&gt;Improvement: Improved UX and on-screen hints in the Discover and podcast list pages.&lt;/li&gt;
+&lt;li&gt;Bug Fix: Fixed an issue where the unplayed count was not fully displayed on the Home page.&lt;/li&gt;
+&lt;li&gt;Bug Fix: Fixed an issue where the &amp;lsquo;New Releases&amp;rsquo; not showing for some users.&lt;/li&gt;
+&lt;li&gt;Bug Fix: Fixed an issue where podcast episodes could sometimes not be added to playlists.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;v1.7.47&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1747&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#v1747&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Release Date:&lt;/strong&gt; 2026/1/19&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Fix:&lt;/strong&gt; Fix the ads still on for pro users in Discover sections&lt;/li&gt;
 &lt;/ul&gt;
@@ -1093,7 +1104,7 @@ App supports auto shut down after certain amount time.&lt;/p&gt;
 &lt;li&gt;Improvement: Munually add channel into favorites or local list&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;v1.0.11&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1011&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#v1011&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Release date: Coming in Feburary 2026&lt;/p&gt;
+    &lt;a href=&#34;#v1011&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Release date: 2026/2/2&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Feature: Added sleep timer to manually stop the stream&lt;/li&gt;
 &lt;li&gt;Feature: Keyboard shortcuts support—press F to toggle fullscreen, Space to play/pause, and R to refresh the stream&lt;/li&gt;
