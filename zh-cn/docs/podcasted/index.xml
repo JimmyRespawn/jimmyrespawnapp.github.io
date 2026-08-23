@@ -4,7 +4,7 @@
     <link>https://app.linjimi.com/zh-cn/docs/podcasted/</link>
     <description>Recent content in 播客 on 墨菲纳米</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-cn</language>
+    <language>zh-CN</language>
     
 	  <atom:link href="https://app.linjimi.com/zh-cn/docs/podcasted/index.xml" rel="self" type="application/rss+xml" />
     
@@ -25,7 +25,7 @@
         
         &lt;p&gt;如果希望更深入的了解播客，可以耐心查看以下文档内容。&lt;/p&gt;
 &lt;h2 data-hextra-search-id=&#34;1-添加播客&#34;&gt;1. 添加播客&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;1-添加播客&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#1-%e6%b7%bb%e5%8a%a0%e6%92%ad%e5%ae%a2&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;有四种方式可以添加您的播客。&lt;/p&gt;
+    &lt;a href=&#34;#1-%e6%b7%bb%e5%8a%a0%e6%92%ad%e5%ae%a2&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;此章节的永久链接&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;有四种方式可以添加您的播客。&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;方法1：直接搜索并输入播客名称，然后点击星形按钮。&lt;/p&gt;
@@ -41,12 +41,12 @@
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 data-hextra-search-id=&#34;2-继续播放&#34;&gt;2. 继续播放&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;2-继续播放&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#2-%e7%bb%a7%e7%bb%ad%e6%92%ad%e6%94%be&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;当应用关闭时，它将保存当前正在播放的剧集进度。下次在任何登录同一账户的设备上打开应用时，它将从记录的时间点继续播放。您可以在设置中关闭此功能。（*Xbox 不会在 PC 和手机之间同步）&lt;/p&gt;
+    &lt;a href=&#34;#2-%e7%bb%a7%e7%bb%ad%e6%92%ad%e6%94%be&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;此章节的永久链接&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;当应用关闭时，它将保存当前正在播放的剧集进度。下次在任何登录同一账户的设备上打开应用时，它将从记录的时间点继续播放。您可以在设置中关闭此功能。（*Xbox 不会在 PC 和手机之间同步）&lt;/p&gt;
 &lt;p&gt;同步：目前，应用通过 OneDrive 同步收藏的播客和播放进度。应用只能操作由其创建的文件夹，因此您可以放心使用，感到隐私无忧。整个同步过程需要您手动操作。我们知道现在的方式有些笨拙，但这是目前防止您的进度被覆盖的方法。未来我们将实现更智能的同步方式。&lt;/p&gt;
 &lt;h2 data-hextra-search-id=&#34;3-高级版&#34;&gt;3. 高级版&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;3-高级版&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#3-%e9%ab%98%e7%ba%a7%e7%89%88&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;目前免费版本提供 5 个播客订阅，并含有广告。高级版将无广告，并且不限播客订阅数量。只需一次性支付费用，您就可以在所有 Windows/Xbox 设备上使用，只要登录相同的账户。&lt;/p&gt;
+    &lt;a href=&#34;#3-%e9%ab%98%e7%ba%a7%e7%89%88&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;此章节的永久链接&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;目前免费版本提供 5 个播客订阅，并含有广告。高级版将无广告，并且不限播客订阅数量。只需一次性支付费用，您就可以在所有 Windows/Xbox 设备上使用，只要登录相同的账户。&lt;/p&gt;
 &lt;h2 data-hextra-search-id=&#34;4-快捷键&#34;&gt;4. 快捷键&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;4-快捷键&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#4-%e5%bf%ab%e6%8d%b7%e9%94%ae&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;PC和Xbox版本都支持快捷键。&lt;/p&gt;
+    &lt;a href=&#34;#4-%e5%bf%ab%e6%8d%b7%e9%94%ae&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;此章节的永久链接&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;PC和Xbox版本都支持快捷键。&lt;/p&gt;
 &lt;p&gt;对于PC版本：Ctrl + W 退出应用；Ctrl + T 进入紧凑型覆盖模式；Ctrl + P 播放或暂停当前播放；Ctrl + F 调用搜索；Ctrl + S 进入设置页面；Ctrl + M 静音或取消静音。&lt;/p&gt;
 &lt;p&gt;对于Xbox版本：Y 调用搜索；X 聚焦到播放按钮；查看按钮 打开剧集详情窗口。&lt;/p&gt;
       </description>
@@ -63,57 +63,57 @@
         
         &lt;p&gt;播客中&lt;code&gt;设置&lt;/code&gt;下功能的使用介绍。&lt;/p&gt;
 &lt;h2 data-hextra-search-id=&#34;通用&#34;&gt;通用&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;通用&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#%e9%80%9a%e7%94%a8&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3 data-hextra-search-id=&#34;主题&#34;&gt;主题&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;主题&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#%e4%b8%bb%e9%a2%98&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;应用支持浅色、暗色与自动主题。&lt;/p&gt;
+    &lt;a href=&#34;#%e9%80%9a%e7%94%a8&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;此章节的永久链接&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3 data-hextra-search-id=&#34;主题&#34;&gt;主题&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;主题&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e4%b8%bb%e9%a2%98&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;此章节的永久链接&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;应用支持浅色、暗色与自动主题。&lt;/p&gt;
 &lt;h3 data-hextra-search-id=&#34;更改语言&#34;&gt;更改语言&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;更改语言&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#%e6%9b%b4%e6%94%b9%e8%af%ad%e8%a8%80&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;支持约 10 种内置语言，修改后不生效说明系统没有安装对应语言包。&lt;/p&gt;
+    &lt;a href=&#34;#%e6%9b%b4%e6%94%b9%e8%af%ad%e8%a8%80&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;此章节的永久链接&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;支持约 10 种内置语言，修改后不生效说明系统没有安装对应语言包。&lt;/p&gt;
 &lt;h3 data-hextra-search-id=&#34;菜单位置&#34;&gt;菜单位置&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;菜单位置&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#%e8%8f%9c%e5%8d%95%e4%bd%8d%e7%bd%ae&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;默认菜单位置为左侧，也可根据喜好将位置放到上方。&lt;/p&gt;
+    &lt;a href=&#34;#%e8%8f%9c%e5%8d%95%e4%bd%8d%e7%bd%ae&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;此章节的永久链接&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;默认菜单位置为左侧，也可根据喜好将位置放到上方。&lt;/p&gt;
 &lt;h2 data-hextra-search-id=&#34;播放&#34;&gt;播放&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;播放&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#%e6%92%ad%e6%94%be&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3 data-hextra-search-id=&#34;播放速度&#34;&gt;播放速度&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;播放速度&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#%e6%92%ad%e6%94%be%e9%80%9f%e5%ba%a6&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;提供 0.5 到 3.0 区间范围的音频播放速度调整。&lt;/p&gt;
+    &lt;a href=&#34;#%e6%92%ad%e6%94%be&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;此章节的永久链接&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3 data-hextra-search-id=&#34;播放速度&#34;&gt;播放速度&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;播放速度&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e6%92%ad%e6%94%be%e9%80%9f%e5%ba%a6&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;此章节的永久链接&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;提供 0.5 到 3.0 区间范围的音频播放速度调整。&lt;/p&gt;
 &lt;h3 data-hextra-search-id=&#34;继续播放&#34;&gt;继续播放&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;继续播放&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#%e7%bb%a7%e7%bb%ad%e6%92%ad%e6%94%be&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;应用打开时会继续播放之前正在播放的内容，可以进行关闭。&lt;/p&gt;
+    &lt;a href=&#34;#%e7%bb%a7%e7%bb%ad%e6%92%ad%e6%94%be&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;此章节的永久链接&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;应用打开时会继续播放之前正在播放的内容，可以进行关闭。&lt;/p&gt;
 &lt;h3 data-hextra-search-id=&#34;音频输出&#34;&gt;音频输出&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;音频输出&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#%e9%9f%b3%e9%a2%91%e8%be%93%e5%87%ba&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;支持独立切换播客播放至特定的音频设备，例如耳机、不同的功放、音箱。&lt;/p&gt;
+    &lt;a href=&#34;#%e9%9f%b3%e9%a2%91%e8%be%93%e5%87%ba&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;此章节的永久链接&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;支持独立切换播客播放至特定的音频设备，例如耳机、不同的功放、音箱。&lt;/p&gt;
 &lt;h3 data-hextra-search-id=&#34;定时暂停&#34;&gt;定时暂停&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;定时暂停&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#%e5%ae%9a%e6%97%b6%e6%9a%82%e5%81%9c&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;支持播客在指定时间后停止播放。&lt;/p&gt;
+    &lt;a href=&#34;#%e5%ae%9a%e6%97%b6%e6%9a%82%e5%81%9c&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;此章节的永久链接&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;支持播客在指定时间后停止播放。&lt;/p&gt;
 &lt;h2 data-hextra-search-id=&#34;同步&#34;&gt;同步&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;同步&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#%e5%90%8c%e6%ad%a5&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3 data-hextra-search-id=&#34;onedrive-同步&#34;&gt;OneDrive 同步&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;onedrive-同步&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#onedrive-%e5%90%8c%e6%ad%a5&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;支持将播放历史、订阅内容通过 OneDrive 保存，云传输至不同的设备。&lt;/p&gt;
+    &lt;a href=&#34;#%e5%90%8c%e6%ad%a5&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;此章节的永久链接&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3 data-hextra-search-id=&#34;onedrive-同步&#34;&gt;OneDrive 同步&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;onedrive-同步&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#onedrive-%e5%90%8c%e6%ad%a5&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;此章节的永久链接&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;支持将播放历史、订阅内容通过 OneDrive 保存，云传输至不同的设备。&lt;/p&gt;
 &lt;h3 data-hextra-search-id=&#34;opml-同步&#34;&gt;OPML 同步&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;opml-同步&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#opml-%e5%90%8c%e6%ad%a5&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;支持批量通过 OPML 文件导入或导出订阅的播客。&lt;/p&gt;
+    &lt;a href=&#34;#opml-%e5%90%8c%e6%ad%a5&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;此章节的永久链接&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;支持批量通过 OPML 文件导入或导出订阅的播客。&lt;/p&gt;
 &lt;h2 data-hextra-search-id=&#34;下载&#34;&gt;下载&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;下载&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#%e4%b8%8b%e8%bd%bd&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3 data-hextra-search-id=&#34;文件夹更改&#34;&gt;文件夹更改&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;文件夹更改&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#%e6%96%87%e4%bb%b6%e5%a4%b9%e6%9b%b4%e6%94%b9&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;支持修改期望下载的单集文件位置。&lt;/p&gt;
+    &lt;a href=&#34;#%e4%b8%8b%e8%bd%bd&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;此章节的永久链接&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3 data-hextra-search-id=&#34;文件夹更改&#34;&gt;文件夹更改&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;文件夹更改&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e6%96%87%e4%bb%b6%e5%a4%b9%e6%9b%b4%e6%94%b9&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;此章节的永久链接&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;支持修改期望下载的单集文件位置。&lt;/p&gt;
 &lt;h3 data-hextra-search-id=&#34;自动下载&#34;&gt;自动下载&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;自动下载&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#%e8%87%aa%e5%8a%a8%e4%b8%8b%e8%bd%bd&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;当播客提供新的单集时，支持自动下载缓存本地。&lt;/p&gt;
+    &lt;a href=&#34;#%e8%87%aa%e5%8a%a8%e4%b8%8b%e8%bd%bd&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;此章节的永久链接&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;当播客提供新的单集时，支持自动下载缓存本地。&lt;/p&gt;
 &lt;h3 data-hextra-search-id=&#34;结束后删除文件&#34;&gt;结束后删除文件&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;结束后删除文件&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#%e7%bb%93%e6%9d%9f%e5%90%8e%e5%88%a0%e9%99%a4%e6%96%87%e4%bb%b6&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;对于本地缓存的单集播客，当播放完成时自动删除。&lt;/p&gt;
+    &lt;a href=&#34;#%e7%bb%93%e6%9d%9f%e5%90%8e%e5%88%a0%e9%99%a4%e6%96%87%e4%bb%b6&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;此章节的永久链接&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;对于本地缓存的单集播客，当播放完成时自动删除。&lt;/p&gt;
 &lt;h3 data-hextra-search-id=&#34;自动清理&#34;&gt;自动清理&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;自动清理&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#%e8%87%aa%e5%8a%a8%e6%b8%85%e7%90%86&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;已订阅的播客，当缓存超过一定集数时，可以设置自动删除清理。&lt;/p&gt;
+    &lt;a href=&#34;#%e8%87%aa%e5%8a%a8%e6%b8%85%e7%90%86&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;此章节的永久链接&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;已订阅的播客，当缓存超过一定集数时，可以设置自动删除清理。&lt;/p&gt;
 &lt;h3 data-hextra-search-id=&#34;保存播客文件夹名称&#34;&gt;保存播客文件夹名称&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;保存播客文件夹名称&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#%e4%bf%9d%e5%ad%98%e6%92%ad%e5%ae%a2%e6%96%87%e4%bb%b6%e5%a4%b9%e5%90%8d%e7%a7%b0&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;默认下载到本地的文件夹名为播客作者的名称，可以更改为播客名。&lt;/p&gt;
+    &lt;a href=&#34;#%e4%bf%9d%e5%ad%98%e6%92%ad%e5%ae%a2%e6%96%87%e4%bb%b6%e5%a4%b9%e5%90%8d%e7%a7%b0&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;此章节的永久链接&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;默认下载到本地的文件夹名为播客作者的名称，可以更改为播客名。&lt;/p&gt;
 &lt;h2 data-hextra-search-id=&#34;检查&#34;&gt;检查&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;检查&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#%e6%a3%80%e6%9f%a5&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3 data-hextra-search-id=&#34;未播放单集&#34;&gt;未播放单集&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;未播放单集&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#%e6%9c%aa%e6%92%ad%e6%94%be%e5%8d%95%e9%9b%86&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;支持批量查询目前已订阅播客有多少未播放的数量。&lt;/p&gt;
+    &lt;a href=&#34;#%e6%a3%80%e6%9f%a5&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;此章节的永久链接&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3 data-hextra-search-id=&#34;未播放单集&#34;&gt;未播放单集&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;未播放单集&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e6%9c%aa%e6%92%ad%e6%94%be%e5%8d%95%e9%9b%86&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;此章节的永久链接&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;支持批量查询目前已订阅播客有多少未播放的数量。&lt;/p&gt;
 &lt;h3 data-hextra-search-id=&#34;未播放标识&#34;&gt;未播放标识&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;未播放标识&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#%e6%9c%aa%e6%92%ad%e6%94%be%e6%a0%87%e8%af%86&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;开启后启动应用，显示订阅的播客有多少未播放的数量。&lt;/p&gt;
+    &lt;a href=&#34;#%e6%9c%aa%e6%92%ad%e6%94%be%e6%a0%87%e8%af%86&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;此章节的永久链接&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;开启后启动应用，显示订阅的播客有多少未播放的数量。&lt;/p&gt;
 &lt;h3 data-hextra-search-id=&#34;更新所有播客大图&#34;&gt;更新所有播客大图&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;更新所有播客大图&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#%e6%9b%b4%e6%96%b0%e6%89%80%e6%9c%89%e6%92%ad%e5%ae%a2%e5%a4%a7%e5%9b%be&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;已订阅播客可能会在线上更新图标，因本地为缓存订阅时的大图，该功能可以更新至最新大图。&lt;/p&gt;
+    &lt;a href=&#34;#%e6%9b%b4%e6%96%b0%e6%89%80%e6%9c%89%e6%92%ad%e5%ae%a2%e5%a4%a7%e5%9b%be&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;此章节的永久链接&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;已订阅播客可能会在线上更新图标，因本地为缓存订阅时的大图，该功能可以更新至最新大图。&lt;/p&gt;
 &lt;h2 data-hextra-search-id=&#34;网络&#34;&gt;网络&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;网络&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#%e7%bd%91%e7%bb%9c&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3 data-hextra-search-id=&#34;离线模式&#34;&gt;离线模式&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;离线模式&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#%e7%a6%bb%e7%ba%bf%e6%a8%a1%e5%bc%8f&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;开启后启动应用不消耗流量，只有主动点刷新和下载时才会连接互联网获取播客信息。&lt;/p&gt;
+    &lt;a href=&#34;#%e7%bd%91%e7%bb%9c&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;此章节的永久链接&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3 data-hextra-search-id=&#34;离线模式&#34;&gt;离线模式&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;离线模式&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e7%a6%bb%e7%ba%bf%e6%a8%a1%e5%bc%8f&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;此章节的永久链接&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;开启后启动应用不消耗流量，只有主动点刷新和下载时才会连接互联网获取播客信息。&lt;/p&gt;
 &lt;h2 data-hextra-search-id=&#34;钉&#34;&gt;钉&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;钉&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#%e9%92%89&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3 data-hextra-search-id=&#34;钉白色图标&#34;&gt;钉白色图标&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;钉白色图标&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#%e9%92%89%e7%99%bd%e8%89%b2%e5%9b%be%e6%a0%87&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;将应用快速固定至开始菜单&lt;/p&gt;
+    &lt;a href=&#34;#%e9%92%89&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;此章节的永久链接&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3 data-hextra-search-id=&#34;钉白色图标&#34;&gt;钉白色图标&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;钉白色图标&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e9%92%89%e7%99%bd%e8%89%b2%e5%9b%be%e6%a0%87&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;此章节的永久链接&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;将应用快速固定至开始菜单&lt;/p&gt;
 &lt;h3 data-hextra-search-id=&#34;钉至任务栏&#34;&gt;钉至任务栏&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;钉至任务栏&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#%e9%92%89%e8%87%b3%e4%bb%bb%e5%8a%a1%e6%a0%8f&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;将应用快速固定在底部任务栏。&lt;/p&gt;
+    &lt;a href=&#34;#%e9%92%89%e8%87%b3%e4%bb%bb%e5%8a%a1%e6%a0%8f&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;此章节的永久链接&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;将应用快速固定在底部任务栏。&lt;/p&gt;
 &lt;h2 data-hextra-search-id=&#34;关于&#34;&gt;关于&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;关于&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#%e5%85%b3%e4%ba%8e&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3 data-hextra-search-id=&#34;检查更新&#34;&gt;检查更新&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;检查更新&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#%e6%a3%80%e6%9f%a5%e6%9b%b4%e6%96%b0&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;顾名思义，检查 Store 中播客是否有更新。&lt;/p&gt;
+    &lt;a href=&#34;#%e5%85%b3%e4%ba%8e&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;此章节的永久链接&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3 data-hextra-search-id=&#34;检查更新&#34;&gt;检查更新&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;检查更新&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e6%a3%80%e6%9f%a5%e6%9b%b4%e6%96%b0&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;此章节的永久链接&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;顾名思义，检查 Store 中播客是否有更新。&lt;/p&gt;
 &lt;h3 data-hextra-search-id=&#34;hotkeys&#34;&gt;Hotkeys&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;hotkeys&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#hotkeys&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;快捷键，点击后可以查看提供的键盘与手柄快捷操作键。&lt;/p&gt;
+    &lt;a href=&#34;#hotkeys&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;此章节的永久链接&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;快捷键，点击后可以查看提供的键盘与手柄快捷操作键。&lt;/p&gt;
       </description>
     </item>
     
@@ -127,7 +127,7 @@
         
         
         &lt;h2 data-hextra-search-id=&#34;包含哪些功能&#34;&gt;包含哪些功能?&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;包含哪些功能&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#%e5%8c%85%e5%90%ab%e5%93%aa%e4%ba%9b%e5%8a%9f%e8%83%bd&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+    &lt;a href=&#34;#%e5%8c%85%e5%90%ab%e5%93%aa%e4%ba%9b%e5%8a%9f%e8%83%bd&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;此章节的永久链接&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;永久删除广告&lt;/li&gt;
 &lt;li&gt;支持订阅 5 个节目以上&lt;/li&gt;
 &lt;li&gt;保存播放列表&lt;/li&gt;
@@ -135,7 +135,7 @@
 &lt;li&gt;更多未来独占功能&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 data-hextra-search-id=&#34;价格&#34;&gt;价格&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;价格&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#%e4%bb%b7%e6%a0%bc&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+    &lt;a href=&#34;#%e4%bb%b7%e6%a0%bc&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;此章节的永久链接&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;￥21 元人民币永久授权，具体基于 Store 地区&lt;/li&gt;
 &lt;li&gt;10 台设备授权&lt;/li&gt;
 &lt;/ul&gt;
@@ -152,13 +152,13 @@
         
         
         &lt;h2 data-hextra-search-id=&#34;v1751&#34;&gt;v1.7.51&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;v1751&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#v1751&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;发布日期：2026/6/24&lt;/p&gt;
+    &lt;a href=&#34;#v1751&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;此章节的永久链接&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;发布日期：2026/6/24&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;优化：发现页面控件提升原生感&lt;/li&gt;
 &lt;li&gt;修复：优化部分打开应用崩溃的问题&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 data-hextra-search-id=&#34;v1750&#34;&gt;v1.7.50&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;v1750&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#v1750&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;发布日期：2026/5/10&lt;/p&gt;
+    &lt;a href=&#34;#v1750&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;此章节的永久链接&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;发布日期：2026/5/10&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;优化：顶部播放器可直接设置定时暂停和音频输出&lt;/li&gt;
 &lt;li&gt;优化：提供更便捷的定时暂停自定义时间选择器&lt;/li&gt;
@@ -166,12 +166,12 @@
 &lt;li&gt;修复：部分页面元素讲述人无法描述的问题&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 data-hextra-search-id=&#34;v1749&#34;&gt;v1.7.49&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;v1749&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#v1749&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;发布日期：2026/3/9&lt;/p&gt;
+    &lt;a href=&#34;#v1749&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;此章节的永久链接&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;发布日期：2026/3/9&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;修复：发现页无推荐播客的问题&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 data-hextra-search-id=&#34;v1748&#34;&gt;v1.7.48&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;v1748&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#v1748&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;发布日期：2026/2/5&lt;/p&gt;
+    &lt;a href=&#34;#v1748&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;此章节的永久链接&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;发布日期：2026/2/5&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;功能：全新的播放列表板块，允许创建空播放列表&lt;/li&gt;
 &lt;li&gt;功能：设置中提供初版应用侧边导航至播客列表代替全屏导航&lt;/li&gt;
@@ -189,18 +189,18 @@
 &lt;li&gt;修复：系统主题自动变更后系统按钮颜色没有变更的情况&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 data-hextra-search-id=&#34;v1747&#34;&gt;v1.7.47&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;v1747&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#v1747&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;发布日期：2026/1/19&lt;/p&gt;
+    &lt;a href=&#34;#v1747&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;此章节的永久链接&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;发布日期：2026/1/19&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;修复：专业用户发现页面仍然显示广告的问题&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 data-hextra-search-id=&#34;v1746&#34;&gt;v1.7.46&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;v1746&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#v1746&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;发布日期：2025/10/22&lt;/p&gt;
+    &lt;a href=&#34;#v1746&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;此章节的永久链接&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;发布日期：2025/10/22&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;修复：分类列表展示都是相同播客列表的问题&lt;/li&gt;
 &lt;li&gt;修复：重置应用丢失专业版验证的问题&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 data-hextra-search-id=&#34;v1745&#34;&gt;v1.7.45&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;v1745&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#v1745&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;发布日期：2025/8/28&lt;/p&gt;
+    &lt;a href=&#34;#v1745&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;此章节的永久链接&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;发布日期：2025/8/28&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;优化： 提升了语言翻译效果&lt;/li&gt;
 &lt;li&gt;优化： 改善了游戏栏小部件模式下的导航体验&lt;/li&gt;
@@ -209,7 +209,7 @@
 &lt;li&gt;修复： 修复了从睡眠状态唤醒后应用卡死的问题&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 data-hextra-search-id=&#34;v1744&#34;&gt;v1.7.44&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;v1744&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#v1744&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;发布日期：2025/8/15&lt;/p&gt;
+    &lt;a href=&#34;#v1744&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;此章节的永久链接&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;发布日期：2025/8/15&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;功能： 全新的发现板块，拥有更出色的界面与交互体验，并提供更频繁的播客推荐以提升可发现性&lt;/li&gt;
 &lt;li&gt;优化： 改善了应用内的通知提示&lt;/li&gt;
@@ -217,12 +217,12 @@
 &lt;li&gt;修复： 修正了拼写错误并修复了节目备注时间线导航问题&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 data-hextra-search-id=&#34;v1743&#34;&gt;v1.7.43&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;v1743&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#v1743&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;发布日期：2025/5/9&lt;/p&gt;
+    &lt;a href=&#34;#v1743&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;此章节的永久链接&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;发布日期：2025/5/9&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;优化：界面优化&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 data-hextra-search-id=&#34;v1742&#34;&gt;v1.7.42&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;v1742&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#v1742&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;发布日期：2025/4/25&lt;/p&gt;
+    &lt;a href=&#34;#v1742&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;此章节的永久链接&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;发布日期：2025/4/25&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;功能：设置中播放速度新增自定义&lt;/li&gt;
 &lt;li&gt;优化：播客页/收藏库/分类页界面优化&lt;/li&gt;
@@ -232,37 +232,37 @@
 &lt;li&gt;修复：某些平台默认文件夹下载失败的问题&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 data-hextra-search-id=&#34;v1741&#34;&gt;v1.7.41&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;v1741&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#v1741&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;发布日期：2025/3/31&lt;/p&gt;
+    &lt;a href=&#34;#v1741&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;此章节的永久链接&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;发布日期：2025/3/31&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;功能：新增意大利语&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 data-hextra-search-id=&#34;v1740&#34;&gt;v1.7.40&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;v1740&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#v1740&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;发布日期：2025/3/17&lt;/p&gt;
+    &lt;a href=&#34;#v1740&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;此章节的永久链接&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;发布日期：2025/3/17&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;功能：支持游戏小组件&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 data-hextra-search-id=&#34;v1739&#34;&gt;v1.7.39&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;v1739&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#v1739&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;发布日期：2025/3/11&lt;/p&gt;
+    &lt;a href=&#34;#v1739&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;此章节的永久链接&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;发布日期：2025/3/11&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;高级功能：新网页随身播放版&lt;/li&gt;
 &lt;li&gt;功能：分享功能增强&lt;/li&gt;
 &lt;li&gt;优化：高级功能更详细的介绍&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 data-hextra-search-id=&#34;v1738&#34;&gt;v1.7.38&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;v1738&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#v1738&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;发布日期：2025/3/3&lt;/p&gt;
+    &lt;a href=&#34;#v1738&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;此章节的永久链接&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;发布日期：2025/3/3&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;优化：播放列表和播放器边框颜色调整&lt;/li&gt;
 &lt;li&gt;优化：Xbox 版体验和界面微调&lt;/li&gt;
 &lt;li&gt;修复：跳转其它页面菜单重新展开的问题&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 data-hextra-search-id=&#34;v1737&#34;&gt;v1.7.37&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;v1737&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#v1737&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;发布日期：2025/2/22&lt;/p&gt;
+    &lt;a href=&#34;#v1737&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;此章节的永久链接&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;发布日期：2025/2/22&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;优化：新 Logo 图标&lt;/li&gt;
 &lt;li&gt;优化：设置页面小调整&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 data-hextra-search-id=&#34;v1736&#34;&gt;v1.7.36&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;v1736&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#v1736&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;发布日期：2025/1/7&lt;/p&gt;
+    &lt;a href=&#34;#v1736&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;此章节的永久链接&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;发布日期：2025/1/7&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;功能：增加菜单位置修改&lt;/li&gt;
 &lt;li&gt;功能：增加刷新订阅播客图片&lt;/li&gt;
@@ -272,7 +272,7 @@
 &lt;li&gt;修复：首页播客封面白边的问题&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 data-hextra-search-id=&#34;v1735&#34;&gt;v1.7.35&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;v1735&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#v1735&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;发布日期：2024/12/24&lt;/p&gt;
+    &lt;a href=&#34;#v1735&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;此章节的永久链接&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;发布日期：2024/12/24&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;功能：增加应用内语言修改&lt;/li&gt;
 &lt;li&gt;功能：新增 Xbox 沉浸模式&lt;/li&gt;
@@ -286,19 +286,19 @@
 &lt;li&gt;修复：部分分辨率下单集结束崩溃的问题&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 data-hextra-search-id=&#34;v1734&#34;&gt;v1.7.34&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;v1734&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#v1734&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+    &lt;a href=&#34;#v1734&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;此章节的永久链接&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;功能：支持以播客名存储下载文件夹&lt;/li&gt;
 &lt;li&gt;优化：界面展示&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 data-hextra-search-id=&#34;v1733&#34;&gt;v1.7.33&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;v1733&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#v1733&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;更新时间：2024/9/9&lt;/p&gt;
+    &lt;a href=&#34;#v1733&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;此章节的永久链接&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;更新时间：2024/9/9&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;优化：优化设置页面展示&lt;/li&gt;
 &lt;li&gt;功能：播客分类瀑布流读取&lt;/li&gt;
 &lt;li&gt;修复：部分无法开的列表的情况&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 data-hextra-search-id=&#34;v1732&#34;&gt;v1.7.32&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;v1732&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#v1732&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+    &lt;a href=&#34;#v1732&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;此章节的永久链接&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;优化：支持不重启直接切换主题&lt;/li&gt;
 &lt;/ul&gt;
 
