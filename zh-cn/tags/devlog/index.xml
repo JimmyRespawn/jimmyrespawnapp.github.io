@@ -4,7 +4,7 @@
     <link>https://app.linjimi.com/zh-cn/tags/devlog/</link>
     <description>Recent content in Devlog on 墨菲纳米</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-CN</language>
+    <language>zh-cn</language>
     <lastBuildDate>Sun, 07 Sep 2025 00:00:00 +0000</lastBuildDate>
     
 	  <atom:link href="https://app.linjimi.com/zh-cn/tags/devlog/index.xml" rel="self" type="application/rss+xml" />
@@ -25,7 +25,7 @@
         
         
         &lt;p&gt;又到了久违的 UWP Devlog，最近想把老项目支持 WinUI 2，干脆决定重新创建个新的项目干净的。正好看到去年支持的 UWP .NET 9 在五六月的时候已经正式版，VS2022也内置的模板，那干脆就新建。因为支持 .NET 9 对于 UWP 其实还是挺重要，特别是你比较依赖外部的库做功能的话，无异于可以更好支持自己的项目。至于 AOT 等等，锦上添花。于是创建空项目，率先试了下能不能生成 msixupload 包，毕竟之前遇到过项目总算迁完，结果最后生成包各种傻眼和坑，生产了下成功，信心满满开始编码(拷贝)。其实代码优化本身遇到的问题并不多，99%直接复制过去都可以跑起来。下面是碰到的小坑。&lt;/p&gt;
-&lt;h2&gt;开发中遇到的坑&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;开发中遇到的坑&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;开发中遇到的坑&#34;&gt;开发中遇到的坑&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;开发中遇到的坑&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#%e5%bc%80%e5%8f%91%e4%b8%ad%e9%81%87%e5%88%b0%e7%9a%84%e5%9d%91&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ol&gt;
 &lt;li&gt;发布包部分功能不执行：Debug下跑的好好的，Release包怎么就功能不行了。有了 WinUI 3 的经验，直接在项目文件里加上&lt;AllowUnsafeBlocks&gt;到true，&lt;PublishAOT&gt;到false，&lt;TrimMode&gt;到false，马上让你纸糊代码焕发新生。这次比较诡异的是PublishTrimmed在Debug下打开会有问题，那加个Configuration在Debug时候设置false，在Release时候设置到true，成功解决所有问题&lt;/li&gt;
 &lt;li&gt;部分老库不可用：我碰到的是 OneDrive.SDK.Authentication 在 .Net 9 下跑不起来，索性 OneDrive.SDK 还能跑，之前试着迁移到新的 Graph API，因为 UWP 这个历史问题，其实后面创建的包在 Azure 下没有 Id，那么就导致不得不继续用 OneDrive.SDK 了。运气好，凭借强力的 AI，成功实现 Authentication 的授权功能，而且能调起系统弹窗，非常完美的解决。不过每个人可能碰到库不可用的情况不同，所以可能会是给隐形雷。&lt;/li&gt;
@@ -33,7 +33,7 @@
 &lt;li&gt;生成的 Store 包缺乏多语言：最终生成的包竟然不包括任何其他多语言的文件，msix 包里还有，到 msixbundle 下面的时候全部消失，搜了半天也没看到有人遇到。最后发现要去csproj里加上各种语言节点才能生成在最终上传的包里。&lt;/li&gt;
 &lt;li&gt;没有 Designer View：最神奇的是，竟然把 Xaml Designer 的视图删了，这玩意儿你说开发多了的人无所谓，但是偶尔要在界面里找到某个节点，Desinger View原来这么成熟，说砍就砍。热加载这玩意儿有时候好用，但还是不如 DV。网上有人调侃 Visual Studio 没有了 Visual。&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h2&gt;.NET9 for UWP 优点&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;net9-for-uwp-优点&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;net9-for-uwp-优点&#34;&gt;.NET9 for UWP 优点&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;net9-for-uwp-优点&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#net9-for-uwp-%e4%bc%98%e7%82%b9&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;其实在做当中还是发现迁移后还是有很多好处&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;第三方库支持：不少库要求提的越来越高，不支持老项目。或者有些库能装上，你在用的时候发现有这样那样的Bug，上了 .NET 9 之后神奇的事情发生，有些 bug 自愈了。这无疑是升级的最大好处。&lt;/li&gt;
@@ -41,7 +41,7 @@
 &lt;li&gt;C#9.0 支持：恭喜你，可以使用最新版的最好的语言。&lt;/li&gt;
 &lt;li&gt;未来迁移支持：.NET 9 跳到 WinUI 3 无疑比 UWP 直接跳到 WinUI 3 方便，不过这个优点聊胜于无。&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h2&gt;结语&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;结语&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;结语&#34;&gt;结语&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;结语&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#%e7%bb%93%e8%af%ad&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;在 XAML 部分 .Net9 和 .Native 区别本质不大，毕竟前端就这样了，扒着 WinUI 大腿就完事。但是 UWP 本身开箱开发至今，本身除了打包经常报错外也不像这次版本遇到各种奇怪的坑。虽然 UWP 现在估计拿掉了面向新手的标签。老是要调 csproj 参数属实不是一种新手友好的开箱体验。&lt;/p&gt;
 &lt;p&gt;其实现在 WinUI 3 一堆新的 API 都盯着 AI 功能，而不是 AI 特性不是要显卡就是要有 NPU，假如 UWP .NET 9 能解决第三点和第五点问题，普通功能的应用再用过个五六年其实问题也不大。毕竟在这个年代，稳定的确是大于一切。不是什么东西都像技术一样，追求新的框架，最终稿呈现在别人面前的还是产品。&lt;/p&gt;
 &lt;p&gt;以上。&lt;/p&gt;
@@ -59,13 +59,13 @@
         
         
         &lt;p&gt;最近因为 bug 不得不暂时进行一次 UWP 中型项目的迁移至 WinUI3 架构，耗时两天，大约 20-30 小时。结果原来 UWP 版的 bug 在 UI3 刚发布两小时不到就有解决方案了，迁移后的项目只能作为备选了。&lt;/p&gt;
-&lt;h2&gt;优点&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;优点&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;优点&#34;&gt;优点&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;优点&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#%e4%bc%98%e7%82%b9&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ol&gt;
 &lt;li&gt;方便的单独打包和侧载，可以非常方便按 exe 发布刚打完的包，和传统 Win 应用一样。&lt;/li&gt;
 &lt;li&gt;丰富强大的社区库，虽然现在其他平台的库也很丰富，不过 .net 库的强大不用说了。&lt;/li&gt;
 &lt;li&gt;后续 MS 的支持，WinAPPSDK还在更新， 后续还有更多的 API 和 AI 的功能支持。&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h2&gt;遇到开发中的坑&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;遇到开发中的坑&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;遇到开发中的坑&#34;&gt;遇到开发中的坑&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;遇到开发中的坑&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#%e9%81%87%e5%88%b0%e5%bc%80%e5%8f%91%e4%b8%ad%e7%9a%84%e5%9d%91&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;以下问题仅代表本文章发布时在 WinUI3 遇到的问题&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;发布文件生成失败：store关联StoreAssociation.xml文件生成失败，导致打包失败，失败提示网上根本搜不到，老项目的关联文件贴过来就能用了。&lt;/li&gt;
@@ -75,15 +75,15 @@
 &lt;li&gt;部分 API 变更：情理之中，但有时候一样的功能，代码改动太大了，原来的代码复用性不高，就改的比较麻，印象深刻是一个ResourceLoader，还有一个是弹窗要定 XamlRoot。&lt;/li&gt;
 &lt;li&gt;CsWinRT和Win32代码混用： 当然也可能是老 UWP 项目迁移的问题，就有时候用 Win32 本地的 dll，比较像一块电路板原来像UWP一样必须要规规矩矩设计，突然有些功能非常狂野，一根线就飞过去，飞来飞去。但是功能也的确实现了。&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h2&gt;UWP与Win32较量中的利与弊&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;uwp与win32较量中的利与弊&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;uwp与win32较量中的利与弊&#34;&gt;UWP与Win32较量中的利与弊&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;uwp与win32较量中的利与弊&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#uwp%e4%b8%8ewin32%e8%be%83%e9%87%8f%e4%b8%ad%e7%9a%84%e5%88%a9%e4%b8%8e%e5%bc%8a&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;这里抛开平台之间的较量，这时候肯定有读者说，不会吧不会吧，5202年还有 .net 开发者吧。&lt;/p&gt;
-&lt;h3&gt;Win32利与UWP弊&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;win32利与uwp弊&#34;&gt;&lt;/span&gt;
+&lt;h3 data-hextra-search-id=&#34;win32利与uwp弊&#34;&gt;Win32利与UWP弊&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;win32利与uwp弊&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#win32%e5%88%a9%e4%b8%8euwp%e5%bc%8a&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol&gt;
 &lt;li&gt;底层 API 代码支持：UWP发布之日，当时沙盒那套安全性的确挺火，不少大厂趋之若鹜。但是牺牲的底层功能的支持，例如一个简单的让电脑开关机， UWP不靠XamlIsland这辈子都不可能实现。所以UWP就怕的是突然有一天你需要底层代码去实现一些业务功能。&lt;/li&gt;
 &lt;li&gt;无视Lifecycle ：基于跨平台和性能的要求，UWP在进入后台（缩小），关闭等之后，必须严格遵守Lifecycle，不然就会被部分平台的系统干掉后台，WP算好了，XBOX只要你一超过128M，就直接杀掉后台。这也是为什么Spotify等音乐软件，每次进后台，再切回来，所有前端页面要重新渲染，因为Spotify前端的一些大图，绝对可以撑爆128M。&lt;/li&gt;
 &lt;li&gt;美好的未来：持续支持新的 .net c# 特性，不过还是要看具体业务。就像那些老应用还在 WinForm 和 WPF 一样，这的确也是微软强大之处，新系统无敌的向前兼容，不去讨论苹果那套不支持 x64 就滚下架，不适配就下架的逻辑，强如谷歌，其实安卓该强硬的让一些应用更新，也还是可以在新版本不支持老应用。虽然这几年新的微软开发架构不支持老系统，但所有老系统的应用还是支持新系统。扯远了，WinAPPSDK月底就会发新的 AI Feature，靠这些功能的确能整出些花活。其实老框架也能支持新的热点功能，例如 VLC 就支持 Whisper 搞实时翻译，不过 WinUI3 这种新框架的确对于个人友好很多。&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h3&gt;UWP利与WinUI3弊&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;uwp利与winui3弊&#34;&gt;&lt;/span&gt;
+&lt;h3 data-hextra-search-id=&#34;uwp利与winui3弊&#34;&gt;UWP利与WinUI3弊&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;uwp利与winui3弊&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#uwp%e5%88%a9%e4%b8%8ewinui3%e5%bc%8a&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol&gt;
 &lt;li&gt;无敌的内存管理：其实较为复杂的应用还是可以维持在 100M 左右的前台内存占用，并且页面间跳转与内存回收极其精准快速，跑在低端机上毫无问题。无论是视频解码、音频播放，在线浏览之类，这也是为什么 UWP 始终有一定量钉子户和粉丝的原因，网易和腾讯把 Win32 应用在商店强制替换 UWP ，今天还有人骂。&lt;/li&gt;
 &lt;li&gt;安全性：其实这是个悖论，就如上面谈 Win32 的好的时候，UWP 不会扫描你的硬盘，UWP 没法后台跑一些骚操作，没法在你不同意的情况下获得一些权限。极致的安全性给开发者带来的不便和用户的体验提升，中间的博弈似乎本来就是悖论。&lt;/li&gt;
@@ -92,7 +92,7 @@
 &lt;li&gt;VS Deisnger View：终于到了我们开发者喜闻乐见的环节，所有框架，抛开诡异的Xamarin和Maui，UWP非常完美支持 Visual Studio 的 Deisnger View，甚至能在代码写的比较完善的情况下，渲染出后端代码中绑定的真实数据，只能说说强如微软。结果 WinUI3 猜猜怎么样，砍掉了，半年前答应加回来，现在还没上。现在距离 WinUI3 发布应该已经3年多了。&lt;/li&gt;
 &lt;li&gt;极致的性能：和第一点类似，基于 .net native 加持，现在可以宣布，Win平台不可能有比 UWP 启动速度更快的应用。&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h2&gt;后记&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;后记&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;后记&#34;&gt;后记&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;后记&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#%e5%90%8e%e8%ae%b0&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;能憋着看到现在一定是微软old ass，现在有些人上来就说我觉得ms这套框架就是不行，就是DOA。那我还是要说，你先看看自己能做到什么，你要是敲了两行hello world，或者做了两个功能就开始骂街，那我只能说强者不会抱怨环境。你去 iOS、安卓或者linux开发，照样也是没几个人用你的软件服务，下载量能到几十W甚至几W么，用户日活多少，或者你说你是技术爱好者，不是产品专家。那没问题，你在 Github 的开源库有几个 star，在哪个平台社区贡献几何。难如汇编，大佬都给你搞出一个过山车大亨。&lt;/p&gt;
 
       </description>

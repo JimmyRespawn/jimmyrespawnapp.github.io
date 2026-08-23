@@ -4,7 +4,7 @@
     <link>https://app.linjimi.com/zh-cn/docs/</link>
     <description>Recent content in 介绍 on 墨菲纳米</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-CN</language>
+    <language>zh-cn</language>
     
 	  <atom:link href="https://app.linjimi.com/zh-cn/docs/index.xml" rel="self" type="application/rss+xml" />
     
@@ -24,18 +24,18 @@
         
         
         &lt;p&gt;请保持耐心，如果您是 IPTV 的新手。IPTV Fluent 不提供内置的电视频道。&lt;/p&gt;
-&lt;h2&gt;1. 什么是 IPTV 播放器&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;1-什么是-iptv-播放器&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;1-什么是-iptv-播放器&#34;&gt;1. 什么是 IPTV 播放器&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;1-什么是-iptv-播放器&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#1-%e4%bb%80%e4%b9%88%e6%98%af-iptv-%e6%92%ad%e6%94%be%e5%99%a8&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;IPTV 播放器是一种软件工具，允许用户通过互联网流式传输电视内容。&lt;/p&gt;
 &lt;p&gt;它支持各种格式的直播频道和视频点播内容，提供了一个灵活的界面，可以浏览和观看来自世界各地的媒体。&lt;/p&gt;
-&lt;h2&gt;2. 什么是 M3U，以及如何合法获取&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;2-什么是-m3u以及如何合法获取&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;2-什么是-m3u以及如何合法获取&#34;&gt;2. 什么是 M3U，以及如何合法获取&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;2-什么是-m3u以及如何合法获取&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#2-%e4%bb%80%e4%b9%88%e6%98%af-m3u%e4%bb%a5%e5%8f%8a%e5%a6%82%e4%bd%95%e5%90%88%e6%b3%95%e8%8e%b7%e5%8f%96&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;M3U 是一种常用于存储 IPTV 频道列表的播放列表文件格式。&lt;/p&gt;
 &lt;p&gt;它包含用于流媒体内容的 URL，可以从合法来源如授权的 IPTV 提供商或广播公司处获取。&lt;/p&gt;
 &lt;p&gt;请确保您使用的是合法获取的 M3U 文件，以避免侵犯版权。&lt;/p&gt;
-&lt;h2&gt;3. 如何在 IPTV Fluent 中使用 M3U&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;3-如何在-iptv-fluent-中使用-m3u&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#3-%e5%a6%82%e4%bd%95%e5%9c%a8-iptv-fluent-%e4%b8%ad%e4%bd%bf%e7%94%a8-m3u&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://github.com/JimmyRespawn/IPTV-Fluent/blob/main/doc/images/SearchSectionIPTVFluent.webp?raw=true&#34; alt=&#34;VLC Network Panel&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;h2 data-hextra-search-id=&#34;3-如何在-iptv-fluent-中使用-m3u&#34;&gt;3. 如何在 IPTV Fluent 中使用 M3U&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;3-如何在-iptv-fluent-中使用-m3u&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#3-%e5%a6%82%e4%bd%95%e5%9c%a8-iptv-fluent-%e4%b8%ad%e4%bd%bf%e7%94%a8-m3u&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://github.com/JimmyRespawn/IPTV-Fluent/blob/main/doc/images/SearchSectionIPTVFluent.webp?raw=true&#34; alt=&#34;VLC Network Panel&#34;  loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;要开始使用 IPTV Fluent，只需在搜索栏中输入 M3U URL。&lt;/p&gt;
 &lt;p&gt;软件将自动加载与 M3U 文件相关的频道和内容，使您能够轻松浏览和流式传输。&lt;/p&gt;
-&lt;h2&gt;4. 常见问题&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;4-常见问题&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;4-常见问题&#34;&gt;4. 常见问题&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;4-常见问题&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#4-%e5%b8%b8%e8%a7%81%e9%97%ae%e9%a2%98&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;问：为什么直播常常卡顿和停止？&lt;/p&gt;
 &lt;p&gt;答：目前有若干种可能，1. 源不稳定，也是最常见的原因，因为播放源与视频网站类似，越多人使用对服务器的要求越高，播放源不稳定不是本地问题但是也无法解决，往往只能换源；2. 本地与对应源服务器的连接速度慢，直播取决的因素十分复杂，就和你玩网游要选区服一样，不同的运营商，不同的地区往往连接速度不同，导致的结果就是看直播卡，也是无法解决，只能换源；3. 本地设备配置不高，导致解码卡顿，这种情况是源和连接速度都稳定，但是视频传输到设备以后，本地的机器来不及解析，不同的播放器引擎解析视频的效率也不同，目前可以做的就是切换不同的播放引擎，试试不同的引擎能不能解除播放卡顿和停止的问题。&lt;/p&gt;
 &lt;p&gt;问：有些 M3U 的频道列表为什么没有解析出来？&lt;/p&gt;
@@ -73,10 +73,12 @@
     &lt;/iframe&gt;
   &lt;/div&gt;
 &lt;/div&gt; --&gt;
-&lt;h2&gt;阅读更多&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;阅读更多&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;阅读更多&#34;&gt;阅读更多&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;阅读更多&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#%e9%98%85%e8%af%bb%e6%9b%b4%e5%a4%9a&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/search?q=iptv&amp;#43;list&amp;amp;type=repositories&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Github 上的 IPTV m3u 列表示例&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://zh.wikipedia.org/wiki/IPTV&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;维基百科上的 IPTV 历史&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a
+    href=&#34;https://github.com/search?q=iptv&amp;#43;list&amp;amp;type=repositories&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Github 上的 IPTV m3u 列表示例&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a
+    href=&#34;https://zh.wikipedia.org/wiki/IPTV&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;维基百科上的 IPTV 历史&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
       </description>
     </item>
@@ -91,31 +93,27 @@
         
         
         &lt;p&gt;如果你不了解 IPTV ，请耐心查看文档。IPTV Fluent 并不提供内置频道。&lt;/p&gt;
-&lt;h2&gt;1. 什么是 IPTV Fluent Player&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;1-什么是-iptv-fluent-player&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;1-什么是-iptv-fluent-player&#34;&gt;1. 什么是 IPTV Fluent Player&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;1-什么是-iptv-fluent-player&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#1-%e4%bb%80%e4%b9%88%e6%98%af-iptv-fluent-player&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;IPTV Fluent Player 是一款让用户通过互联网播放在线流媒体内容的软件工具。&lt;/p&gt;
 &lt;p&gt;它支持各种格式的直播频道和点播内容，提供原生的界面，帮助你浏览和观看来自世界各地的媒体资源。&lt;/p&gt;
-&lt;h2&gt;2. 什么是 M3U？如何合法获取？&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;2-什么是-m3u如何合法获取&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;2-什么是-m3u如何合法获取&#34;&gt;2. 什么是 M3U？如何合法获取？&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;2-什么是-m3u如何合法获取&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#2-%e4%bb%80%e4%b9%88%e6%98%af-m3u%e5%a6%82%e4%bd%95%e5%90%88%e6%b3%95%e8%8e%b7%e5%8f%96&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;M3U 是一种常用的播放列表文件格式，常用于存储 IPTV 频道列表。&lt;/p&gt;
 &lt;p&gt;它包含用于流媒体播放的 URL，可以通过合法渠道（如有授权的 IPTV 服务提供商或广播机构）获取。&lt;/p&gt;
 &lt;p&gt;请务必确保你使用的是合法获取的 M3U 文件，以避免侵犯版权。&lt;/p&gt;
-&lt;h2&gt;3. 如何在 IPTV Fluent 中使用 M3U&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;3-如何在-iptv-fluent-中使用-m3u&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#3-%e5%a6%82%e4%bd%95%e5%9c%a8-iptv-fluent-%e4%b8%ad%e4%bd%bf%e7%94%a8-m3u&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://app.linjimi.com/images/iptv_ios_getstarted_1.webp&#34; alt=&#34;31&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;h2 data-hextra-search-id=&#34;3-如何在-iptv-fluent-中使用-m3u&#34;&gt;3. 如何在 IPTV Fluent 中使用 M3U&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;3-如何在-iptv-fluent-中使用-m3u&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#3-%e5%a6%82%e4%bd%95%e5%9c%a8-iptv-fluent-%e4%b8%ad%e4%bd%bf%e7%94%a8-m3u&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://app.linjimi.com/images/iptv_ios_getstarted_1.webp&#34; alt=&#34;31&#34;  loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;3.1 要开始使用 IPTV Fluent，只需点击菜单栏中的 &lt;code&gt;播放单&lt;/code&gt;。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://app.linjimi.com/images/iptv_ios_getstarted_2.webp&#34; alt=&#34;32&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://app.linjimi.com/images/iptv_ios_getstarted_2.webp&#34; alt=&#34;32&#34;  loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;3.2 点击 &lt;code&gt;创建列表&lt;/code&gt; 按钮或顶部的 &lt;code&gt;+&lt;/code&gt;。&lt;/p&gt;
 &lt;p&gt;3.3 然后点击 &lt;code&gt;在线列表&lt;/code&gt;。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://app.linjimi.com/images/iptv_ios_getstarted_3.webp&#34; alt=&#34;33&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://app.linjimi.com/images/iptv_ios_getstarted_3.webp&#34; alt=&#34;33&#34;  loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;3.4 在 &lt;code&gt;服务器地址&lt;/code&gt; 中输入你的个人 M3U 地址，并点击 &lt;code&gt;创建&lt;/code&gt; 按钮或右上角的按钮。你也可以输入列表名称或 EPG URL（可选项）。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://app.linjimi.com/images/iptv_ios_getstarted_4.webp&#34; alt=&#34;34&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://app.linjimi.com/images/iptv_ios_getstarted_4.webp&#34; alt=&#34;34&#34;  loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;3.5 点击你刚刚创建的列表，系统会自动返回 &lt;code&gt;频道&lt;/code&gt; 菜单。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://app.linjimi.com/images/iptv_ios_getstarted_5.webp&#34; alt=&#34;35&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://app.linjimi.com/images/iptv_ios_getstarted_5.webp&#34; alt=&#34;35&#34;  loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;3.6 点击你想观看的任意 &lt;code&gt;视频/频道&lt;/code&gt;，然后——搞定！应用会自动加载与 M3U 文件相关的频道和内容，让你轻松浏览与播放。&lt;/p&gt;
-&lt;!--
-
-    
-    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/JunsrPm743A?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
-      &gt;&lt;/iframe&gt;
+&lt;!--&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/JunsrPm743A?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
 --&gt;
       </description>
@@ -131,7 +129,7 @@
         
         
         &lt;p&gt;如果希望更深入的了解下载管理器，可以耐心查看以下文档内容，今后可能会推出视频介绍等。&lt;/p&gt;
-&lt;h2&gt;1. 如何开始下载&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;1-如何开始下载&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;1-如何开始下载&#34;&gt;1. 如何开始下载&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;1-如何开始下载&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#1-%e5%a6%82%e4%bd%95%e5%bc%80%e5%a7%8b%e4%b8%8b%e8%bd%bd&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;方法1: 在下载中页签中，点击右下角或者右上角的&lt;code&gt;+&lt;/code&gt;按钮，可以直接打开输入下载链接的弹窗，直接将想要下载的超链接输入即可。&lt;/p&gt;
@@ -143,13 +141,13 @@
 &lt;p&gt;方法3: 插件，目前插件正在研发中。&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;2. 应用内浏览器&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;2-应用内浏览器&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;2-应用内浏览器&#34;&gt;2. 应用内浏览器&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;2-应用内浏览器&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#2-%e5%ba%94%e7%94%a8%e5%86%85%e6%b5%8f%e8%a7%88%e5%99%a8&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;下载管理器中直接内置了一个用于嗅探下载的浏览器，可以在非常复杂的页面中直接嗅探出可下载的文件，从而防止默认的下载链接是其他诱导安装的可执行程序，具体使用逻辑见应用浏览器篇&lt;/p&gt;
 &lt;p&gt;p.s. 不用担心，这不是任何 Chromium 套壳，而是直接使用了 Windows 内置的 Edge Webview 2，不会占用更多应用空间。&lt;/p&gt;
 &lt;p&gt;p.s.2 请注意下载平台的安全性，dmk 自身不会检测下载的文件是否存在具有威胁的内容与否，尽管在下载完成后，会调用系统默认的防控软对文件进行扫描，但除了文件本身外，防控软件可能会误认为下载器本身与文件有直接关联。&lt;/p&gt;
-&lt;h2&gt;3. 文件管理器&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;3-文件管理器&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;3-文件管理器&#34;&gt;3. 文件管理器&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;3-文件管理器&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#3-%e6%96%87%e4%bb%b6%e7%ae%a1%e7%90%86%e5%99%a8&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;应用内置下载完成文件的管理器，支持一些通用的文件管理能力，包括但不限于打开、复制、移动、重命名等，但只可管理下载文件夹的文件内容，由于UWP应用的沙箱逻辑，除下载文件夹外的文件，都无法通过应用进行访问管理。&lt;/p&gt;
-&lt;h2&gt;4. 应用原理&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;4-应用原理&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;4-应用原理&#34;&gt;4. 应用原理&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;4-应用原理&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#4-%e5%ba%94%e7%94%a8%e5%8e%9f%e7%90%86&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;优点: 采用 .Net Native 原生的 Download Operation，表示下载管理器使用真正原生的下载线程，优点是极度轻量与快捷。&lt;/p&gt;
 &lt;p&gt;缺点: 对大文件和慢文件的稳定性不如传统 Http Client， 但如果下载管理器使用和其他应用一样的内核，那么这款轻量下载器又有什么存在的意义？&lt;/p&gt;
       </description>
@@ -165,7 +163,7 @@
         
         
         &lt;p&gt;如果希望更深入的了解播客，可以耐心查看以下文档内容。&lt;/p&gt;
-&lt;h2&gt;1. 添加播客&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;1-添加播客&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;1-添加播客&#34;&gt;1. 添加播客&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;1-添加播客&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#1-%e6%b7%bb%e5%8a%a0%e6%92%ad%e5%ae%a2&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;有四种方式可以添加您的播客。&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -181,12 +179,12 @@
 &lt;p&gt;方法4：可以一键导入由其他应用或在另一设备上生成的 OPML 文件。&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;2. 继续播放&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;2-继续播放&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;2-继续播放&#34;&gt;2. 继续播放&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;2-继续播放&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#2-%e7%bb%a7%e7%bb%ad%e6%92%ad%e6%94%be&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;当应用关闭时，它将保存当前正在播放的剧集进度。下次在任何登录同一账户的设备上打开应用时，它将从记录的时间点继续播放。您可以在设置中关闭此功能。（*Xbox 不会在 PC 和手机之间同步）&lt;/p&gt;
 &lt;p&gt;同步：目前，应用通过 OneDrive 同步收藏的播客和播放进度。应用只能操作由其创建的文件夹，因此您可以放心使用，感到隐私无忧。整个同步过程需要您手动操作。我们知道现在的方式有些笨拙，但这是目前防止您的进度被覆盖的方法。未来我们将实现更智能的同步方式。&lt;/p&gt;
-&lt;h2&gt;3. 高级版&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;3-高级版&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;3-高级版&#34;&gt;3. 高级版&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;3-高级版&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#3-%e9%ab%98%e7%ba%a7%e7%89%88&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;目前免费版本提供 5 个播客订阅，并含有广告。高级版将无广告，并且不限播客订阅数量。只需一次性支付费用，您就可以在所有 Windows/Xbox 设备上使用，只要登录相同的账户。&lt;/p&gt;
-&lt;h2&gt;4. 快捷键&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;4-快捷键&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;4-快捷键&#34;&gt;4. 快捷键&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;4-快捷键&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#4-%e5%bf%ab%e6%8d%b7%e9%94%ae&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;PC和Xbox版本都支持快捷键。&lt;/p&gt;
 &lt;p&gt;对于PC版本：Ctrl + W 退出应用；Ctrl + T 进入紧凑型覆盖模式；Ctrl + P 播放或暂停当前播放；Ctrl + F 调用搜索；Ctrl + S 进入设置页面；Ctrl + M 静音或取消静音。&lt;/p&gt;
 &lt;p&gt;对于Xbox版本：Y 调用搜索；X 聚焦到播放按钮；查看按钮 打开剧集详情窗口。&lt;/p&gt;
@@ -203,91 +201,94 @@
         
         
         &lt;p&gt;尽管只要您拥有个人 IPTV 提供商，IPTV Fluent 就已准备好播放流媒体，但它仍然提供了强大的自定义设置。&lt;/p&gt;
-&lt;h2&gt;菜单布局&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;菜单布局&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;菜单布局&#34;&gt;菜单布局&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;菜单布局&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#%e8%8f%9c%e5%8d%95%e5%b8%83%e5%b1%80&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;要在 IPTV Fluent 中调整设置，只需点击左侧菜单中的&lt;code&gt;设置&lt;/code&gt;按钮。&lt;/p&gt;
-&lt;div class=&#34;hextra-filetree hx-mt-6 hx-select-none hx-text-sm hx-text-gray-800 dark:hx-text-gray-300 not-prose&#34;&gt;
-  &lt;div class=&#34;hx-inline-block hx-rounded-lg hx-border hx-px-4 hx-py-2 dark:hx-border-neutral-800&#34;&gt;
+&lt;div class=&#34;hextra-filetree hx:mt-6 hx:select-none hx:text-sm hx:text-gray-800 hx:dark:text-gray-300 not-prose&#34;&gt;
+  &lt;div class=&#34;hx:inline-block hx:rounded-lg hx:px-4 hx:py-2 hx:border hx:border-gray-200 hx:dark:border-neutral-800&#34;&gt;
+    &lt;ul class=&#34;hx:flex hx:flex-col&#34;&gt;
 
 
-&lt;li class=&#34;hx-group hx-flex hx-list-none hx-flex-col&#34;&gt;
-  &lt;button class=&#34;hextra-filetree-folder hx-inline-flex hx-cursor-pointer hx-items-center hx-py-1 hover:hx-opacity-60&#34;&gt;
-    &lt;span data-state=&#34;open&#34; class=&#34;data-[state=open]:hx-hidden&#34;&gt;&lt;svg width=1em xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M3 7v10a2 2 0 002 2h14a2 2 0 002-2V9a2 2 0 00-2-2h-6l-2-2H5a2 2 0 00-2 2z&#34;/&gt;&lt;/svg&gt;&lt;/span&gt;
-    &lt;span data-state=&#34;open&#34; class=&#34;data-[state=closed]:hx-hidden&#34;&gt;&lt;svg width=1em xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M5 19a2 2 0 01-2-2V7a2 2 0 012-2h4l2 2h4a2 2 0 012 2v1M5 19h14a2 2 0 002-2v-5a2 2 0 00-2-2H9a2 2 0 00-2 2v5a2 2 0 01-2 2z&#34;/&gt;&lt;/svg&gt;&lt;/span&gt;
-    &lt;span class=&#34;ltr:hx-ml-1 rtl:hx-mr-1&#34;&gt;IPTV Fluent&lt;/span&gt;
+&lt;li class=&#34;hx:group hx:flex hx:list-none hx:flex-col&#34;&gt;
+  &lt;button class=&#34;hextra-filetree-folder hx:inline-flex hx:cursor-pointer hx:items-center hx:py-1 hx:hover:opacity-60&#34; aria-expanded=&#34;true&#34;&gt;
+    &lt;span data-state=&#34;open&#34; class=&#34;hx:data-[state=open]:hidden&#34;&gt;&lt;svg width=1em xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M3 7v10a2 2 0 002 2h14a2 2 0 002-2V9a2 2 0 00-2-2h-6l-2-2H5a2 2 0 00-2 2z&#34;/&gt;&lt;/svg&gt;&lt;/span&gt;
+    &lt;span data-state=&#34;open&#34; class=&#34;hx:data-[state=closed]:hidden&#34;&gt;&lt;svg width=1em xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M5 19a2 2 0 01-2-2V7a2 2 0 012-2h4l2 2h4a2 2 0 012 2v1M5 19h14a2 2 0 002-2v-5a2 2 0 00-2-2H9a2 2 0 00-2 2v5a2 2 0 01-2 2z&#34;/&gt;&lt;/svg&gt;&lt;/span&gt;
+    &lt;span class=&#34;hx:ltr:ml-1 hx:rtl:mr-1&#34;&gt;IPTV Fluent&lt;/span&gt;
   &lt;/button&gt;
-  &lt;ul data-state=&#34;open&#34; class=&#34;ltr:hx-pl-5 rtl:hx-pr-5 data-[state=closed]:hx-hidden&#34;&gt;
-&lt;li class=&#34;hx-flex hx-list-none&#34;&gt;
-  &lt;span class=&#34;hx-inline-flex hx-cursor-default hx-items-center hx-py-1&#34;&gt;&lt;svg width=1em xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z&#34;/&gt;&lt;/svg&gt;&lt;span class=&#34;ltr:hx-ml-1 rtl:hx-mr-1&#34;&gt;直播&lt;/span&gt;
+  &lt;ul data-state=&#34;open&#34; class=&#34;hx:ltr:pl-5 hx:rtl:pr-5 hx:data-[state=closed]:hidden&#34;&gt;
+&lt;li class=&#34;hx:flex hx:list-none&#34;&gt;
+  &lt;span class=&#34;hx:inline-flex hx:cursor-default hx:items-center hx:py-1&#34;&gt;&lt;svg width=1em xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z&#34;/&gt;&lt;/svg&gt;&lt;span class=&#34;hx:ltr:ml-1 hx:rtl:mr-1&#34;&gt;直播&lt;/span&gt;
   &lt;/span&gt;
 &lt;/li&gt;
 
-&lt;li class=&#34;hx-flex hx-list-none&#34;&gt;
-  &lt;span class=&#34;hx-inline-flex hx-cursor-default hx-items-center hx-py-1&#34;&gt;&lt;svg width=1em xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z&#34;/&gt;&lt;/svg&gt;&lt;span class=&#34;ltr:hx-ml-1 rtl:hx-mr-1&#34;&gt;频道&lt;/span&gt;
+&lt;li class=&#34;hx:flex hx:list-none&#34;&gt;
+  &lt;span class=&#34;hx:inline-flex hx:cursor-default hx:items-center hx:py-1&#34;&gt;&lt;svg width=1em xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z&#34;/&gt;&lt;/svg&gt;&lt;span class=&#34;hx:ltr:ml-1 hx:rtl:mr-1&#34;&gt;频道&lt;/span&gt;
   &lt;/span&gt;
 &lt;/li&gt;
 
-&lt;li class=&#34;hx-flex hx-list-none&#34;&gt;
-  &lt;span class=&#34;hx-inline-flex hx-cursor-default hx-items-center hx-py-1&#34;&gt;&lt;svg width=1em xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z&#34;/&gt;&lt;/svg&gt;&lt;span class=&#34;ltr:hx-ml-1 rtl:hx-mr-1&#34;&gt;播放单&lt;/span&gt;
+&lt;li class=&#34;hx:flex hx:list-none&#34;&gt;
+  &lt;span class=&#34;hx:inline-flex hx:cursor-default hx:items-center hx:py-1&#34;&gt;&lt;svg width=1em xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z&#34;/&gt;&lt;/svg&gt;&lt;span class=&#34;hx:ltr:ml-1 hx:rtl:mr-1&#34;&gt;播放单&lt;/span&gt;
   &lt;/span&gt;
 &lt;/li&gt;
 
-&lt;li class=&#34;hx-flex hx-list-none&#34;&gt;
-  &lt;span class=&#34;hx-inline-flex hx-cursor-default hx-items-center hx-py-1&#34;&gt;&lt;svg width=1em xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z&#34;/&gt;&lt;/svg&gt;&lt;span class=&#34;ltr:hx-ml-1 rtl:hx-mr-1&#34;&gt;设置&lt;/span&gt;
+&lt;li class=&#34;hx:flex hx:list-none&#34;&gt;
+  &lt;span class=&#34;hx:inline-flex hx:cursor-default hx:items-center hx:py-1&#34;&gt;&lt;svg width=1em xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z&#34;/&gt;&lt;/svg&gt;&lt;span class=&#34;hx:ltr:ml-1 hx:rtl:mr-1&#34;&gt;设置&lt;/span&gt;
   &lt;/span&gt;
 &lt;/li&gt;
 
 &lt;/ul&gt;
 &lt;/li&gt;
 
-&lt;/div&gt;
+&lt;/ul&gt;
+  &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;h2&gt;常规设置&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;常规设置&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#%e5%b8%b8%e8%a7%84%e8%ae%be%e7%bd%ae&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;主题&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;主题&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;常规设置&#34;&gt;常规设置&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;常规设置&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e5%b8%b8%e8%a7%84%e8%ae%be%e7%bd%ae&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3 data-hextra-search-id=&#34;主题&#34;&gt;主题&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;主题&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#%e4%b8%bb%e9%a2%98&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;提供自动、浅色、深色三种主题，自动即与设备的主题保持一致。&lt;/p&gt;
-&lt;h3&gt;启动菜单&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;启动菜单&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#%e5%90%af%e5%8a%a8%e8%8f%9c%e5%8d%95&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://od.lk/s/200607426_u0Sx5/launchmenu.png&#34; alt=&#34;image&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;h3 data-hextra-search-id=&#34;启动菜单&#34;&gt;启动菜单&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;启动菜单&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e5%90%af%e5%8a%a8%e8%8f%9c%e5%8d%95&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://od.lk/s/200607426_u0Sx5/launchmenu.png&#34; alt=&#34;image&#34;  loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;有&lt;code&gt;直播&lt;/code&gt;、&lt;code&gt;频道&lt;/code&gt;、&lt;code&gt;播放单&lt;/code&gt;、&lt;code&gt;媒体中心&lt;/code&gt;和&lt;code&gt;大屏幕&lt;/code&gt;。启动应用后，它将立即打开您选择的选项。&lt;/p&gt;
-&lt;h3&gt;应用语言&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;应用语言&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#%e5%ba%94%e7%94%a8%e8%af%ad%e8%a8%80&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://od.lk/s/200607851_yegn7/language.png&#34; alt=&#34;image&#34; loading=&#34;lazy&#34; /&gt;
+&lt;h3 data-hextra-search-id=&#34;应用语言&#34;&gt;应用语言&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;应用语言&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e5%ba%94%e7%94%a8%e8%af%ad%e8%a8%80&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://od.lk/s/200607851_yegn7/language.png&#34; alt=&#34;image&#34;  loading=&#34;lazy&#34; /&gt;
 应用中提供了 21 种语言选项。&lt;/p&gt;
 &lt;p&gt;除了英语、法语、西班牙语和中文外，其他语言均由 AI 和机器翻译。如果希望帮助我们翻译应用，欢迎加入在 Crowdin 平台的翻译团队。&lt;/p&gt;
 &lt;p&gt;如果您的操作系统没有相应的语言包，对应的语言则不会显示崽设置中。&lt;/p&gt;
-&lt;h2&gt;播放列表同步&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;播放列表同步&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#%e6%92%ad%e6%94%be%e5%88%97%e8%a1%a8%e5%90%8c%e6%ad%a5&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://od.lk/s/200608026_n1oNA/sync.png&#34; alt=&#34;image&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;h2 data-hextra-search-id=&#34;播放列表同步&#34;&gt;播放列表同步&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;播放列表同步&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e6%92%ad%e6%94%be%e5%88%97%e8%a1%a8%e5%90%8c%e6%ad%a5&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://od.lk/s/200608026_n1oNA/sync.png&#34; alt=&#34;image&#34;  loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;用户添加的在线播放列表和收藏列表可以通过 OneDrive 在桌面和平板电脑等设备之间同步。&lt;/p&gt;
 &lt;p&gt;您需要手动在设备之间点击上传和下载。自动同步功能正在开发中。&lt;/p&gt;
 &lt;p&gt;目前此功能仅适用于 IPTV Plus。&lt;/p&gt;
-&lt;h2&gt;播放设置&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;播放设置&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#%e6%92%ad%e6%94%be%e8%ae%be%e7%bd%ae&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;播放引擎&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;播放引擎&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#%e6%92%ad%e6%94%be%e5%bc%95%e6%93%8e&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://od.lk/s/200609031_t4bhu/playbackengine.png&#34; alt=&#34;image&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;h2 data-hextra-search-id=&#34;播放设置&#34;&gt;播放设置&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;播放设置&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e6%92%ad%e6%94%be%e8%ae%be%e7%bd%ae&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3 data-hextra-search-id=&#34;播放引擎&#34;&gt;播放引擎&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;播放引擎&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e6%92%ad%e6%94%be%e5%bc%95%e6%93%8e&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://od.lk/s/200609031_t4bhu/playbackengine.png&#34; alt=&#34;image&#34;  loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;播放引擎是流媒体播放的核心播放器。如果在播放某些直播流时遇到问题，您可以尝试更换播放引擎。&lt;/p&gt;
 &lt;p&gt;1: VLC：提供更好的图像质量和源支持。&lt;/p&gt;
 &lt;p&gt;2: 系统：原生播放器在 RAM 内存管理和稳定性管理方面表现更佳。&lt;/p&gt;
 &lt;p&gt;3: FFMpeg：对流媒体的支持更好，但会消耗更多的 RAM 内存。&lt;/p&gt;
-&lt;h3&gt;EPG 电子节目指南&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;epg-电子节目指南&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#epg-%e7%94%b5%e5%ad%90%e8%8a%82%e7%9b%ae%e6%8c%87%e5%8d%97&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://od.lk/s/200611282_LCp8I/EPG.png&#34; alt=&#34;image&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;h3 data-hextra-search-id=&#34;epg-电子节目指南&#34;&gt;EPG 电子节目指南&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;epg-电子节目指南&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#epg-%e7%94%b5%e5%ad%90%e8%8a%82%e7%9b%ae%e6%8c%87%e5%8d%97&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://od.lk/s/200611282_LCp8I/EPG.png&#34; alt=&#34;image&#34;  loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;自定义 EPG 需要一个外部的 xml 链接，该链接可能由您的 IPTV 提供商提供，或者您可以在网上搜索。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://od.lk/s/200612577_CWt9Q/epg2.png&#34; alt=&#34;image&#34; loading=&#34;lazy&#34; /&gt;
+&lt;p&gt;&lt;img src=&#34;https://od.lk/s/200612577_CWt9Q/epg2.png&#34; alt=&#34;image&#34;  loading=&#34;lazy&#34; /&gt;
 设置 URL 后，它将显示即将播放的节目。&lt;/p&gt;
-&lt;h3&gt;自动睡眠&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;自动睡眠&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#%e8%87%aa%e5%8a%a8%e7%9d%a1%e7%9c%a0&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://od.lk/s/200612991_jD6Gx/autosleep.png&#34; alt=&#34;image&#34; loading=&#34;lazy&#34; /&gt;
+&lt;h3 data-hextra-search-id=&#34;自动睡眠&#34;&gt;自动睡眠&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;自动睡眠&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e8%87%aa%e5%8a%a8%e7%9d%a1%e7%9c%a0&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://od.lk/s/200612991_jD6Gx/autosleep.png&#34; alt=&#34;image&#34;  loading=&#34;lazy&#34; /&gt;
 应用支持在一定时间后自动关闭。&lt;/p&gt;
-&lt;h2&gt;列表设置&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;列表设置&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#%e5%88%97%e8%a1%a8%e8%ae%be%e7%bd%ae&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;默认列表视图&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;默认列表视图&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;列表设置&#34;&gt;列表设置&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;列表设置&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e5%88%97%e8%a1%a8%e8%ae%be%e7%bd%ae&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3 data-hextra-search-id=&#34;默认列表视图&#34;&gt;默认列表视图&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;默认列表视图&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#%e9%bb%98%e8%ae%a4%e5%88%97%e8%a1%a8%e8%a7%86%e5%9b%be&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;在频道列表中，默认显示为单行列表。&lt;/p&gt;
 &lt;p&gt;您可以选择 Grid 选项以带节目徽标的方式显示。&lt;/p&gt;
-&lt;h3&gt;自动检测延迟&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;自动检测延迟&#34;&gt;&lt;/span&gt;
+&lt;h3 data-hextra-search-id=&#34;自动检测延迟&#34;&gt;自动检测延迟&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;自动检测延迟&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#%e8%87%aa%e5%8a%a8%e6%a3%80%e6%b5%8b%e5%bb%b6%e8%bf%9f&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;在某些情况下，您可能会从网上获取不可靠的 M3U 列表。&lt;/p&gt;
 &lt;p&gt;其中的许多频道可能在您的地区不可用。&lt;/p&gt;
 &lt;p&gt;打开此功能后，加载在线列表后将自动隐藏这些频道。&lt;/p&gt;
-&lt;h3&gt;更新频率&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;更新频率&#34;&gt;&lt;/span&gt;
+&lt;h3 data-hextra-search-id=&#34;更新频率&#34;&gt;更新频率&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;更新频率&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#%e6%9b%b4%e6%96%b0%e9%a2%91%e7%8e%87&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;选择 &lt;code&gt;每天&lt;/code&gt; 或 &lt;code&gt;每月&lt;/code&gt; 选项可以每日或每月缓存在线列表，而无需每次加载列表。&lt;/p&gt;
-&lt;h3&gt;更换默认在线地址&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;更换默认在线地址&#34;&gt;&lt;/span&gt;
+&lt;h3 data-hextra-search-id=&#34;更换默认在线地址&#34;&gt;更换默认在线地址&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;更换默认在线地址&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#%e6%9b%b4%e6%8d%a2%e9%bb%98%e8%ae%a4%e5%9c%a8%e7%ba%bf%e5%9c%b0%e5%9d%80&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;除了在左边搜索频道处直接替换，也可以在设置中对默认的在线列表进行修改。&lt;/p&gt;
-&lt;h2&gt;阅读更多&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;阅读更多&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;阅读更多&#34;&gt;阅读更多&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;阅读更多&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#%e9%98%85%e8%af%bb%e6%9b%b4%e5%a4%9a&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://zh.wikipedia.org/wiki/%E7%94%B5%E5%AD%90%E8%8A%82%E7%9B%AE%E6%8C%87%E5%8D%97&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;维基百科：电子节目指南&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a
+    href=&#34;https://zh.wikipedia.org/wiki/%E7%94%B5%E5%AD%90%E8%8A%82%E7%9B%AE%E6%8C%87%E5%8D%97&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;维基百科：电子节目指南&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
       </description>
     </item>
@@ -302,60 +303,63 @@
         
         
         &lt;p&gt;只要你有个人的 IPTV 服务提供商，IPTV Fluent 就已准备好播放流媒体内容，并且提供了强大的自定义设置选项。&lt;/p&gt;
-&lt;h2&gt;1. 菜单布局&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;1-菜单布局&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;1-菜单布局&#34;&gt;1. 菜单布局&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;1-菜单布局&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#1-%e8%8f%9c%e5%8d%95%e5%b8%83%e5%b1%80&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;要调整 IPTV Fluent 的设置，只需点击标签菜单中的 &lt;code&gt;设置&lt;/code&gt; 按钮。&lt;/p&gt;
-&lt;div class=&#34;hextra-filetree hx-mt-6 hx-select-none hx-text-sm hx-text-gray-800 dark:hx-text-gray-300 not-prose&#34;&gt;
-  &lt;div class=&#34;hx-inline-block hx-rounded-lg hx-border hx-px-4 hx-py-2 dark:hx-border-neutral-800&#34;&gt;
+&lt;div class=&#34;hextra-filetree hx:mt-6 hx:select-none hx:text-sm hx:text-gray-800 hx:dark:text-gray-300 not-prose&#34;&gt;
+  &lt;div class=&#34;hx:inline-block hx:rounded-lg hx:px-4 hx:py-2 hx:border hx:border-gray-200 hx:dark:border-neutral-800&#34;&gt;
+    &lt;ul class=&#34;hx:flex hx:flex-col&#34;&gt;
   
 
-&lt;li class=&#34;hx-group hx-flex hx-list-none hx-flex-col&#34;&gt;
-  &lt;button class=&#34;hextra-filetree-folder hx-inline-flex hx-cursor-pointer hx-items-center hx-py-1 hover:hx-opacity-60&#34;&gt;
-    &lt;span data-state=&#34;open&#34; class=&#34;data-[state=open]:hx-hidden&#34;&gt;&lt;svg width=1em xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M3 7v10a2 2 0 002 2h14a2 2 0 002-2V9a2 2 0 00-2-2h-6l-2-2H5a2 2 0 00-2 2z&#34;/&gt;&lt;/svg&gt;&lt;/span&gt;
-    &lt;span data-state=&#34;open&#34; class=&#34;data-[state=closed]:hx-hidden&#34;&gt;&lt;svg width=1em xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M5 19a2 2 0 01-2-2V7a2 2 0 012-2h4l2 2h4a2 2 0 012 2v1M5 19h14a2 2 0 002-2v-5a2 2 0 00-2-2H9a2 2 0 00-2 2v5a2 2 0 01-2 2z&#34;/&gt;&lt;/svg&gt;&lt;/span&gt;
-    &lt;span class=&#34;ltr:hx-ml-1 rtl:hx-mr-1&#34;&gt;IPTV Fluent&lt;/span&gt;
+&lt;li class=&#34;hx:group hx:flex hx:list-none hx:flex-col&#34;&gt;
+  &lt;button class=&#34;hextra-filetree-folder hx:inline-flex hx:cursor-pointer hx:items-center hx:py-1 hx:hover:opacity-60&#34; aria-expanded=&#34;true&#34;&gt;
+    &lt;span data-state=&#34;open&#34; class=&#34;hx:data-[state=open]:hidden&#34;&gt;&lt;svg width=1em xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M3 7v10a2 2 0 002 2h14a2 2 0 002-2V9a2 2 0 00-2-2h-6l-2-2H5a2 2 0 00-2 2z&#34;/&gt;&lt;/svg&gt;&lt;/span&gt;
+    &lt;span data-state=&#34;open&#34; class=&#34;hx:data-[state=closed]:hidden&#34;&gt;&lt;svg width=1em xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M5 19a2 2 0 01-2-2V7a2 2 0 012-2h4l2 2h4a2 2 0 012 2v1M5 19h14a2 2 0 002-2v-5a2 2 0 00-2-2H9a2 2 0 00-2 2v5a2 2 0 01-2 2z&#34;/&gt;&lt;/svg&gt;&lt;/span&gt;
+    &lt;span class=&#34;hx:ltr:ml-1 hx:rtl:mr-1&#34;&gt;IPTV Fluent&lt;/span&gt;
   &lt;/button&gt;
-  &lt;ul data-state=&#34;open&#34; class=&#34;ltr:hx-pl-5 rtl:hx-pr-5 data-[state=closed]:hx-hidden&#34;&gt;
-      &lt;li class=&#34;hx-flex hx-list-none&#34;&gt;
-        &lt;span class=&#34;hx-inline-flex hx-cursor-default hx-items-center hx-py-1&#34;&gt;&lt;svg width=1em xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z&#34;/&gt;&lt;/svg&gt;&lt;span class=&#34;ltr:hx-ml-1 rtl:hx-mr-1&#34;&gt;频道&lt;/span&gt;
-        &lt;/span&gt;
-      &lt;/li&gt;
+  &lt;ul data-state=&#34;open&#34; class=&#34;hx:ltr:pl-5 hx:rtl:pr-5 hx:data-[state=closed]:hidden&#34;&gt;
+    &lt;li class=&#34;hx:flex hx:list-none&#34;&gt;
+      &lt;span class=&#34;hx:inline-flex hx:cursor-default hx:items-center hx:py-1&#34;&gt;&lt;svg width=1em xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z&#34;/&gt;&lt;/svg&gt;&lt;span class=&#34;hx:ltr:ml-1 hx:rtl:mr-1&#34;&gt;频道&lt;/span&gt;
+      &lt;/span&gt;
+    &lt;/li&gt;
 
-      &lt;li class=&#34;hx-flex hx-list-none&#34;&gt;
-        &lt;span class=&#34;hx-inline-flex hx-cursor-default hx-items-center hx-py-1&#34;&gt;&lt;svg width=1em xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z&#34;/&gt;&lt;/svg&gt;&lt;span class=&#34;ltr:hx-ml-1 rtl:hx-mr-1&#34;&gt;播放单&lt;/span&gt;
-        &lt;/span&gt;
-      &lt;/li&gt;
+    &lt;li class=&#34;hx:flex hx:list-none&#34;&gt;
+      &lt;span class=&#34;hx:inline-flex hx:cursor-default hx:items-center hx:py-1&#34;&gt;&lt;svg width=1em xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z&#34;/&gt;&lt;/svg&gt;&lt;span class=&#34;hx:ltr:ml-1 hx:rtl:mr-1&#34;&gt;播放单&lt;/span&gt;
+      &lt;/span&gt;
+    &lt;/li&gt;
 
-      &lt;li class=&#34;hx-flex hx-list-none&#34;&gt;
-        &lt;span class=&#34;hx-inline-flex hx-cursor-default hx-items-center hx-py-1&#34;&gt;&lt;svg width=1em xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z&#34;/&gt;&lt;/svg&gt;&lt;span class=&#34;ltr:hx-ml-1 rtl:hx-mr-1&#34;&gt;设置&lt;/span&gt;
-        &lt;/span&gt;
-      &lt;/li&gt;
+    &lt;li class=&#34;hx:flex hx:list-none&#34;&gt;
+      &lt;span class=&#34;hx:inline-flex hx:cursor-default hx:items-center hx:py-1&#34;&gt;&lt;svg width=1em xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z&#34;/&gt;&lt;/svg&gt;&lt;span class=&#34;hx:ltr:ml-1 hx:rtl:mr-1&#34;&gt;设置&lt;/span&gt;
+      &lt;/span&gt;
+    &lt;/li&gt;
 
-  &lt;/ul&gt;
+&lt;/ul&gt;
 &lt;/li&gt;
 
-&lt;/div&gt;
+&lt;/ul&gt;
+  &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;h2&gt;2. 列表设置&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;2-列表设置&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#2-%e5%88%97%e8%a1%a8%e8%ae%be%e7%bd%ae&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;2.1 自动检测延迟&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;21-自动检测延迟&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;2-列表设置&#34;&gt;2. 列表设置&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;2-列表设置&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#2-%e5%88%97%e8%a1%a8%e8%ae%be%e7%bd%ae&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3 data-hextra-search-id=&#34;21-自动检测延迟&#34;&gt;2.1 自动检测延迟&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;21-自动检测延迟&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#21-%e8%87%aa%e5%8a%a8%e6%a3%80%e6%b5%8b%e5%bb%b6%e8%bf%9f&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;在某些情况下，服务器上的部分视频可能因网络连接不稳定而无法流畅播放。&lt;/p&gt;
 &lt;p&gt;开启此功能后，在加载在线列表时会自动检测这些频道的延迟情况。&lt;/p&gt;
-&lt;h3&gt;2.2 更新频率&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;22-更新频率&#34;&gt;&lt;/span&gt;
+&lt;h3 data-hextra-search-id=&#34;22-更新频率&#34;&gt;2.2 更新频率&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;22-更新频率&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#22-%e6%9b%b4%e6%96%b0%e9%a2%91%e7%8e%87&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;通过选择 &lt;code&gt;每日&lt;/code&gt; 或 &lt;code&gt;每月&lt;/code&gt;，可以设置在线列表的缓存更新频率，无需每次手动加载。&lt;/p&gt;
-&lt;h2&gt;3. 播放设置&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;3-播放设置&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#3-%e6%92%ad%e6%94%be%e8%ae%be%e7%bd%ae&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;3.1 播放引擎&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;31-播放引擎&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;3-播放设置&#34;&gt;3. 播放设置&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;3-播放设置&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#3-%e6%92%ad%e6%94%be%e8%ae%be%e7%bd%ae&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3 data-hextra-search-id=&#34;31-播放引擎&#34;&gt;3.1 播放引擎&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;31-播放引擎&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#31-%e6%92%ad%e6%94%be%e5%bc%95%e6%93%8e&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;如果在播放某些直播流时遇到问题，可以尝试更换播放引擎。&lt;/p&gt;
 &lt;p&gt;1：VLCKit 拥有更好的画面表现和源兼容性支持。&lt;/p&gt;
 &lt;p&gt;2：系统原生播放器拥有更佳的内存管理、稳定性管理以及画中画（PIP）功能。&lt;/p&gt;
-&lt;h3&gt;3.2 蜂窝网络警告&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;32-蜂窝网络警告&#34;&gt;&lt;/span&gt;
+&lt;h3 data-hextra-search-id=&#34;32-蜂窝网络警告&#34;&gt;3.2 蜂窝网络警告&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;32-蜂窝网络警告&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#32-%e8%9c%82%e7%aa%9d%e7%bd%91%e7%bb%9c%e8%ad%a6%e5%91%8a&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;如果设备处于蜂窝移动网络状态，视频播放可能会消耗大量流量。在此情况下打开视频时，应用会发出提醒。&lt;/p&gt;
 &lt;p&gt;注意：播放过程中切换网络环境将不会再次提醒。&lt;/p&gt;
-&lt;h2&gt;4. 通用设置&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;4-通用设置&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#4-%e9%80%9a%e7%94%a8%e8%ae%be%e7%bd%ae&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;4.2 启动菜单&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;42-启动菜单&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;4-通用设置&#34;&gt;4. 通用设置&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;4-通用设置&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#4-%e9%80%9a%e7%94%a8%e8%ae%be%e7%bd%ae&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3 data-hextra-search-id=&#34;42-启动菜单&#34;&gt;4.2 启动菜单&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;42-启动菜单&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#42-%e5%90%af%e5%8a%a8%e8%8f%9c%e5%8d%95&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;可选项为 &lt;code&gt;频道&lt;/code&gt; 和 &lt;code&gt;播放单&lt;/code&gt;。应用启动后将直接打开你所选择的界面。&lt;/p&gt;
-&lt;h3&gt;4.3 语言&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;43-语言&#34;&gt;&lt;/span&gt;
+&lt;h3 data-hextra-search-id=&#34;43-语言&#34;&gt;4.3 语言&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;43-语言&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#43-%e8%af%ad%e8%a8%80&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;应用内提供两种语言选项：英文和繁体中文。&lt;/p&gt;
-&lt;p&gt;欢迎加入 &lt;a href=&#34;https://crowdin.com/project/iptvfluentswift&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Crowdin&lt;/a&gt; 翻译小组，帮助我们翻译此应用。&lt;/p&gt;
+&lt;p&gt;欢迎加入 &lt;a
+    href=&#34;https://crowdin.com/project/iptvfluentswift&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Crowdin&lt;/a&gt; 翻译小组，帮助我们翻译此应用。&lt;/p&gt;
       </description>
     </item>
     
@@ -369,26 +373,26 @@
         
         
         &lt;p&gt;下载管理器中&lt;code&gt;设置&lt;/code&gt;下功能的使用介绍。&lt;/p&gt;
-&lt;h2&gt;通用&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;通用&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#%e9%80%9a%e7%94%a8&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;主题&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;主题&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;通用&#34;&gt;通用&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;通用&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e9%80%9a%e7%94%a8&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3 data-hextra-search-id=&#34;主题&#34;&gt;主题&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;主题&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#%e4%b8%bb%e9%a2%98&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;应用支持浅色、暗色与自动主题。&lt;/p&gt;
-&lt;h3&gt;允许通知&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;允许通知&#34;&gt;&lt;/span&gt;
+&lt;h3 data-hextra-search-id=&#34;允许通知&#34;&gt;允许通知&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;允许通知&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#%e5%85%81%e8%ae%b8%e9%80%9a%e7%9f%a5&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;应用在完成下载后会发送系统 Toast 通知。&lt;/p&gt;
-&lt;h3&gt;更改语言&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;更改语言&#34;&gt;&lt;/span&gt;
+&lt;h3 data-hextra-search-id=&#34;更改语言&#34;&gt;更改语言&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;更改语言&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#%e6%9b%b4%e6%94%b9%e8%af%ad%e8%a8%80&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;支持约 20 种内置语言，修改后不生效说明系统没有安装对应语言包。&lt;/p&gt;
-&lt;h2&gt;下载&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;下载&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#%e4%b8%8b%e8%bd%bd&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;下载UA&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;下载ua&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;下载&#34;&gt;下载&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;下载&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e4%b8%8b%e8%bd%bd&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3 data-hextra-search-id=&#34;下载ua&#34;&gt;下载UA&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;下载ua&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#%e4%b8%8b%e8%bd%bdua&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;针对个别平台对 User-agent 有限制的情况下，可以进行修改。&lt;/p&gt;
-&lt;h3&gt;更改下载目录&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;更改下载目录&#34;&gt;&lt;/span&gt;
+&lt;h3 data-hextra-search-id=&#34;更改下载目录&#34;&gt;更改下载目录&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;更改下载目录&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#%e6%9b%b4%e6%94%b9%e4%b8%8b%e8%bd%bd%e7%9b%ae%e5%bd%95&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;可以修改默认下载文件的地址，已下载的文件不会受到影响。&lt;/p&gt;
-&lt;h3&gt;多线程&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;多线程&#34;&gt;&lt;/span&gt;
+&lt;h3 data-hextra-search-id=&#34;多线程&#34;&gt;多线程&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;多线程&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#%e5%a4%9a%e7%ba%bf%e7%a8%8b&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;提供单个文件最多 5 个线程同时下载的功能，加速下载。&lt;/p&gt;
-&lt;h3&gt;批量下载&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;批量下载&#34;&gt;&lt;/span&gt;
+&lt;h3 data-hextra-search-id=&#34;批量下载&#34;&gt;批量下载&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;批量下载&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#%e6%89%b9%e9%87%8f%e4%b8%8b%e8%bd%bd&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;当多个在线文件需要被批量下载，并且下载后缀符合一定规律时，则可以通过批量通配符的功能进行一次性批量下载。&lt;/p&gt;
-&lt;h2&gt;浏览器&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;浏览器&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#%e6%b5%8f%e8%a7%88%e5%99%a8&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;嗅探文件类型&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;嗅探文件类型&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;浏览器&#34;&gt;浏览器&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;浏览器&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e6%b5%8f%e8%a7%88%e5%99%a8&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3 data-hextra-search-id=&#34;嗅探文件类型&#34;&gt;嗅探文件类型&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;嗅探文件类型&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#%e5%97%85%e6%8e%a2%e6%96%87%e4%bb%b6%e7%b1%bb%e5%9e%8b&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;内置浏览器支持嗅探多种类型的文件，但如果有更特殊的文件类型可以手动添加，通常以空格作为分界，如 &lt;code&gt;mp2 m4a&lt;/code&gt;。&lt;/p&gt;
-&lt;h3&gt;浏览器引擎&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;浏览器引擎&#34;&gt;&lt;/span&gt;
+&lt;h3 data-hextra-search-id=&#34;浏览器引擎&#34;&gt;浏览器引擎&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;浏览器引擎&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#%e6%b5%8f%e8%a7%88%e5%99%a8%e5%bc%95%e6%93%8e&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;应用提供 &lt;code&gt;Webview1&lt;/code&gt; 与 &lt;code&gt;Webview2&lt;/code&gt; 作为内置嗅探下载链接的引擎，通常这个设置无需修改。&lt;/p&gt;
       </description>
     </item>
@@ -403,57 +407,57 @@
         
         
         &lt;p&gt;播客中&lt;code&gt;设置&lt;/code&gt;下功能的使用介绍。&lt;/p&gt;
-&lt;h2&gt;通用&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;通用&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#%e9%80%9a%e7%94%a8&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;主题&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;主题&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;通用&#34;&gt;通用&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;通用&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e9%80%9a%e7%94%a8&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3 data-hextra-search-id=&#34;主题&#34;&gt;主题&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;主题&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#%e4%b8%bb%e9%a2%98&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;应用支持浅色、暗色与自动主题。&lt;/p&gt;
-&lt;h3&gt;更改语言&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;更改语言&#34;&gt;&lt;/span&gt;
+&lt;h3 data-hextra-search-id=&#34;更改语言&#34;&gt;更改语言&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;更改语言&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#%e6%9b%b4%e6%94%b9%e8%af%ad%e8%a8%80&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;支持约 10 种内置语言，修改后不生效说明系统没有安装对应语言包。&lt;/p&gt;
-&lt;h3&gt;菜单位置&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;菜单位置&#34;&gt;&lt;/span&gt;
+&lt;h3 data-hextra-search-id=&#34;菜单位置&#34;&gt;菜单位置&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;菜单位置&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#%e8%8f%9c%e5%8d%95%e4%bd%8d%e7%bd%ae&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;默认菜单位置为左侧，也可根据喜好将位置放到上方。&lt;/p&gt;
-&lt;h2&gt;播放&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;播放&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#%e6%92%ad%e6%94%be&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;播放速度&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;播放速度&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;播放&#34;&gt;播放&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;播放&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e6%92%ad%e6%94%be&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3 data-hextra-search-id=&#34;播放速度&#34;&gt;播放速度&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;播放速度&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#%e6%92%ad%e6%94%be%e9%80%9f%e5%ba%a6&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;提供 0.5 到 3.0 区间范围的音频播放速度调整。&lt;/p&gt;
-&lt;h3&gt;继续播放&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;继续播放&#34;&gt;&lt;/span&gt;
+&lt;h3 data-hextra-search-id=&#34;继续播放&#34;&gt;继续播放&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;继续播放&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#%e7%bb%a7%e7%bb%ad%e6%92%ad%e6%94%be&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;应用打开时会继续播放之前正在播放的内容，可以进行关闭。&lt;/p&gt;
-&lt;h3&gt;音频输出&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;音频输出&#34;&gt;&lt;/span&gt;
+&lt;h3 data-hextra-search-id=&#34;音频输出&#34;&gt;音频输出&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;音频输出&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#%e9%9f%b3%e9%a2%91%e8%be%93%e5%87%ba&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;支持独立切换播客播放至特定的音频设备，例如耳机、不同的功放、音箱。&lt;/p&gt;
-&lt;h3&gt;定时暂停&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;定时暂停&#34;&gt;&lt;/span&gt;
+&lt;h3 data-hextra-search-id=&#34;定时暂停&#34;&gt;定时暂停&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;定时暂停&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#%e5%ae%9a%e6%97%b6%e6%9a%82%e5%81%9c&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;支持播客在指定时间后停止播放。&lt;/p&gt;
-&lt;h2&gt;同步&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;同步&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#%e5%90%8c%e6%ad%a5&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;OneDrive 同步&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;onedrive-同步&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;同步&#34;&gt;同步&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;同步&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e5%90%8c%e6%ad%a5&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3 data-hextra-search-id=&#34;onedrive-同步&#34;&gt;OneDrive 同步&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;onedrive-同步&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#onedrive-%e5%90%8c%e6%ad%a5&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;支持将播放历史、订阅内容通过 OneDrive 保存，云传输至不同的设备。&lt;/p&gt;
-&lt;h3&gt;OPML 同步&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;opml-同步&#34;&gt;&lt;/span&gt;
+&lt;h3 data-hextra-search-id=&#34;opml-同步&#34;&gt;OPML 同步&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;opml-同步&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#opml-%e5%90%8c%e6%ad%a5&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;支持批量通过 OPML 文件导入或导出订阅的播客。&lt;/p&gt;
-&lt;h2&gt;下载&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;下载&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#%e4%b8%8b%e8%bd%bd&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;文件夹更改&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;文件夹更改&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;下载&#34;&gt;下载&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;下载&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e4%b8%8b%e8%bd%bd&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3 data-hextra-search-id=&#34;文件夹更改&#34;&gt;文件夹更改&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;文件夹更改&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#%e6%96%87%e4%bb%b6%e5%a4%b9%e6%9b%b4%e6%94%b9&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;支持修改期望下载的单集文件位置。&lt;/p&gt;
-&lt;h3&gt;自动下载&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;自动下载&#34;&gt;&lt;/span&gt;
+&lt;h3 data-hextra-search-id=&#34;自动下载&#34;&gt;自动下载&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;自动下载&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#%e8%87%aa%e5%8a%a8%e4%b8%8b%e8%bd%bd&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;当播客提供新的单集时，支持自动下载缓存本地。&lt;/p&gt;
-&lt;h3&gt;结束后删除文件&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;结束后删除文件&#34;&gt;&lt;/span&gt;
+&lt;h3 data-hextra-search-id=&#34;结束后删除文件&#34;&gt;结束后删除文件&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;结束后删除文件&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#%e7%bb%93%e6%9d%9f%e5%90%8e%e5%88%a0%e9%99%a4%e6%96%87%e4%bb%b6&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;对于本地缓存的单集播客，当播放完成时自动删除。&lt;/p&gt;
-&lt;h3&gt;自动清理&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;自动清理&#34;&gt;&lt;/span&gt;
+&lt;h3 data-hextra-search-id=&#34;自动清理&#34;&gt;自动清理&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;自动清理&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#%e8%87%aa%e5%8a%a8%e6%b8%85%e7%90%86&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;已订阅的播客，当缓存超过一定集数时，可以设置自动删除清理。&lt;/p&gt;
-&lt;h3&gt;保存播客文件夹名称&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;保存播客文件夹名称&#34;&gt;&lt;/span&gt;
+&lt;h3 data-hextra-search-id=&#34;保存播客文件夹名称&#34;&gt;保存播客文件夹名称&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;保存播客文件夹名称&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#%e4%bf%9d%e5%ad%98%e6%92%ad%e5%ae%a2%e6%96%87%e4%bb%b6%e5%a4%b9%e5%90%8d%e7%a7%b0&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;默认下载到本地的文件夹名为播客作者的名称，可以更改为播客名。&lt;/p&gt;
-&lt;h2&gt;检查&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;检查&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#%e6%a3%80%e6%9f%a5&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;未播放单集&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;未播放单集&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;检查&#34;&gt;检查&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;检查&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e6%a3%80%e6%9f%a5&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3 data-hextra-search-id=&#34;未播放单集&#34;&gt;未播放单集&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;未播放单集&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#%e6%9c%aa%e6%92%ad%e6%94%be%e5%8d%95%e9%9b%86&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;支持批量查询目前已订阅播客有多少未播放的数量。&lt;/p&gt;
-&lt;h3&gt;未播放标识&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;未播放标识&#34;&gt;&lt;/span&gt;
+&lt;h3 data-hextra-search-id=&#34;未播放标识&#34;&gt;未播放标识&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;未播放标识&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#%e6%9c%aa%e6%92%ad%e6%94%be%e6%a0%87%e8%af%86&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;开启后启动应用，显示订阅的播客有多少未播放的数量。&lt;/p&gt;
-&lt;h3&gt;更新所有播客大图&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;更新所有播客大图&#34;&gt;&lt;/span&gt;
+&lt;h3 data-hextra-search-id=&#34;更新所有播客大图&#34;&gt;更新所有播客大图&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;更新所有播客大图&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#%e6%9b%b4%e6%96%b0%e6%89%80%e6%9c%89%e6%92%ad%e5%ae%a2%e5%a4%a7%e5%9b%be&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;已订阅播客可能会在线上更新图标，因本地为缓存订阅时的大图，该功能可以更新至最新大图。&lt;/p&gt;
-&lt;h2&gt;网络&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;网络&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#%e7%bd%91%e7%bb%9c&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;离线模式&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;离线模式&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;网络&#34;&gt;网络&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;网络&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e7%bd%91%e7%bb%9c&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3 data-hextra-search-id=&#34;离线模式&#34;&gt;离线模式&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;离线模式&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#%e7%a6%bb%e7%ba%bf%e6%a8%a1%e5%bc%8f&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;开启后启动应用不消耗流量，只有主动点刷新和下载时才会连接互联网获取播客信息。&lt;/p&gt;
-&lt;h2&gt;钉&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;钉&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#%e9%92%89&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;钉白色图标&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;钉白色图标&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;钉&#34;&gt;钉&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;钉&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e9%92%89&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3 data-hextra-search-id=&#34;钉白色图标&#34;&gt;钉白色图标&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;钉白色图标&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#%e9%92%89%e7%99%bd%e8%89%b2%e5%9b%be%e6%a0%87&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;将应用快速固定至开始菜单&lt;/p&gt;
-&lt;h3&gt;钉至任务栏&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;钉至任务栏&#34;&gt;&lt;/span&gt;
+&lt;h3 data-hextra-search-id=&#34;钉至任务栏&#34;&gt;钉至任务栏&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;钉至任务栏&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#%e9%92%89%e8%87%b3%e4%bb%bb%e5%8a%a1%e6%a0%8f&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;将应用快速固定在底部任务栏。&lt;/p&gt;
-&lt;h2&gt;关于&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;关于&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#%e5%85%b3%e4%ba%8e&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;检查更新&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;检查更新&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;关于&#34;&gt;关于&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;关于&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e5%85%b3%e4%ba%8e&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3 data-hextra-search-id=&#34;检查更新&#34;&gt;检查更新&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;检查更新&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#%e6%a3%80%e6%9f%a5%e6%9b%b4%e6%96%b0&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;顾名思义，检查 Store 中播客是否有更新。&lt;/p&gt;
-&lt;h3&gt;Hotkeys&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;hotkeys&#34;&gt;&lt;/span&gt;
+&lt;h3 data-hextra-search-id=&#34;hotkeys&#34;&gt;Hotkeys&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;hotkeys&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#hotkeys&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;快捷键，点击后可以查看提供的键盘与手柄快捷操作键。&lt;/p&gt;
       </description>
     </item>
@@ -467,10 +471,10 @@
       <description>
         
         
-        &lt;h2&gt;有什么特别之处？&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;有什么特别之处&#34;&gt;&lt;/span&gt;
+        &lt;h2 data-hextra-search-id=&#34;有什么特别之处&#34;&gt;有什么特别之处？&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;有什么特别之处&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#%e6%9c%89%e4%bb%80%e4%b9%88%e7%89%b9%e5%88%ab%e4%b9%8b%e5%a4%84&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;那么，IPTV Plus 和其他 Windows 上的 IPTV 应用程序有什么不同呢？&lt;/p&gt;
 &lt;p&gt;IPTV Fluent 和 Plus 在开发过程中不断接收新功能和错误修复。&lt;/p&gt;
-&lt;h2&gt;Plus 提供什么功能？&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;plus-提供什么功能&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;plus-提供什么功能&#34;&gt;Plus 提供什么功能？&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;plus-提供什么功能&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#plus-%e6%8f%90%e4%be%9b%e4%bb%80%e4%b9%88%e5%8a%9f%e8%83%bd&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;提供多达 19 项的特色专业版功能:&lt;/p&gt;
 &lt;p&gt;播放&lt;/p&gt;
 &lt;ul&gt;
@@ -507,14 +511,15 @@
 &lt;li&gt;(VLC)添加图层防烧 OLED 屏&lt;/li&gt;
 &lt;li&gt;更多独占功能持续更新&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;售价&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;售价&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;售价&#34;&gt;售价&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;售价&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#%e5%94%ae%e4%bb%b7&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;IPTV Plus 提供两种选项：&lt;code&gt;终身&lt;/code&gt; 和 &lt;code&gt;订阅&lt;/code&gt;。&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;订阅费用为 ￥7 人民币，适用于 10 台设备的许可证。订阅到期后 Plus 功能将被锁定。&lt;/li&gt;
 &lt;li&gt;终身费用为 ￥85 人民币，适用于 10 台设备的许可证。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;订阅版与终身版提供的 Plus 功能是相同的，只要登录账号相同皆可解锁。&lt;/p&gt;
-&lt;p&gt;订阅版管理链接：&lt;a href=&#34;https://account.microsoft.com/services&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Microsoft Subscription&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;订阅版管理链接：&lt;a
+    href=&#34;https://account.microsoft.com/services&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Microsoft Subscription&lt;/a&gt;&lt;/p&gt;
       </description>
     </item>
     
@@ -528,10 +533,10 @@
         
         
         &lt;p&gt;IPTV 专业版拥有为 IPTV Fluent 量身打造的增强功能。&lt;/p&gt;
-&lt;h2&gt;1. 有什么特别之处？&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;1-有什么特别之处&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;1-有什么特别之处&#34;&gt;1. 有什么特别之处？&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;1-有什么特别之处&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#1-%e6%9c%89%e4%bb%80%e4%b9%88%e7%89%b9%e5%88%ab%e4%b9%8b%e5%a4%84&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;你可能会问，IPTV 专业版 与 iOS 上的其他 IPTV 应用有何不同？&lt;/p&gt;
 &lt;p&gt;IPTV Fluent Player 和 专业版 在开发过程中持续获得新功能和缺陷修复。&lt;/p&gt;
-&lt;h2&gt;2. 专业版提供了哪些功能？&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;2-专业版提供了哪些功能&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;2-专业版提供了哪些功能&#34;&gt;2. 专业版提供了哪些功能？&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;2-专业版提供了哪些功能&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#2-%e4%b8%93%e4%b8%9a%e7%89%88%e6%8f%90%e4%be%9b%e4%ba%86%e5%93%aa%e4%ba%9b%e5%8a%9f%e8%83%bd&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;收藏频道：将频道添加到收藏或本地列表中。&lt;/p&gt;
@@ -549,7 +554,7 @@
 &lt;p&gt;支持开发者：帮助开发者持续更新应用。&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;3. 价格&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;3-价格&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;3-价格&#34;&gt;3. 价格&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;3-价格&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#3-%e4%bb%b7%e6%a0%bc&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;IPTV 专业版 目前仅提供一个选项：&lt;code&gt;终身专业版&lt;/code&gt;。&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -562,7 +567,7 @@
 &lt;p&gt;不包括：购买内容在游戏主机版本和 iOS/iPadOS 版本之间不通用。但 专业版 版本将在 iOS、iPadOS 及未来更多 Apple 生态设备间同步。&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;4. 退款&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;4-退款&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;4-退款&#34;&gt;4. 退款&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;4-退款&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#4-%e9%80%80%e6%ac%be&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;由于我们不处理购买事务，如需退款请联系 Apple 支持。&lt;/p&gt;
       </description>
     </item>
@@ -576,7 +581,7 @@
       <description>
         
         
-        &lt;h2&gt;包含哪些功能?&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;包含哪些功能&#34;&gt;&lt;/span&gt;
+        &lt;h2 data-hextra-search-id=&#34;包含哪些功能&#34;&gt;包含哪些功能?&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;包含哪些功能&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#%e5%8c%85%e5%90%ab%e5%93%aa%e4%ba%9b%e5%8a%9f%e8%83%bd&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;永久删除广告&lt;/li&gt;
 &lt;li&gt;启用多线程下载&lt;/li&gt;
@@ -588,7 +593,7 @@
 &lt;li&gt;下载时预览媒体视频&lt;/li&gt;
 &lt;li&gt;更多未来独占功能&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;价格&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;价格&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;价格&#34;&gt;价格&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;价格&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#%e4%bb%b7%e6%a0%bc&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;28 元人民币，具体基于 Store 地区&lt;/li&gt;
 &lt;li&gt;10 台设备授权(可以通过微软账号取消转移已有授权)&lt;/li&gt;
@@ -605,7 +610,7 @@
       <description>
         
         
-        &lt;h2&gt;包含哪些功能?&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;包含哪些功能&#34;&gt;&lt;/span&gt;
+        &lt;h2 data-hextra-search-id=&#34;包含哪些功能&#34;&gt;包含哪些功能?&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;包含哪些功能&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#%e5%8c%85%e5%90%ab%e5%93%aa%e4%ba%9b%e5%8a%9f%e8%83%bd&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;永久删除广告&lt;/li&gt;
 &lt;li&gt;支持订阅 5 个节目以上&lt;/li&gt;
@@ -613,7 +618,7 @@
 &lt;li&gt;添加播客至播放列表&lt;/li&gt;
 &lt;li&gt;更多未来独占功能&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;价格&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;价格&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;价格&#34;&gt;价格&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;价格&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#%e4%bb%b7%e6%a0%bc&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;￥21 元人民币永久授权，具体基于 Store 地区&lt;/li&gt;
 &lt;li&gt;10 台设备授权&lt;/li&gt;
@@ -630,44 +635,38 @@
       <description>
         
         
-        &lt;h2&gt;v1.5.51&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1551&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#v1551&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;更新日期：待定&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;优化：更加原生的列表界面&lt;/li&gt;
-&lt;li&gt;修复：视频下载&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;v1.5.50&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1550&#34;&gt;&lt;/span&gt;
+        &lt;h2 data-hextra-search-id=&#34;v1550&#34;&gt;v1.5.50&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;v1550&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#v1550&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;优化：底部 UI 优化&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;v1.5.49&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1549&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;v1549&#34;&gt;v1.5.49&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;v1549&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#v1549&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;更新日期：2025/2/3&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;修复：视频下载&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;v1.5.48&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1548&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;v1548&#34;&gt;v1.5.48&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;v1548&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#v1548&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;更新日期：2024/1/3&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;优化：设置界面&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;v1.5.47&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1547&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;v1547&#34;&gt;v1.5.47&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;v1547&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#v1547&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;更新日期：2024/9/30&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;修复：视频下载&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;v1.5.46&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1546&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;v1546&#34;&gt;v1.5.46&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;v1546&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#v1546&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;更新日期：2024/9/6&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;功能：新增菜单自定义&lt;/li&gt;
 &lt;li&gt;功能：新增文档入口&lt;/li&gt;
 &lt;li&gt;修复：个别场景定时器失效&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;v1.5.45&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1545&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;v1545&#34;&gt;v1.5.45&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;v1545&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#v1545&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;更新日期：2024/8/5&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;功能：提供更多语言&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;v1.5.44&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1544&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;v1544&#34;&gt;v1.5.44&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;v1544&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#v1544&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;功能：增加页面右键菜单&lt;/li&gt;
 &lt;li&gt;功能：新增媒体预览&lt;/li&gt;
@@ -687,23 +686,23 @@
         
         
         &lt;p&gt;IPTV 播放器目前正在积极开发中。&lt;/p&gt;
-&lt;h2&gt;v1.0.53&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1053&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;v1053&#34;&gt;v1.0.53&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;v1053&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#v1053&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;发布日期: 待定&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;修复: 投屏功能&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;v1.0.52&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1052&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;v1052&#34;&gt;v1.0.52&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;v1052&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#v1052&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;发布日期: 2026/7/27&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;功能：用于校验空列表不播放的调试程序&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;v1.0.51&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1051&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;v1051&#34;&gt;v1.0.51&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;v1051&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#v1051&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;发布日期: 2026/6/23&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;功能: 聚合列表模式&lt;/li&gt;
 &lt;li&gt;修复：修复置顶和剧场模式有时候失效的问题&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;v1.0.50&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1050&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;v1050&#34;&gt;v1.0.50&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;v1050&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#v1050&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;发布日期：2026/5/11&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;专业版功能：新增录制定时任务&lt;/li&gt;
@@ -712,25 +711,25 @@
 &lt;li&gt;修复：修复无法通过本地网络加载 Emby 或 Jellyfin 等内容的问题&lt;/li&gt;
 &lt;li&gt;修复：修复本地媒体源中刷新按钮会跳转到错误本地目录的问题&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;v1.0.49&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1049&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;v1049&#34;&gt;v1.0.49&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;v1049&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#v1049&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;发布日期: 2026/4/18&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;修复：IAP 订阅热修复&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;v1.0.48&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1048&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;v1048&#34;&gt;v1.0.48&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;v1048&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#v1048&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;发布日期: 2026/4/9&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;功能：增加视频一键搜索字幕的功能（需要单独申请 API 密钥）&lt;/li&gt;
 &lt;li&gt;优化：设置增加永久存储在线频道列表的功能&lt;/li&gt;
 &lt;li&gt;优化：导入在线字幕支持 zip 压缩文件&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;v1.0.47&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1047&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;v1047&#34;&gt;v1.0.47&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;v1047&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#v1047&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;发布日期：2026/3/2&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;功能：在线列表支持单独设置 EPG 节目单地址&lt;/li&gt;
 &lt;li&gt;优化：播放时未来节目单的 UI 优化&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;v1.0.46&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1046&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;v1046&#34;&gt;v1.0.46&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;v1046&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#v1046&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;发布日期：2026/2/12&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;优化：增加视频填充比例选项&lt;/li&gt;
@@ -740,19 +739,19 @@
 &lt;li&gt;修复：修复应用内通知弹出时导致崩溃的问题&lt;/li&gt;
 &lt;li&gt;修复：修复“archivelist”在“添加到列表”菜单中异常显示的问题&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;v1.0.45&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1045&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;v1045&#34;&gt;v1.0.45&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;v1045&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#v1045&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;发布日期：2026/1/20&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;功能：支持设置中开启 EPG 常驻左侧菜单&lt;/li&gt;
 &lt;li&gt;功能：(VLC) 将播放面板移至最上方&lt;/li&gt;
 &lt;li&gt;修复：部分用户归档无法使用的问题&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;v1.0.44&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1044&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;v1044&#34;&gt;v1.0.44&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;v1044&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#v1044&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;发布日期：2025/11/28&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;修复：修复部分情况下 XC 无法下载列表的情况&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;v1.0.43&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1043&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;v1043&#34;&gt;v1.0.43&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;v1043&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#v1043&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;发布日期: 2025/11/13&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;功能：支持归档在线播放列表，用于保留但不在主列表中显示&lt;/li&gt;
@@ -765,7 +764,7 @@
 &lt;li&gt;修复：修复右上角按钮在自动切换主题时颜色未更新的问题&lt;/li&gt;
 &lt;li&gt;修复：修复在切换多媒体服务器类型过程中某些情况下可能导致应用崩溃的问题&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;v1.0.42&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1042&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;v1042&#34;&gt;v1.0.42&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;v1042&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#v1042&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;发布日期: 2025/10/24&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;优化： 提供更高分辨率的图标&lt;/li&gt;
@@ -775,7 +774,7 @@
 &lt;li&gt;修复： （PC）修复了某些频道无法固定到开始菜单的问题&lt;/li&gt;
 &lt;li&gt;修复： 隐藏设置中与系统语言不匹配的语言选项&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;v1.0.41&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1041&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;v1041&#34;&gt;v1.0.41&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;v1041&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#v1041&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;发布日期: 2025/9/25&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;功能: 应用缓存管理&lt;/li&gt;
@@ -784,7 +783,7 @@
 &lt;li&gt;修复: (VLC) 减少拖动视频进度时无法控制进度条的问题&lt;/li&gt;
 &lt;li&gt;修复: (VLC) 修复视频暂停后调整音量不生效的问题&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;v1.0.40&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1040&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;v1040&#34;&gt;v1.0.40&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;v1040&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#v1040&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;发布日期: 2025/8/27&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Pro 功能: (VLC) 录屏功能，测试阶段限免&lt;/li&gt;
@@ -792,13 +791,13 @@
 &lt;li&gt;功能: (VLC) 自定义 VLC options 用于修改播放请求头或 UA 等&lt;/li&gt;
 &lt;li&gt;功能: 支持回放功能，要求服务器支持回放，并且频道加入喜爱，最后在 EPG 页面点击对应频道之前的节目&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;v1.0.39&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1039&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;v1039&#34;&gt;v1.0.39&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;v1039&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#v1039&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;发布日期: 2025/8/4&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;功能: (PC|Beta) 多窗口频道支持&lt;/li&gt;
 &lt;li&gt;修复: 遥控器切换频道展示正确的名称&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;v1.0.38&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1038&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;v1038&#34;&gt;v1.0.38&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;v1038&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#v1038&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;发布日期: 2025/7/14&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;功能: 设置新增支持遥控器飞鼠模式&lt;/li&gt;
@@ -809,18 +808,18 @@
 &lt;li&gt;修复: Emby 和 Jellyfin 海报墙内容多时图片黑色的问题&lt;/li&gt;
 &lt;li&gt;修复: Emby 和 Jellyfin 多季时剧集顺序展示错误的问题&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;v1.0.37&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1037&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;v1037&#34;&gt;v1.0.37&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;v1037&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#v1037&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;发布日期: 2025/7/1&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;功能: 新的设置内大屏幕模式&lt;/li&gt;
 &lt;li&gt;功能: Emby 和 Jellyfin 下大量功能与修复&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;v1.0.36&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1036&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;v1036&#34;&gt;v1.0.36&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;v1036&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#v1036&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;发布日期: 2025/6/22&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;功能: 支持 Jellyfin 和 Emby 完整的海报墙&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;v1.0.35&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1035&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;v1035&#34;&gt;v1.0.35&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;v1035&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#v1035&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;发布日期: 2025/6/19&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;功能: (主机) 支持 Jellyfin 和 Emby 下的 4K HEVC 视频&lt;/li&gt;
@@ -828,7 +827,7 @@
 &lt;li&gt;功能: (PC) 媒体服务器钉至开始菜单&lt;/li&gt;
 &lt;li&gt;修复: 隐藏不支持的语言&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;v1.0.34&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1034&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;v1034&#34;&gt;v1.0.34&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;v1034&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#v1034&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;发布日期: 2025/6/8&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;功能: (测试) 持新增包括 Jellyfin, Emby 和 FTP 作为媒体服务器&lt;/li&gt;
@@ -842,25 +841,25 @@
 &lt;li&gt;修复: (PC | VLC) 切回播放页视频进度丢失的问题&lt;/li&gt;
 &lt;li&gt;修复: (主机) 切换页面停留在全屏的问题&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;v1.0.33&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1033&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;v1033&#34;&gt;v1.0.33&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;v1033&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#v1033&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;发布日期: 2025/5/29&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;专业功能：（测试）支持新增包括DLNA、WebDAV和(PC限定)本地文件夹作为媒体服务器&lt;/li&gt;
 &lt;li&gt;优化：特定列表在未设置EPG的情况下自动设置EPG&lt;/li&gt;
 &lt;li&gt;优化: 新增恢复购买按钮&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;v1.0.32&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1032&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;v1032&#34;&gt;v1.0.32&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;v1032&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#v1032&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;发布日期: 2025/5/19&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;功能: 加密分享频道（被分享方也需要安装应用）&lt;/li&gt;
 &lt;li&gt;功能: 更新频率新增每月，降低下载在线列表的频率&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;v1.0.31&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1031&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;v1031&#34;&gt;v1.0.31&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;v1031&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#v1031&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;发布日期：2025/5/1&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;修复: 部分列表无法读取的原因&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;v1.0.29&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1029&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;v1029&#34;&gt;v1.0.29&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;v1029&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#v1029&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;发布日期：2025/4/16&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;功能: (VLC) 修改视频缩放&lt;/li&gt;
@@ -872,7 +871,7 @@
 &lt;li&gt;修复: 修复在侧边栏打开的情况下，鼠标隐藏的问题&lt;/li&gt;
 &lt;li&gt;修复: 继续降低 VLC 播放时的崩溃问题&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;v1.0.28&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1028&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;v1028&#34;&gt;v1.0.28&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;v1028&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#v1028&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;发布日期: 2025/3/24&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;重要修复：降低 VLC 在切换无响应源频繁导致应用崩溃的严重问题&lt;/li&gt;
@@ -880,7 +879,7 @@
 &lt;li&gt;功能：VLC 增加强制刷新页面功能&lt;/li&gt;
 &lt;li&gt;优化: 节目单不是同一天会标注日期&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;v1.0.27&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1027&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;v1027&#34;&gt;v1.0.27&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;v1027&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#v1027&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;发布日期: 2025/2/20&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Pro 功能: VLC 增加 OLED 防烧屏图层&lt;/li&gt;
@@ -889,7 +888,7 @@
 &lt;li&gt;修复：部分 EPG 无法翻页的问题&lt;/li&gt;
 &lt;li&gt;修复：最新版系统音频输出展示慢没提示的问题&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;v1.0.26&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1026&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;v1026&#34;&gt;v1.0.26&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;v1026&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#v1026&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;发布日期: 2025/1/20&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;功能: VLC 增加自定义调节速度选项&lt;/li&gt;
@@ -900,26 +899,26 @@
 &lt;li&gt;修复: 修复空白分类导致的崩溃&lt;/li&gt;
 &lt;li&gt;修复: 修复订阅后无法购买永久&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;v1.0.25&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1025&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;v1025&#34;&gt;v1.0.25&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;v1025&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#v1025&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;发布日期: 2024/11/8&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;功能：设置中修改默认地址&lt;/li&gt;
 &lt;li&gt;修复：在 Win10 下磁贴显示应用名&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;v1.0.24&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1024&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;v1024&#34;&gt;v1.0.24&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;v1024&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#v1024&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;发布日期: 2024/10/28&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;功能：Pro用户可以播放本地视频&lt;/li&gt;
 &lt;li&gt;功能：Pro用户可以播放媒体服务器&lt;/li&gt;
 &lt;li&gt;修复：编辑频道失败的情况&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;v1.0.23&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1023&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;v1023&#34;&gt;v1.0.23&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;v1023&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#v1023&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;发布日期: 2024/9/10&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;功能：新增 &lt;code&gt;User Agent&lt;/code&gt; 在线频道支持&lt;/li&gt;
 &lt;li&gt;修复：在线和本地m3u文件解析缺少频道的情况&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;v1.0.22&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1022&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;v1022&#34;&gt;v1.0.22&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;v1022&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#v1022&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;发布日期: 2024/8/30&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;功能：导出多选频道至本地 M3U 文件&lt;/li&gt;
@@ -927,7 +926,7 @@
 &lt;li&gt;优化：本地列表更方便的增加频道&lt;/li&gt;
 &lt;li&gt;优化：EPG 页面 UI 优化&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;v1.0.21&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1021&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;v1021&#34;&gt;v1.0.21&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;v1021&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#v1021&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;发布日期：2024/8/19&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;功能：新增 &lt;code&gt;Stalker Portal&lt;/code&gt; 在线列表支持&lt;/li&gt;
@@ -935,23 +934,23 @@
 &lt;li&gt;功能：新增收藏和本地列表的频道切换顺序&lt;/li&gt;
 &lt;li&gt;修复：减少导航卡在全屏的情况&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;v1.0.20&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1020&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;v1020&#34;&gt;v1.0.20&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;v1020&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#v1020&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;发布日期: 2024/8/9&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;功能：支持更多语言&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;v1.0.19&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1019&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;v1019&#34;&gt;v1.0.19&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;v1019&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#v1019&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;发布日期: 2024/8/2&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;修复：VLC 无法切换频道的问题&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;v1.0.18&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1018&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;v1018&#34;&gt;v1.0.18&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;v1018&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#v1018&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;发布日期: 2024/8/2&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;功能：缓存在线列表&lt;/li&gt;
 &lt;li&gt;功能：支持更多语言&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;v1.0.17&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1017&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;v1017&#34;&gt;v1.0.17&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;v1017&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#v1017&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;发布日期: 2024/7/29&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;功能：新增 FFmpeg 播放引擎&lt;/li&gt;
@@ -959,14 +958,14 @@
 &lt;li&gt;修复：本地引擎视频播放的问题&lt;/li&gt;
 &lt;li&gt;修复：小屏幕界面展示问题&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;v1.0.16&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1016&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;v1016&#34;&gt;v1.0.16&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;v1016&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#v1016&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;发布日期: 2024/7/26&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;功能：新增支持 XC 列表&lt;/li&gt;
 &lt;li&gt;功能：新增解析 TXT 文件列表&lt;/li&gt;
 &lt;li&gt;功能：新增频道列表样式&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;v1.0.15&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1015&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;v1015&#34;&gt;v1.0.15&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;v1015&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#v1015&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;发布日期: 2024/7/22&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;功能: 独立 EPG 页面&lt;/li&gt;
@@ -975,7 +974,7 @@
 &lt;li&gt;功能: 修改音频轨道&lt;/li&gt;
 &lt;li&gt;功能: 修改在线视频字幕&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;v1.0.14&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1014&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;v1014&#34;&gt;v1.0.14&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;v1014&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#v1014&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;发布日期: 2024/7/17&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;功能: 新增 LIVE 标志&lt;/li&gt;
@@ -999,18 +998,18 @@
         
         
         &lt;p&gt;IPTV Fluent Player 正在持续更新，目前仍处于积极开发中。&lt;/p&gt;
-&lt;h2&gt;v1.0.13&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1013&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;v1013&#34;&gt;v1.0.13&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;v1013&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#v1013&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;发布日期：2026年3月17日&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;功能：重置功能允许一键重置应用设置与全部应用内数据&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;v1.0.12&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1012&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;v1012&#34;&gt;v1.0.12&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;v1012&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#v1012&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;发布日期：2026年2月24日&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;功能：播放器锁定功能&lt;/li&gt;
 &lt;li&gt;修复：设置横屏至指定方向会反转的问题&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;v1.0.11&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1011&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;v1011&#34;&gt;v1.0.11&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;v1011&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#v1011&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;发布日期：2026年2月2日&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;功能：增加定时睡眠暂停播放功能&lt;/li&gt;
@@ -1018,63 +1017,63 @@
 &lt;li&gt;优化：UI 基于 iOS 26 优化&lt;/li&gt;
 &lt;li&gt;修复：横屏失效的部分清空&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;v1.0.10&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1010&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;v1010&#34;&gt;v1.0.10&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;v1010&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#v1010&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;发布日期：2025年11月27日&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;修复：修复部分情况下 XC 无法下载列表的情况&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;v1.0.9&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v109&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;v109&#34;&gt;v1.0.9&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;v109&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#v109&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;发布日期：2025年11月11日&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;功能：独立的 EPG 节目列表展示全部节目列表&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;v1.0.8&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v108&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;v108&#34;&gt;v1.0.8&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;v108&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#v108&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;发布日期：2025年10月16日&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;功能: (VLC) 自定义 VLC options 用于修改播放请求头或 UA 等&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;v1.0.7&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v107&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;v107&#34;&gt;v1.0.7&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;v107&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#v107&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;发布日期：2025年9月17日&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;优化：支持 iOS 26 液态玻璃风格&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;v1.0.6&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v106&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;v106&#34;&gt;v1.0.6&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;v106&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#v106&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;发布日期：2025年8月26日&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;功能: 支持回放功能，要求服务器支持回放，在播放页面，点击 EPG 后，上划选择点击之前的节目即可查看历史节目&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;v1.0.5&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v105&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;v105&#34;&gt;v1.0.5&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;v105&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#v105&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;发布日期：2025年8月4日&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;功能：视频可以导入在线或本地字幕&lt;/li&gt;
 &lt;li&gt;优化：再次点击隐藏播放器&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;v1.0.4&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v104&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;v104&#34;&gt;v1.0.4&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;v104&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#v104&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;发布日期：2025年6月23日&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;优化：文件频道导入&lt;/li&gt;
 &lt;li&gt;优化：多选频道进行收藏&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;v1.0.3&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v103&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;v103&#34;&gt;v1.0.3&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;v103&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#v103&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;发布日期：2025年6月8日&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;优化：大列表性能优化&lt;/li&gt;
 &lt;li&gt;功能: (iPhone) Grid 频道视图&lt;/li&gt;
 &lt;li&gt;优化：M3U 文件导出内容完善&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;v1.0.2&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v102&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;v102&#34;&gt;v1.0.2&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;v102&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#v102&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;发布日期：2025年5月13日&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;功能: 新增编辑在线列表&lt;/li&gt;
 &lt;li&gt;优化：新增首页刷新按钮&lt;/li&gt;
 &lt;li&gt;优化：新增简体中文语言&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;v1.0.1&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v101&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;v101&#34;&gt;v1.0.1&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;v101&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#v101&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;发布日期：2025年4月30日&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;修复: 元数据显示不支持英语的问题&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;v1.0&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v10&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;v10&#34;&gt;v1.0&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;v10&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#v10&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;发布日期：2025年4月29日&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;初始版本发布&lt;/li&gt;
@@ -1092,13 +1091,13 @@
       <description>
         
         
-        &lt;h2&gt;v1.7.51&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1751&#34;&gt;&lt;/span&gt;
+        &lt;h2 data-hextra-search-id=&#34;v1751&#34;&gt;v1.7.51&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;v1751&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#v1751&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;发布日期：2026/6/24&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;优化：发现页面控件提升原生感&lt;/li&gt;
 &lt;li&gt;修复：优化部分打开应用崩溃的问题&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;v1.7.50&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1750&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;v1750&#34;&gt;v1.7.50&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;v1750&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#v1750&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;发布日期：2026/5/10&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;优化：顶部播放器可直接设置定时暂停和音频输出&lt;/li&gt;
@@ -1106,12 +1105,12 @@
 &lt;li&gt;修复：置顶播放器的播放按钮不同的问题&lt;/li&gt;
 &lt;li&gt;修复：部分页面元素讲述人无法描述的问题&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;v1.7.49&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1749&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;v1749&#34;&gt;v1.7.49&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;v1749&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#v1749&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;发布日期：2026/3/9&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;修复：发现页无推荐播客的问题&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;v1.7.48&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1748&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;v1748&#34;&gt;v1.7.48&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;v1748&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#v1748&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;发布日期：2026/2/5&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;功能：全新的播放列表板块，允许创建空播放列表&lt;/li&gt;
@@ -1129,18 +1128,18 @@
 &lt;li&gt;修复：小窗口情况下打开播放队列导致页面左侧变形的情况&lt;/li&gt;
 &lt;li&gt;修复：系统主题自动变更后系统按钮颜色没有变更的情况&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;v1.7.47&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1747&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;v1747&#34;&gt;v1.7.47&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;v1747&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#v1747&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;发布日期：2026/1/19&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;修复：专业用户发现页面仍然显示广告的问题&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;v1.7.46&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1746&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;v1746&#34;&gt;v1.7.46&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;v1746&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#v1746&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;发布日期：2025/10/22&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;修复：分类列表展示都是相同播客列表的问题&lt;/li&gt;
 &lt;li&gt;修复：重置应用丢失专业版验证的问题&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;v1.7.45&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1745&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;v1745&#34;&gt;v1.7.45&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;v1745&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#v1745&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;发布日期：2025/8/28&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;优化： 提升了语言翻译效果&lt;/li&gt;
@@ -1149,7 +1148,7 @@
 &lt;li&gt;修复： 修复了发现页的一些导航异常&lt;/li&gt;
 &lt;li&gt;修复： 修复了从睡眠状态唤醒后应用卡死的问题&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;v1.7.44&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1744&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;v1744&#34;&gt;v1.7.44&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;v1744&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#v1744&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;发布日期：2025/8/15&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;功能： 全新的发现板块，拥有更出色的界面与交互体验，并提供更频繁的播客推荐以提升可发现性&lt;/li&gt;
@@ -1157,12 +1156,12 @@
 &lt;li&gt;修复： 隐藏设置中不可用的语言选项&lt;/li&gt;
 &lt;li&gt;修复： 修正了拼写错误并修复了节目备注时间线导航问题&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;v1.7.43&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1743&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;v1743&#34;&gt;v1.7.43&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;v1743&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#v1743&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;发布日期：2025/5/9&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;优化：界面优化&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;v1.7.42&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1742&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;v1742&#34;&gt;v1.7.42&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;v1742&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#v1742&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;发布日期：2025/4/25&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;功能：设置中播放速度新增自定义&lt;/li&gt;
@@ -1172,37 +1171,37 @@
 &lt;li&gt;优化：主机版白边自动隐藏&lt;/li&gt;
 &lt;li&gt;修复：某些平台默认文件夹下载失败的问题&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;v1.7.41&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1741&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;v1741&#34;&gt;v1.7.41&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;v1741&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#v1741&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;发布日期：2025/3/31&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;功能：新增意大利语&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;v1.7.40&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1740&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;v1740&#34;&gt;v1.7.40&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;v1740&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#v1740&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;发布日期：2025/3/17&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;功能：支持游戏小组件&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;v1.7.39&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1739&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;v1739&#34;&gt;v1.7.39&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;v1739&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#v1739&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;发布日期：2025/3/11&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;高级功能：新网页随身播放版&lt;/li&gt;
 &lt;li&gt;功能：分享功能增强&lt;/li&gt;
 &lt;li&gt;优化：高级功能更详细的介绍&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;v1.7.38&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1738&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;v1738&#34;&gt;v1.7.38&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;v1738&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#v1738&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;发布日期：2025/3/3&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;优化：播放列表和播放器边框颜色调整&lt;/li&gt;
 &lt;li&gt;优化：Xbox 版体验和界面微调&lt;/li&gt;
 &lt;li&gt;修复：跳转其它页面菜单重新展开的问题&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;v1.7.37&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1737&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;v1737&#34;&gt;v1.7.37&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;v1737&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#v1737&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;发布日期：2025/2/22&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;优化：新 Logo 图标&lt;/li&gt;
 &lt;li&gt;优化：设置页面小调整&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;v1.7.36&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1736&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;v1736&#34;&gt;v1.7.36&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;v1736&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#v1736&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;发布日期：2025/1/7&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;功能：增加菜单位置修改&lt;/li&gt;
@@ -1212,7 +1211,7 @@
 &lt;li&gt;修复：部分加密播客无法打开的问题&lt;/li&gt;
 &lt;li&gt;修复：首页播客封面白边的问题&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;v1.7.35&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1735&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;v1735&#34;&gt;v1.7.35&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;v1735&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#v1735&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;发布日期：2024/12/24&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;功能：增加应用内语言修改&lt;/li&gt;
@@ -1226,19 +1225,19 @@
 &lt;li&gt;修复：侧边栏高亮错误的问题&lt;/li&gt;
 &lt;li&gt;修复：部分分辨率下单集结束崩溃的问题&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;v1.7.34&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1734&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;v1734&#34;&gt;v1.7.34&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;v1734&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#v1734&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;功能：支持以播客名存储下载文件夹&lt;/li&gt;
 &lt;li&gt;优化：界面展示&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;v1.7.33&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1733&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;v1733&#34;&gt;v1.7.33&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;v1733&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#v1733&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;更新时间：2024/9/9&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;优化：优化设置页面展示&lt;/li&gt;
 &lt;li&gt;功能：播客分类瀑布流读取&lt;/li&gt;
 &lt;li&gt;修复：部分无法开的列表的情况&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;v1.7.32&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;v1732&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;v1732&#34;&gt;v1.7.32&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;v1732&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#v1732&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;优化：支持不重启直接切换主题&lt;/li&gt;
 &lt;/ul&gt;

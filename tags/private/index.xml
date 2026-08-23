@@ -24,15 +24,15 @@
       <description>
         
         
-        &lt;h2&gt;Privacy Policy&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;privacy-policy&#34;&gt;&lt;/span&gt;
+        &lt;h2 data-hextra-search-id=&#34;privacy-policy&#34;&gt;Privacy Policy&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;privacy-policy&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#privacy-policy&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Effective Date&lt;/strong&gt;: April 9, 2025&lt;/p&gt;
 &lt;p&gt;This Privacy Policy describes how &lt;strong&gt;IPTV Fluent Player&lt;/strong&gt; (&amp;ldquo;we&amp;rdquo;, &amp;ldquo;our&amp;rdquo;, or &amp;ldquo;the App&amp;rdquo;) handles user data and respects your privacy.&lt;/p&gt;
-&lt;h2&gt;1. No Personal Data Collected&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;1-no-personal-data-collected&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;1-no-personal-data-collected&#34;&gt;1. No Personal Data Collected&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;1-no-personal-data-collected&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#1-no-personal-data-collected&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;IPTV Fluent Player does &lt;strong&gt;not collect, store, or share&lt;/strong&gt; any personally identifiable information (PII) about you.
 We do &lt;strong&gt;not&lt;/strong&gt; request access to your personal files, contacts, photos, location, or any other sensitive information.&lt;/p&gt;
-&lt;h2&gt;2. Internet Connectivity&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;2-internet-connectivity&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;2-internet-connectivity&#34;&gt;2. Internet Connectivity&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;2-internet-connectivity&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#2-internet-connectivity&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;The App uses your internet connection solely for the purpose of streaming media and downloading updates. No personal data is transmitted during this process.&lt;/p&gt;
-&lt;h2&gt;3. App Usage Analytics&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;3-app-usage-analytics&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;3-app-usage-analytics&#34;&gt;3. App Usage Analytics&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;3-app-usage-analytics&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#3-app-usage-analytics&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;To improve app stability and user experience, IPTV Fluent Player integrates anonymous telemetry tools, such as:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;App Analytics&lt;/strong&gt;&lt;/li&gt;
@@ -47,19 +47,21 @@ We do &lt;strong&gt;not&lt;/strong&gt; request access to your personal files, co
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;All analytics data collected is &lt;strong&gt;aggregated and anonymized&lt;/strong&gt;, and does &lt;strong&gt;not include any user-specific or device-identifiable information&lt;/strong&gt;.&lt;/p&gt;
-&lt;h2&gt;4. Third-Party Sharing&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;4-third-party-sharing&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;4-third-party-sharing&#34;&gt;4. Third-Party Sharing&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;4-third-party-sharing&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#4-third-party-sharing&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;We do &lt;strong&gt;not&lt;/strong&gt; share any data — personal or anonymous — with third-party advertisers or marketers. The only third-party services used (e.g., for crash analytics) are strictly for diagnostic and stability purposes.&lt;/p&gt;
-&lt;h2&gt;5. Data Security&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;5-data-security&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;5-data-security&#34;&gt;5. Data Security&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;5-data-security&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#5-data-security&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Since &lt;strong&gt;no personal data&lt;/strong&gt; is collected, stored, or transmitted, there is no risk of data leakage or misuse of your personal information through this App.&lt;/p&gt;
-&lt;h2&gt;6. Children&amp;rsquo;s Privacy&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;6-childrens-privacy&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;6-childrens-privacy&#34;&gt;6. Children&amp;rsquo;s Privacy&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;6-childrens-privacy&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#6-childrens-privacy&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;The App does &lt;strong&gt;not&lt;/strong&gt; knowingly collect information from children under the age of 13. If we discover that we have unintentionally gathered such information, we will take steps to delete it immediately.&lt;/p&gt;
-&lt;h2&gt;7. User Guide&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;7-user-guide&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;7-user-guide&#34;&gt;7. User Guide&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;7-user-guide&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#7-user-guide&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Need help using the app? We&amp;rsquo;ve created complete guides to help you get started:&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://app.linjimi.com/docs/iptvios/&#34; &gt;iOS and iPad OS Version&lt;/a&gt;&lt;/p&gt;
-&lt;h2&gt;8. Policy Updates&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;8-policy-updates&#34;&gt;&lt;/span&gt;
+&lt;p&gt;&lt;a
+    href=&#34;https://app.linjimi.com/docs/iptvios/&#34;&gt;iOS and iPad OS Version&lt;/a&gt;&lt;/p&gt;
+&lt;h2 data-hextra-search-id=&#34;8-policy-updates&#34;&gt;8. Policy Updates&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;8-policy-updates&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#8-policy-updates&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;We may update this Privacy Policy from time to time. Any changes will be posted within the App or on our official website. Your continued use of the App after changes are made constitutes your acceptance of the updated policy.&lt;/p&gt;
-&lt;h2&gt;9. Contact Us&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;9-contact-us&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#9-contact-us&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;If you have any questions or concerns about this Privacy Policy, feel free to contact us at: 📧 &lt;a href=&#34;mailto:jimmyrespawn@hotmail.com&#34; &gt;jimmyrespawn@hotmail.com&lt;/a&gt;&lt;/p&gt;
+&lt;h2 data-hextra-search-id=&#34;9-contact-us&#34;&gt;9. Contact Us&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;9-contact-us&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#9-contact-us&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;If you have any questions or concerns about this Privacy Policy, feel free to contact us at: 📧 &lt;a
+    href=&#34;mailto:jimmyrespawn@hotmail.com&#34;&gt;jimmyrespawn@hotmail.com&lt;/a&gt;&lt;/p&gt;
 
       </description>
     </item>
@@ -73,18 +75,18 @@ We do &lt;strong&gt;not&lt;/strong&gt; request access to your personal files, co
       <description>
         
         
-        &lt;h2&gt;Terms &amp;amp; Conditions&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;terms--conditions&#34;&gt;&lt;/span&gt;
+        &lt;h2 data-hextra-search-id=&#34;terms--conditions&#34;&gt;Terms &amp;amp; Conditions&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;terms--conditions&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#terms--conditions&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Effective Date&lt;/strong&gt;: April 8, 2025&lt;/p&gt;
 &lt;p&gt;Welcome to IPTV Fluent Player. By downloading, installing, or using this application (&amp;ldquo;App&amp;rdquo;), you agree to comply with and be bound by the following terms and conditions. Please read them carefully before using the App.&lt;/p&gt;
-&lt;h2&gt;1. Content Disclaimer&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;1-content-disclaimer&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;1-content-disclaimer&#34;&gt;1. Content Disclaimer&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;1-content-disclaimer&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#1-content-disclaimer&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;IPTV Fluent Player is a third-party media player designed to allow users to stream and manage their own media content. The App &lt;strong&gt;does not provide or include any media, content, or playlists.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Users are solely responsible for the content they load into the App. You may only use the App to access content that you are legally authorized to view. Streaming or downloading copyrighted material without proper authorization is strictly prohibited.&lt;/p&gt;
-&lt;h2&gt;2. Supported Formats&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;2-supported-formats&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;2-supported-formats&#34;&gt;2. Supported Formats&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;2-supported-formats&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#2-supported-formats&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;The App supports a wide variety of file formats and streaming protocols, including (but not limited to):
 mqv, pls, aifc, m4r, wav, 3gp, 3g2, flac, avi, m2a, aac, mpa, xhe, m3u, mov, aiff, ttml, vtt, m4v, amr, caf, m4a, m4b, mp4, mp1, m1a, mp2, w64, mp3, itt, au, eac3, webvtt, ac3, loas, and live IPTV streams.&lt;/p&gt;
-&lt;h2&gt;3. Ownership and Intellectual Property&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;3-ownership-and-intellectual-property&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;3-ownership-and-intellectual-property&#34;&gt;3. Ownership and Intellectual Property&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;3-ownership-and-intellectual-property&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#3-ownership-and-intellectual-property&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;The App and all related intellectual property — including but not limited to its code, design, and content — are owned by &lt;code&gt;Fan Jiana&lt;/code&gt;. You may not copy, modify, distribute, reverse-engineer, or reproduce any part of the App without explicit permission.&lt;/p&gt;
-&lt;h2&gt;4. Usage Requirements&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;4-usage-requirements&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;4-usage-requirements&#34;&gt;4. Usage Requirements&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;4-usage-requirements&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#4-usage-requirements&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;To use the App, you must:&lt;/p&gt;
 &lt;!-- - Be at least the age of majority in your jurisdiction. --&gt;
 &lt;ul&gt;
@@ -96,12 +98,12 @@ mqv, pls, aifc, m4r, wav, 3gp, 3g2, flac, avi, m2a, aac, mpa, xhe, m3u, mov, aif
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;You are responsible for maintaining the security of your device. Jailbreaking or rooting your device may compromise functionality and security, and is strongly discouraged.&lt;/p&gt;
-&lt;h2&gt;5. Internet and Data Usage&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;5-internet-and-data-usage&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;5-internet-and-data-usage&#34;&gt;5. Internet and Data Usage&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;5-internet-and-data-usage&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#5-internet-and-data-usage&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;The App requires an active internet connection for streaming and certain features. Whether connected via Wi-Fi or mobile data, users are responsible for any network charges incurred. Use of the App while roaming may lead to additional data charges, which are the user’s responsibility.&lt;/p&gt;
-&lt;h2&gt;6. Updates and Availability&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;6-updates-and-availability&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;6-updates-and-availability&#34;&gt;6. Updates and Availability&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;6-updates-and-availability&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#6-updates-and-availability&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Fan Jiana may release updates, patches, or enhancements to improve the App’s functionality or address security concerns. You agree to install all required updates to continue using the App.&lt;/p&gt;
 &lt;p&gt;We reserve the right to modify, suspend, or discontinue the App at any time without prior notice. In such cases, your license to use the App will be terminated, and you may be required to delete it from your device.&lt;/p&gt;
-&lt;h2&gt;7. Limitation of Liability&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;7-limitation-of-liability&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;7-limitation-of-liability&#34;&gt;7. Limitation of Liability&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;7-limitation-of-liability&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#7-limitation-of-liability&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;While we strive to provide a high-quality experience, IPTV Fluent Player is offered &amp;ldquo;as is.&amp;rdquo; We make no warranties regarding its functionality, reliability, or compatibility with all iOS devices.&lt;/p&gt;
 &lt;p&gt;Fan Jiana is not liable for:&lt;/p&gt;
 &lt;ul&gt;
@@ -115,12 +117,14 @@ mqv, pls, aifc, m4r, wav, 3gp, 3g2, flac, avi, m2a, aac, mpa, xhe, m3u, mov, aif
 &lt;p&gt;User misuse, including unauthorized access to copyrighted content.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;8. Privacy&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;8-privacy&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#8-privacy&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Use of the App may involve the storage and processing of personal data you provide. This data is handled in accordance with our &lt;a href=&#34;https://app.linjimi.com/blog/iptvappprivatepolicy/&#34; &gt;Privacy Policy&lt;/a&gt;.&lt;/p&gt;
-&lt;h2&gt;9. Contact Information&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;9-contact-information&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;8-privacy&#34;&gt;8. Privacy&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;8-privacy&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#8-privacy&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Use of the App may involve the storage and processing of personal data you provide. This data is handled in accordance with our &lt;a
+    href=&#34;https://app.linjimi.com/blog/iptvappprivatepolicy/&#34;&gt;Privacy Policy&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 data-hextra-search-id=&#34;9-contact-information&#34;&gt;9. Contact Information&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;9-contact-information&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#9-contact-information&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;For support or inquiries about these Terms, please contact:
-📧 &lt;a href=&#34;mailto:jimmyrespawn@hotmail.com&#34; &gt;jimmyrespawn@hotmail.com&lt;/a&gt;&lt;/p&gt;
-&lt;h2&gt;10. Changes to Terms&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;10-changes-to-terms&#34;&gt;&lt;/span&gt;
+📧 &lt;a
+    href=&#34;mailto:jimmyrespawn@hotmail.com&#34;&gt;jimmyrespawn@hotmail.com&lt;/a&gt;&lt;/p&gt;
+&lt;h2 data-hextra-search-id=&#34;10-changes-to-terms&#34;&gt;10. Changes to Terms&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;10-changes-to-terms&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#10-changes-to-terms&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;We may update these Terms &amp;amp; Conditions periodically. Any changes will be posted within the App or on our official website. Continued use of the App after changes are made constitutes acceptance of the revised terms.&lt;/p&gt;
 
       </description>
@@ -135,15 +139,15 @@ mqv, pls, aifc, m4r, wav, 3gp, 3g2, flac, avi, m2a, aac, mpa, xhe, m3u, mov, aif
       <description>
         
         
-        &lt;h2&gt;Privacy Policy&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;privacy-policy&#34;&gt;&lt;/span&gt;
+        &lt;h2 data-hextra-search-id=&#34;privacy-policy&#34;&gt;Privacy Policy&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;privacy-policy&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#privacy-policy&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Effective Date&lt;/strong&gt;: April 6, 2025&lt;/p&gt;
 &lt;p&gt;This Privacy Policy describes how &lt;strong&gt;IPTV Fluent Player&lt;/strong&gt; (&amp;ldquo;we&amp;rdquo;, &amp;ldquo;our&amp;rdquo;, or &amp;ldquo;the App&amp;rdquo;) handles user data and respects your privacy.&lt;/p&gt;
-&lt;h2&gt;1. No Personal Data Collected&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;1-no-personal-data-collected&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;1-no-personal-data-collected&#34;&gt;1. No Personal Data Collected&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;1-no-personal-data-collected&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#1-no-personal-data-collected&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;IPTV Fluent Player does &lt;strong&gt;not collect, store, or share&lt;/strong&gt; any personally identifiable information (PII) about you.
 We do &lt;strong&gt;not&lt;/strong&gt; request access to your personal files, contacts, photos, location, or any other sensitive information.&lt;/p&gt;
-&lt;h2&gt;2. Internet Connectivity&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;2-internet-connectivity&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;2-internet-connectivity&#34;&gt;2. Internet Connectivity&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;2-internet-connectivity&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#2-internet-connectivity&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;The App uses your internet connection solely for the purpose of streaming media and downloading updates. No personal data is transmitted during this process.&lt;/p&gt;
-&lt;h2&gt;3. App Usage Analytics&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;3-app-usage-analytics&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;3-app-usage-analytics&#34;&gt;3. App Usage Analytics&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;3-app-usage-analytics&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#3-app-usage-analytics&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;To improve app stability and user experience, IPTV Fluent Player integrates anonymous telemetry tools, such as:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Visual Studio App Center&lt;/strong&gt;&lt;/li&gt;
@@ -158,19 +162,21 @@ We do &lt;strong&gt;not&lt;/strong&gt; request access to your personal files, co
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;All analytics data collected is &lt;strong&gt;aggregated and anonymized&lt;/strong&gt;, and does &lt;strong&gt;not include any user-specific or device-identifiable information&lt;/strong&gt;.&lt;/p&gt;
-&lt;h2&gt;4. Third-Party Sharing&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;4-third-party-sharing&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;4-third-party-sharing&#34;&gt;4. Third-Party Sharing&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;4-third-party-sharing&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#4-third-party-sharing&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;We do &lt;strong&gt;not&lt;/strong&gt; share any data — personal or anonymous — with third-party advertisers or marketers. The only third-party services used (e.g., for crash analytics) are strictly for diagnostic and stability purposes.&lt;/p&gt;
-&lt;h2&gt;5. Data Security&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;5-data-security&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;5-data-security&#34;&gt;5. Data Security&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;5-data-security&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#5-data-security&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Since &lt;strong&gt;no personal data&lt;/strong&gt; is collected, stored, or transmitted, there is no risk of data leakage or misuse of your personal information through this App.&lt;/p&gt;
-&lt;h2&gt;6. Children&amp;rsquo;s Privacy&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;6-childrens-privacy&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;6-childrens-privacy&#34;&gt;6. Children&amp;rsquo;s Privacy&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;6-childrens-privacy&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#6-childrens-privacy&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;The App does &lt;strong&gt;not&lt;/strong&gt; knowingly collect information from children under the age of 13. If we discover that we have unintentionally gathered such information, we will take steps to delete it immediately.&lt;/p&gt;
-&lt;h2&gt;7. User Guide&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;7-user-guide&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;7-user-guide&#34;&gt;7. User Guide&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;7-user-guide&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#7-user-guide&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Need help using the app? We&amp;rsquo;ve created complete guides to help you get started:&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://app.linjimi.com/docs/iptv/&#34; &gt;Windows/Console Version&lt;/a&gt;&lt;/p&gt;
-&lt;h2&gt;8. Policy Updates&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;8-policy-updates&#34;&gt;&lt;/span&gt;
+&lt;p&gt;&lt;a
+    href=&#34;https://app.linjimi.com/docs/iptv/&#34;&gt;Windows/Console Version&lt;/a&gt;&lt;/p&gt;
+&lt;h2 data-hextra-search-id=&#34;8-policy-updates&#34;&gt;8. Policy Updates&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;8-policy-updates&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#8-policy-updates&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;We may update this Privacy Policy from time to time. Any changes will be posted within the App or on our official website. Your continued use of the App after changes are made constitutes your acceptance of the updated policy.&lt;/p&gt;
-&lt;h2&gt;9. Contact Us&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;9-contact-us&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#9-contact-us&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;If you have any questions or concerns about this Privacy Policy, feel free to contact us at: 📧 &lt;a href=&#34;mailto:jimmyrespawn@hotmail.com&#34; &gt;jimmyrespawn@hotmail.com&lt;/a&gt;&lt;/p&gt;
+&lt;h2 data-hextra-search-id=&#34;9-contact-us&#34;&gt;9. Contact Us&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;9-contact-us&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#9-contact-us&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;If you have any questions or concerns about this Privacy Policy, feel free to contact us at: 📧 &lt;a
+    href=&#34;mailto:jimmyrespawn@hotmail.com&#34;&gt;jimmyrespawn@hotmail.com&lt;/a&gt;&lt;/p&gt;
 
       </description>
     </item>
@@ -185,7 +191,7 @@ We do &lt;strong&gt;not&lt;/strong&gt; request access to your personal files, co
         
         
         &lt;p&gt;Jimmy Toolbox uses your internet connection to download and update the content. &lt;small&gt;It &lt;/small&gt;does not collect, use any personal information, store any personal data &amp;amp; share it to third party.&lt;/p&gt;
-&lt;h2&gt;Usage Telemetry&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;usage-telemetry&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;usage-telemetry&#34;&gt;Usage Telemetry&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;usage-telemetry&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#usage-telemetry&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;We use Visual Studio Application Insights to keep track of app usage, find bugs, and fix crashes. All information sent to server is anonymous and free of any user or contextual data.&lt;/p&gt;
 
       </description>
@@ -200,14 +206,14 @@ We do &lt;strong&gt;not&lt;/strong&gt; request access to your personal files, co
       <description>
         
         
-        &lt;h2&gt;Announcement&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;announcement&#34;&gt;&lt;/span&gt;
+        &lt;h2 data-hextra-search-id=&#34;announcement&#34;&gt;Announcement&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;announcement&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#announcement&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Link for Tesla will be on hold since the charge of the API calling. You&amp;rsquo;ll still be able to use basic version of Link for Tesla for free. The app will not be discoverable or updated until the charge has been lifted.&lt;/p&gt;
 &lt;p&gt;Best regards.&lt;/p&gt;
-&lt;h2&gt;Policy&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;policy&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;policy&#34;&gt;Policy&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;policy&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#policy&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Link for Tesla uses your internet connection to download and update the content. It does not collect, use any personal information &amp;amp; share it to third party.&lt;/p&gt;
-&lt;h2&gt;Usage Telemetry&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;usage-telemetry&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;usage-telemetry&#34;&gt;Usage Telemetry&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;usage-telemetry&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#usage-telemetry&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;We use Visual Studio Application Insights to keep track of app usage, find bugs, and fix crashes. All information sent to server is anonymous and free of any user or contextual data.&lt;/p&gt;
-&lt;h2&gt;API&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;api&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;api&#34;&gt;API&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;api&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#api&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;We respect your privacy. This app uses 3rd party api provided by the official Tesla fleet API.  All information of the account and car is stored locally including login token. If you think the token is compromised, please change the password immediately.&lt;/p&gt;
 
       </description>
@@ -269,7 +275,8 @@ change will be determined at our sole discretion.&lt;/p&gt;
 effective, you agree to be bound by the revised terms. If you do not agree to
 the new terms, please stop using the Service.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Contact Us&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;If you have any questions about these Terms, please &lt;a href=&#34;mailto:jimmyrespawn@hotmail.com&#34; &gt;contact us&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;If you have any questions about these Terms, please &lt;a
+    href=&#34;mailto:jimmyrespawn@hotmail.com&#34;&gt;contact us&lt;/a&gt;.&lt;/p&gt;
 
       </description>
     </item>
@@ -284,7 +291,7 @@ the new terms, please stop using the Service.&lt;/p&gt;
         
         
         &lt;p&gt;Sticky noter uses your internet connection to download and update the content. &lt;small&gt;It &lt;/small&gt;does not collect, use any personal information, store any personal data &amp;amp; share it to third party.&lt;/p&gt;
-&lt;h2&gt;Usage Telemetry&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;usage-telemetry&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;usage-telemetry&#34;&gt;Usage Telemetry&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;usage-telemetry&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#usage-telemetry&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;We use Visual Studio Application Insights to keep track of app usage, find
 bugs, and fix crashes. All information sent to server is anonymous and free of any user or contextual data.&lt;/p&gt;
 
@@ -347,7 +354,8 @@ change will be determined at our sole discretion.&lt;/p&gt;
 effective, you agree to be bound by the revised terms. If you do not agree to
 the new terms, please stop using the Service.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Contact Us&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;If you have any questions about these Terms, please &lt;a href=&#34;mailto:jimmyrespawn@hotmail.com&#34; &gt;contact us&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;If you have any questions about these Terms, please &lt;a
+    href=&#34;mailto:jimmyrespawn@hotmail.com&#34;&gt;contact us&lt;/a&gt;.&lt;/p&gt;
 
       </description>
     </item>
@@ -362,7 +370,7 @@ the new terms, please stop using the Service.&lt;/p&gt;
         
         
         &lt;p&gt;Download Manager Kit uses your internet connection to download and update the content. &lt;small&gt;It &lt;/small&gt;does not collect, use any personal information, store any personal data &amp;amp; share it to third party.&lt;/p&gt;
-&lt;h2&gt;Usage Telemetry&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;usage-telemetry&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;usage-telemetry&#34;&gt;Usage Telemetry&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;usage-telemetry&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#usage-telemetry&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;We use Visual Studio Application Insights to keep track of app usage, find bugs, and fix crashes. All information sent to server is anonymous and free of any user or contextual data.&lt;/p&gt;
 
       </description>
@@ -378,7 +386,7 @@ the new terms, please stop using the Service.&lt;/p&gt;
         
         
         &lt;p&gt;Game Calendar uses your internet connection to download and update the content. &lt;small&gt;It &lt;/small&gt;does not collect, use any personal information, store any personal data &amp;amp; share it to third party.&lt;/p&gt;
-&lt;h2&gt;Usage Telemetry&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;usage-telemetry&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;usage-telemetry&#34;&gt;Usage Telemetry&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;usage-telemetry&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#usage-telemetry&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;We use Visual Studio Application Insights to keep track of app usage, find bugs, and fix crashes. All information sent to server is anonymous and free of any user or contextual data.&lt;/p&gt;
 
       </description>
@@ -394,7 +402,7 @@ the new terms, please stop using the Service.&lt;/p&gt;
         
         
         &lt;p&gt;Musicloud uses your internet connection to download and update the content. &lt;small&gt;It &lt;/small&gt;does not collect, use any personal information, store any personal data &amp;amp; share it to third party.&lt;/p&gt;
-&lt;h2&gt;Usage Telemetry&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;usage-telemetry&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;usage-telemetry&#34;&gt;Usage Telemetry&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;usage-telemetry&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#usage-telemetry&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;We use Visual Studio Application Insights to keep track of app usage, find
 bugs, and fix crashes. All information sent to server is anonymous and free of any user or contextual data.&lt;/p&gt;
 
@@ -411,7 +419,7 @@ bugs, and fix crashes. All information sent to server is anonymous and free of a
         
         
         &lt;p&gt;Movier uses your internet connection to download and update the content. &lt;small&gt;It &lt;/small&gt;does not collect, use any personal information, store any personal data &amp;amp; share it to third party.&lt;/p&gt;
-&lt;h2&gt;Usage Telemetry&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;usage-telemetry&#34;&gt;&lt;/span&gt;
+&lt;h2 data-hextra-search-id=&#34;usage-telemetry&#34;&gt;Usage Telemetry&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;usage-telemetry&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#usage-telemetry&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;We use Visual Studio Application Insights to keep track of app usage, find
 bugs, and fix crashes. All information sent to server is anonymous and free of any user or contextual data.&lt;/p&gt;
 
@@ -428,13 +436,13 @@ bugs, and fix crashes. All information sent to server is anonymous and free of a
         
         
         &lt;p&gt;Step 1.Go to imdb.com, Select Your List.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://64.media.tumblr.com/1733cef9dc8ea5c17a96643557b92ac5/1691003914cb216f-9f/s500x750/aa6010b4ed1d61feecc93d6c99e324a140a8764e.png&#34; alt=&#34;image&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://64.media.tumblr.com/1733cef9dc8ea5c17a96643557b92ac5/1691003914cb216f-9f/s500x750/aa6010b4ed1d61feecc93d6c99e324a140a8764e.png&#34; alt=&#34;image&#34;  loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;Step 2.Choose the list you want to import into Movier&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://64.media.tumblr.com/2b983d2cdfe329c2e07bcab3be39ba35/tumblr_inline_oq1dtnupdB1rp4yqx_540.png&#34; alt=&#34;image&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://64.media.tumblr.com/2b983d2cdfe329c2e07bcab3be39ba35/tumblr_inline_oq1dtnupdB1rp4yqx_540.png&#34; alt=&#34;image&#34;  loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;Step 3.If you have a big list, you have to click the icon at the edgest on the view&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://64.media.tumblr.com/113ca1f447bf15008315515f11c1f7ab/1691003914cb216f-f5/s500x750/e938dc65cca61907d19be313b1fa7276449f3a4d.png&#34; alt=&#34;image&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://64.media.tumblr.com/113ca1f447bf15008315515f11c1f7ab/1691003914cb216f-f5/s500x750/e938dc65cca61907d19be313b1fa7276449f3a4d.png&#34; alt=&#34;image&#34;  loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;Step 4.Drag down to the bottom of the page and click ‘Export this list’ &lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://64.media.tumblr.com/c5d0de731fda6834385d61d8b36fb9b0/1691003914cb216f-4b/s500x750/20d9b29831c56610a8e7524483435f99cb626aa8.png&#34; alt=&#34;image&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://64.media.tumblr.com/c5d0de731fda6834385d61d8b36fb9b0/1691003914cb216f-4b/s500x750/20d9b29831c56610a8e7524483435f99cb626aa8.png&#34; alt=&#34;image&#34;  loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;Then the browser will start downloading your list which should be called xxxxx.csv. After doing this, you can simply click the Import IMDb list in the Movier App and follow the instructions. Hope you enjoy using the app.&lt;/p&gt;
 &lt;iframe width=&#34;540&#34; height=&#34;304&#34; id=&#34;youtube_iframe&#34; src=&#34;https://www.youtube.com/embed/0ICFR-z9-Gg?feature=oembed&amp;amp;enablejsapi=1&amp;amp;origin=https://safe.txmblr.com&amp;amp;wmode=opaque&#34; frameborder=&#34;0&#34; allowfullscreen=&#34;allowfullscreen&#34;&gt;&lt;/iframe&gt;
       </description>
